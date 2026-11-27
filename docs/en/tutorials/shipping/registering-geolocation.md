@@ -60,7 +60,7 @@ Done! Now just use this same ID in the freight spreadsheet, at the **PolygonNam
 
 > ⚠️ It is important to note that, if you use geolocation, therefore filling in the **PolygonName** column of the [shipping rate template](/en/docs/tutorials/shipping-rate-template), the carrier will not use the **ZipCodeStart** and **ZipCodeEnd** columns, which must be filled in with `0`.
 
-On the [Checkout tab](/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
+On the [Checkout tab](/en/docs/tutorials/geolocation-at-checkout) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 
 Please also enable all Google Cloud Platform APIs to ensure that the key works:
 
@@ -70,7 +70,7 @@ Please also enable all Google Cloud Platform APIs to ensure that the key works:
 
 ## How to edit a polygon
 
-If you need to change some delivery area of a polygon that already exists, you can edit the polygon as simply as you created it.
+If you need to change some delivery area of a polygon that already exists, you can edit the polygon as as you created it.
 
 1. In the VTEX Admin, go to **Store settings > Shipping > Geolocation shipping**, or type *Geolocation* in the search bar at the top of the page.    
 2. Click to **Edit** the desired polygon.

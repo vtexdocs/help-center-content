@@ -18,8 +18,8 @@ order: 3
 Este artículo explica cómo obtener acceso al entorno VTEX abarcando información desde la firma del contrato con VTEX hasta la configuración inicial de la tienda.
 Antes de empezar, es importante que te familiarices con los términos utilizados en el artículo, según se recogen en la siguiente tabla:
 
-| **Término** | **Definición** |
-| :---: | :--- |
+| Término | Definición |
+| --- | --- |
 | Admin VTEX / Entorno VTEX | Plataforma para gestionar la experiencia de ecommerce. |
 | Master Service Agreement | El conjunto de políticas que rigen el uso de los servicios de la plataforma de ecommerce VTEX de acuerdo con los términos del contrato firmado entre la parte contratante y la parte contratada. |
 | Anexo 1 - Order Form | Documento que complemente el **Master Services Agreement**. Se envía a la parte contratante para ser firmado digitalmente y contiene la información del acuerdo comercial y los datos jurídicos de la parte contratante y VTEX. |
@@ -74,7 +74,7 @@ Para definir las acciones que un usuario puede realizar en el Admin VTEX, sigue 
 
 Debes configurar el método de [autenticación](/es/docs/tutorials/autenticacion) que los clientes emplearán para iniciar sesión en la tienda y que los usuarios administrativos utilizarán para iniciar sesión en el Admin VTEX. Existen diversas formas de completar la autenticación en el entorno VTEX. Por ejemplo, los métodos de código de acceso y contraseña siempre están disponibles, mientras que la autenticación mediante Google es opcional.
 
-Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) y [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
+Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook) y [Google](/es/docs/tutorials/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
 
 ## Autenticación para integraciones y desarrollo de aplicaciones
 
@@ -82,8 +82,8 @@ La [autenticación](https://developers.vtex.com/docs/guides/authentication) es e
 
 La tabla a continuación detalla los tres tipos de autenticación disponibles:
 
-| **Tipo de autenticación** | **Descripción** |
-| :---: | :--- |
+| Tipo de autenticación | Descripción |
+| --- | --- |
 | Autenticación de requests a API mediante [claves de aplicación](/es/docs/tutorials/claves-de-api) (appKeys) | Las claves de aplicación (appKeys) se utilizan para autenticar requests a API de VTEX. Los administradores de la tienda pueden crear las claves para diferentes integraciones.Para más información, consulta [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 | Autenticación de requets a API mediante tokens de usuario | Los tokens de usuarios se utilizan para autenticar requests a API, especialmente en aplicaciones [frontend](/es/docs/tracks/implementacion-del-frontend) desarrolladas con VTEX IO.Para más información, consulta [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
 | Autenticación de aplicaciones mediante tokens de autenticación | El uso de tokens de autenticación (auth tokens) es necesario para la autenticación cuando se desarrollan aplicaciones en VTEX IO.Para más información, consulta [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |

@@ -41,8 +41,8 @@ Nesta seção você encontra as seguintes informações:
 
 ## Características dos dados  
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | **Origem do dado** | Os dados do conjunto de Pedidos, são originados do OMS (Order Management System). |
 | **Disponibilidade** | Os dados de Pedidos podem ser acessados através do relatório de Orders no Admin da VTEX e também por APIs de Orders. É importante ressaltar que os dados disponibilizados pela API podem não estar estruturados exatamente como neste conjunto de dados do Data Pipeline. |
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2022 para clientes que já utilizam a plataforma VTEX. |
@@ -52,8 +52,8 @@ Nesta seção você encontra as seguintes informações:
 
 A tabela `orders_latest` armazena o status mais recente de cada pedido, incluindo detalhes como data de atualização, ID do pedido e informações do cliente. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único do pedido. |
 | hostname | character varying(16383) | Nome do host relacionado ao pedido. |
 | value | double precision | Valor total do pedido. |
@@ -112,8 +112,8 @@ A tabela `orders_latest` armazena o status mais recente de cada pedido, incluind
 
 A tabela `orders_historical` armazena um registro completo de todas as atualizações dos pedidos. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido, normalmente utilizado como chave primária. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | value | double precision | Valor monetário total do pedido, possivelmente incluindo impostos, descontos e custos de envio. |
@@ -172,8 +172,8 @@ A tabela `orders_historical` armazena um registro completo de todas as atualiza�
 
 A tabela `orders_totals` fornece um resumo dos valores totais associados a cada pedido, incluindo valor total do pedido, descontos aplicados, e impostos. Veja a seguir os campos que compõem essa tabela.  
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. Comumente unido com a coluna `orderid` da tabela `vtex.orders_latest` para análises cruzadas. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -188,8 +188,8 @@ A tabela `orders_totals` fornece um resumo dos valores totais associados a cada 
 
 A tabela de `orders_shipping` detalha as informações de envio de pedidos, como endereço de entrega, custos de envio e prestadores de serviços logísticos. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. |
 | hostname | character varying(16383) | Nome do host associado ao pedido. Frequentemente unido com `hostname` da tabela `vtex.client_registry_gold`. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -221,8 +221,8 @@ A tabela de `orders_shipping` detalha as informações de envio de pedidos, como
 
 A tabela de `orders_sellers` armazena a lista dos vendedores envolvidos em cada pedido. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. Frequentemente unido com a coluna `orderid` da tabela `vtex.orders_historical` para análises cruzadas. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -239,8 +239,8 @@ A tabela de `orders_sellers` armazena a lista dos vendedores envolvidos em cada 
 
 A tabela de `orders_rateandbenefitsidentifiers` contém dados sobre promoções e benefícios aplicados aos pedidos. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -256,8 +256,8 @@ A tabela de `orders_rateandbenefitsidentifiers` contém dados sobre promoções 
 
 A tabela de `orders_payments` registra detalhes dos métodos de pagamento utilizados. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. Frequentemente unido com a coluna `orderid` da tabela `vtex.orders_latest`. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -286,8 +286,8 @@ A tabela de `orders_payments` registra detalhes dos métodos de pagamento utiliz
 
 A tabela de `orders_packages` armazena informações sobre a embalagem e expedição de produtos. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, indicando o servidor ou domínio que gerencia o pedido. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |
@@ -316,8 +316,8 @@ A tabela de `orders_packages` armazena informações sobre a embalagem e expedi�
 
 A tabela de `orders_items` armazena detalhes dos itens individuais em cada pedido, incluindo SKU, quantidade, preço e descontos. Veja a seguir os campos que compõem essa tabela.
 
-| **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+| Nome da Coluna | Tipo de Campo | Descrição |
+|---|---|---|
 | orderid | character varying(16383) | Identificador único para cada pedido. Comumente unido com a coluna `orderid` da tabela `vtex.orders_latest`. |
 | hostname | character varying(16383) | Nome do host associado ao pedido, frequentemente unido com colunas de outras tabelas como `vtex.client_registry_gold.hostname`. |
 | creationdate | timestamp with time zone | Data e hora de criação do pedido, incluindo o fuso horário. |

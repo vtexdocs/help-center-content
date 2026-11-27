@@ -37,8 +37,8 @@ O relatório `subscriptionsWithStatus` retorna dados de assinaturas com base no 
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
@@ -74,8 +74,8 @@ O relatório `subscriptionsScheduledBetweenDate` retorna dados de assinaturas pr
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
@@ -111,8 +111,8 @@ O relatório `subscriptionsUpdatedBetweenDate` retorna dados de assinaturas atua
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
@@ -148,8 +148,8 @@ O relatório `subscriptionsCreatedBetweenDate` retorna dados de assinaturas cria
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
@@ -185,8 +185,8 @@ O relatório `executionsBetweenDate` retorna dados de assinaturas executadas ent
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
-| **Nome do campo** | **Descrição** |
-| :---: | :--- |
+| Nome do campo | Descrição |
+| --- | --- |
 | Id | ID da assinatura. |
 | OrderGroup | ID do pedido gerado pela execução do relatório. |
 | E-mail | Email do cliente. |

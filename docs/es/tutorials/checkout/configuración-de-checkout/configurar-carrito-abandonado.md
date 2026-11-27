@@ -3,7 +3,7 @@ title: 'Configurar carrito abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-08-09T13:03:53.859Z
+updatedAt: 2026-10-01T18:48:35.000Z
 publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
@@ -71,13 +71,13 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 
 ### Liberación del SPF
 
-La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](https://help.vtex.com/es/docs/tutorials/configurar-spf).
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
 ![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuración-de-checkout/configurar-carrito-abandonado_4.PNG)
 
-Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/docs/tracks/go-live#realizar-el-apuntamiento-de-dns).
 
 ### Configurar trigger
 

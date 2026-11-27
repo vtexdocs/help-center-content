@@ -12,10 +12,10 @@ slugEN: 2020-06-30-vtex-intelligent-search-export-more-complex-search-results-re
 locale: en
 legacySlug: vtex-intelligent-search-export-more-complex-search-results-reports
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'To a more efficient search strategy, you simply need to export the information from the VTEX Intelligent Search Reports.'
+announcementSynopsisEN: 'To a more efficient search strategy, you need to export the information from the VTEX Intelligent Search Reports.'
 ---
 
-To help draw up a more efficient search strategy, you can now have a better overview of these results. You simply need to export the information given by the VTEX Intelligent Search Reports.  
+To help draw up a more efficient search strategy, you can now have a better overview of these results. You need to export the information given by the VTEX Intelligent Search Reports.  
 
 To export, you need to choose specific time frames and select a time frame during the last six months for the report. 
 
@@ -27,4 +27,4 @@ VTEX Intelligent Search is a free-of-charge functionality for stores that use VT
 
 If your store doesn't use VTEX IO, visit [our site to learn more about its benefits](https://developers.vtex.com/docs/guides/store-framework).
 
-If you already use VTEX Intelligent Search, simply access the Reports module to use this funtionality. Should you have any questions, access [our article on Reports](/en/docs/tutorials/intelligent-search-analytics).  
+If you already use VTEX Intelligent Search, access the Reports module to use this funtionality. Should you have any questions, access [our article on Reports](/en/docs/tutorials/intelligent-search-analytics).  

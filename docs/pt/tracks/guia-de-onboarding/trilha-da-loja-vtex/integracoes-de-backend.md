@@ -186,8 +186,8 @@ Na VTEX, é importante compreender a distinção entre Produtos e SKUs:
 
 A importação de produtos segue os passos na ordem da tabela abaixo:
 
-| **Ação** | **Descrição** | **Métodos** |
-| :--- | :--- | :--- |
+| Ação | Descrição | Métodos |
+| --- | --- | --- |
 | [1. Importar produtos](https://developers.vtex.com/docs/guides/products) | Registrar os produtos no catálogo. | <ul><li>Integração pela [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product)</li><li>Importação de planilhas ([método clássico](/pt/docs/tracks/cadastrar-produto#planilha) e [app google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tracks/cadastrar-produto).</li></ul>|
 | [2. Importar especificações dos produtos](https://developers.vtex.com/docs/guides/product-specifications) | Preencher as especificações dos produtos no catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#preencher-especificacoes-de-produto).</li></ul> |
 | [3. Adicionar os produtos à política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-polic) | Associar os produtos às devidas [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), definindo regras específicas (Preços, Pagamentos, estratégia de envio, etc.) de acordo com o canal de venda ou público. No mínimo, deve-se adicionar todos os produtos à política comercial principal. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Entrada manual no [Admin VTEX ao cadastrar um produto](/pt/docs/tracks/cadastrar-produto).</li></ul> |
@@ -229,9 +229,9 @@ Mais informações sobre importação para back-office de inventário no artigo 
 
 ### Dados de clientes
 
-A importação de dados de clientes permite integrar informações de clientes de outros sistemas, como aplicações de CRM (Customer Relationship Management), com a VTEX. Por padrão, a VTEX armazena os dados dos clientes no [Master Data V1](/pt/docs/tutorials/master-data). 
+A importação de dados de clientes permite integrar informações de clientes de outros sistemas, como aplicações de CRM (Customer Relationship Management), com a VTEX. Por padrão, a VTEX armazena os dados dos clientes no [Master Data V1](/pt/docs/tutorials/master-data-pt). 
 
-Os dados no Master Data são organizados em [entidades de dados](/pt/docs/tutorials/master-data#entidades-de-dados), que podem ser comparadas a tabelas em outros sistemas de bancos de dados, contendo [documentos](/pt/docs/tutorials/master-data#documentos) que se assemelham a linhas ou registros. Os dados de perfil dos clientes são armazenados na entidade `CL` e os endereços dos clientes na entidade `AD`.
+Os dados no Master Data são organizados em [entidades de dados](/pt/docs/tutorials/master-data-pt#entidades-de-dados), que podem ser comparadas a tabelas em outros sistemas de bancos de dados, contendo [documentos](/pt/docs/tutorials/master-data-pt#documentos) que se assemelham a linhas ou registros. Os dados de perfil dos clientes são armazenados na entidade `CL` e os endereços dos clientes na entidade `AD`.
 
 Os passos para realizar a importação de dados de clientes são:
 
@@ -294,8 +294,8 @@ Single Sign-On é um sistema que permite a autenticação de usuários na plataf
 
 O **VTEX ID** é o serviço responsável por identificar os usuários na plataforma. Este serviço opera de acordo com a audiência, as regras de negócios, e o tipo de persona que pode interagir com cada módulo VTEX. As audiências disponíveis são:
 
-| **Audiência** | **Contexto** | **Tecnologia** |
-| :---: | :--- | :--- |
+| Audiência | Contexto | Tecnologia |
+| --- | --- | --- |
 | [Admin VTEX](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identificação no painel administrativo VTEX, também conhecido como [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui), destinado a administradores e operadores da loja. | SAML 2.0 (Security Assertion Markup Language). |
 | [Webstore](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) | Identificação no storefront VTEX, destinado a clientes da loja. | OAuth 2.0 (Open Authorization). |
 
@@ -312,7 +312,7 @@ Os sistemas de [Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos
 Para adicionar pagamentos em uma loja VTEX, existem as seguintes opções:
 
 - **Provedor de pagamentos suportado nativamente:** caso a VTEX ofereça a integração com o provedor de pagamentos desejado, é necessário possuir um contrato com o provedor e configurar as opções de pagamento através do Admin VTEX. Veja os detalhes sobre configurações no artigo [Pagamentos](/pt/docs/tracks/modulos-da-vtex-ii#pagamentos) e os provedores de pagamentos suportados pela VTEX na [Lista de Provedores de Pagamentos por País](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
-- **Provedor de pagamentos personalizado:** Caso o provedor de pagamentos desejado não possua uma integração com a VTEX, é necessário criar uma integração de pagamento utilizando o [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol) contendo os [endpoints da API](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) para se conectar com o nosso [gateway de pagamentos](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos). O conector pode ser implementado por uma [agência parceira da VTEX](https://vtex.com/pt-br/parceiros/). Para que o provedor seja disponibilizado na VTEX, é necessário testar a integração criada e passar pelo [processo de homologação](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation). 
+- **Provedor de pagamentos personalizado:** Caso o provedor de pagamentos desejado não possua uma integração com a VTEX, é necessário criar uma integração de pagamento utilizando o [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol) contendo os [endpoints da API](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) para se conectar com o nosso [gateway de pagamentos](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#gateway). O conector pode ser implementado por uma [agência parceira da VTEX](https://vtex.com/pt-br/parceiros/). Para que o provedor seja disponibilizado na VTEX, é necessário testar a integração criada e passar pelo [processo de homologação](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation). 
 
 Mais informações sobre integrar um novo provedor de pagamentos no artigo [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).
 
@@ -331,7 +331,7 @@ O antifraude é um sistema especializado em analisar as compras realizadas nos s
 
 Para adicionar um sistema de antifraude aos pagamentos de uma loja VTEX, existem as seguintes opções:
 
-- **Sistema de antifraude suportado nativamente:** caso já exista uma integração com o sistema de antifraude desejado na VTEX, é necessário possuir um contrato com uma das empresas parceiras e fazer a configuração no Admin VTEX. Mais informações nos artigos [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude) e [O que é antifraude?](/pt/docs/tutorials/o-que-e-antifraude).
+- **Sistema de antifraude suportado nativamente:** caso já exista uma integração com o sistema de antifraude desejado na VTEX, é necessário possuir um contrato com uma das empresas parceiras e fazer a configuração no Admin VTEX. Mais informações nos artigos [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude) e [O que é antifraude?](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude).
 - **Sistema de antifraude personalizado:** caso o sistema de antifraude desejado não possua uma integração com a VTEX, é necessário implementar a própria integração de antifraude utilizando o [Antifraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works) contendo os endpoints da [Anti-fraud Provider API](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol).
 
 ## Extensões e apps

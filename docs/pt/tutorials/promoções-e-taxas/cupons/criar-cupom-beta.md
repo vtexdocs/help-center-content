@@ -13,6 +13,9 @@ slugEN: creating-a-coupon-beta
 legacySlug: criar-cupom-beta
 locale: pt
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
+seeAlso:
+  - /pt/docs/tutorials/cupons-beta
+  - /pt/docs/tutorials/lista-de-cupons-beta
 ---
 
 Um [cupom](/pt/docs/tutorials/cupons-beta) consiste em um código promocional, composto de uma sequência de letras e números. Você pode disponibilizar cupons para aplicar promoções sobre o valor do carrinho: ao informar o código de um cupom válido no momento da compra, os seus clientes podem obter descontos sobre o valor do pedido.
@@ -121,8 +124,3 @@ Ambos endpoints preenchem o campo `marketingData` do response body, não havendo
    - Se sua loja utiliza a v6 do Checkout, utilize `checkout6-custom.js checkout6-custom.css`.
 3. Depois da customização, você deverá solicitar a liberação da funcionalidade através de uma [abertura de chamado no Suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 4. Marque a opção <i class="fas fa-check-square"></i> **Permitir acumular promoções** nas [configurações das promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) associadas aos cupons para permitir que mais de uma promoção seja ativada pelos múltiplos cupons na mesma compra. Dessa forma, os descontos concedidos pelas diferentes promoções serão [acumulados](/pt/docs/tutorials/como-funciona-a-concorrencia-de-promocoes#acumular).
-
-#### Saiba mais
-
-* [Cupons](/pt/docs/tutorials/cupons-beta)
-* [Lista de Cupons](/pt/docs/tutorials/lista-de-cupons-beta)

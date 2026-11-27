@@ -48,7 +48,7 @@ Para empezar, debes registrar una aplicación en Facebook siguiendo los pasos a 
 
 El siguiente paso es configurar el producto de inicio de sesión con Facebook en la aplicación que creaste siguiendo las instrucciones a continuación:
 
-1. Haz clic en **Productos** en el menú lateral o en el **panel **de Meta for Developers, resaltado en la imagen siguiente.
+1. Haz clic en **Productos** en el menú lateral o en el **panel** de Meta for Developers, resaltado en la imagen siguiente.
 
    ![4-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook_4.png)
 

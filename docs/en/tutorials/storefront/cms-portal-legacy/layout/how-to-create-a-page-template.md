@@ -33,7 +33,7 @@ Check out the walk-through:
 
 1. In the VTEX Admin, access **Storefront > Layout**.
 2. Click on the **CMS** folder.
-3. Click on __HTML Templates __.
+3. Click on __HTML Templates__.
 4. Just below, click on __New template__.
 5. Fill in the __Template Name__ field.
 > ❗ When filling in the **Template Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> <li>`app`</li> </ul>

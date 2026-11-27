@@ -21,11 +21,12 @@ Este artigo resume as principais funcionalidades do **B2B Buyer Portal** e direc
   - [Membros e perfis](#membros-e-perfis)
 - [Finanças e compliance](#financas-e-compliance)
   - [Budgets](#budgets)
-  - [Buying Policies](#buying-policies)
+  - [Políticas de compras](#politicas-de-compras)
   - [Campos contábeis](#campos-contabeis)
 - [Endereços e gestão de pagamentos](#enderecos-e-gestao-de-pagamentos)
 - [Conta da organização](#conta-da-organizacao)
 - [Punchout](#punchout)
+- [Pedido rápido com IA](#pedido-rapido-com-ia)
 
 ## Contratos
 
@@ -84,9 +85,9 @@ Durante o checkout, o sistema verifica automaticamente as alocações aplicávei
 
 > ℹ️ Saiba mais sobre configurações em [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets).
 
-### Buying Policies
+### Políticas de compras
 
-As [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) são regras de autorização que determinam se os pedidos são automaticamente aprovados, negados ou enviados para revisão manual. As organizações podem configurar:
+As [Políticas de compras](https://help.vtex.com/pt/docs/tutorials/politicas-de-compras) são regras de autorização que determinam se os pedidos são automaticamente aprovados, negados ou enviados para revisão manual. As organizações podem configurar:
 
 - **Limites de gastos:** pedidos acima, abaixo ou iguais a determinados valores podem acionar diferentes requisitos de aprovação.
 - **Fluxos de aprovação:** até cinco níveis hierárquicos de aprovação, onde a aprovação final requer a autorização de todos os níveis.
@@ -94,7 +95,7 @@ As [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) s�
 
 Essa camada de governança garante que a atividade de compras esteja em conformidade com as políticas internas antes que os pedidos sejam realizados.
 
-> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar Buying Policies](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-buying-policies).
+> ℹ️ Saiba mais sobre configurações em [Adicionar ou editar Políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-politicas-de-compras).
 
 ### Campos contábeis
 
@@ -118,7 +119,7 @@ A [Conta da organização](https://help.vtex.com/pt/docs/tutorials/conta-da-orga
 
 - Visualizar e atualizar detalhes do contrato (perfil, endereços, métodos de pagamento, sortimento de produtos).
 - Gerenciar usuários, perfis e unidades organizacionais.
-- Configurar budgets, buying policies e campos contábeis.
+- Configurar orçamentos, políticas de compras e campos contábeis.
 
 Essa interface centralizada permite que as organizações compradoras gerenciem suas operações de forma autônoma, sem depender do lojista para tarefas administrativas rotineiras.
 
@@ -129,6 +130,10 @@ O Punchout permite a integração com sistemas externos de procurement, possibil
 Essa funcionalidade atende organizações que utilizam software de procurement centralizado e precisam que as vitrines de seus fornecedores estejam integradas aos fluxos de compra existentes.
 
 > ℹ️ Essa funcionalidade é suportada exclusivamente pela [Punchout API](https://developers.vtex.com/docs/api-reference/punchout-api#overview). Saiba mais com o [Guia de integração de punchout](https://developers.vtex.com/docs/guides/punchout).
+
+## Pedido rápido com IA
+
+Compradores podem criar um carrinho rapidamente enviando um arquivo com os itens. Após o envio, o **Agente de entrada de pedidos** monta o pedido e o comprador pode finalizar a compra em seguida. Essa funcionalidade está disponível apenas para contas selecionadas entre as lojas que usam o B2B Buyer Portal. Saiba mais em [Pedido rápido com IA](https://help.vtex.com/pt/docs/tutorials/pedido-rapido-com-ia).
 
 ## Saiba mais
 

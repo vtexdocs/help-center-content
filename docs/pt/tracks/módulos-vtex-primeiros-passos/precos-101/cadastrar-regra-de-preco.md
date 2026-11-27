@@ -44,7 +44,7 @@ Para cadastrar uma **regra de preço**, você precisa enviar um __POST__ para o 
 
 - O objeto do request tem as seguintes propriedades:
 
-| __Propriedades__ | __Tipos__ | __Descrição__ |
+| Propriedades | Tipos | Descrição |
 |------------------|-----------|-------------|
 | tradePolicyId | string | ID da tabela de preço na qual a regra será aplicada |
 | rules | array | Critérios da regra de preço |
@@ -62,7 +62,7 @@ Para cadastrar uma **regra de preço**, você precisa enviar um __POST__ para o 
 
 - O objeto de response tem as seguintes propriedades: 
 
-| __Propriedades__ | __Tipos__ | __Descrição__ |
+| Propriedades | Tipos | Descrição |
 |------------------|-----------|-------------|
 | tradePolicyId | string | Id da tabela de preço na qual a regra será aplicada |
 | rules | array | Array com os objetos das regras de preço a serem aplicadas à tabela de preços |

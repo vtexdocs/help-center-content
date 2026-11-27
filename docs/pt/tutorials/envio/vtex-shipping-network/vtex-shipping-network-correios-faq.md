@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, envie um email para *suporte.shipping@lojaintegrada.com.br*.
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
-
-Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
+Este artigo reúne as dúvidas mais comuns sobre o VTEX Shipping Network Correios, a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
 
 ## 1. O que é o VTEX Shipping Network Correios?
 
-[VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) é a solução que permite você contratar e habilitar os serviços PAC e SEDEX dos Correios diretamente pela plataforma VTEX, de forma _Plug and Play_, ou seja, com poucos passos você integra a sua operação e começa a usar o produto. 
+VTEX Shipping Network Correios é a solução que permite você contratar e habilitar os serviços PAC e SEDEX dos Correios diretamente pela plataforma VTEX, de forma _Plug and Play_, ou seja, com poucos passos você integra a sua operação e começa a usar o produto. 
 
 Para as lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de forma a reduzir os custos logísticos do seu negócio. Não existe a necessidade de investimento inicial, uso mínimo da solução ou pré-requisitos.
 
@@ -31,12 +29,12 @@ Para as lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de
 
 O **VTEX Shipping Network Correios** integra exclusivamente com os serviços PAC e SEDEX dos Correios e você pode contratar a solução pelo seu Admin VTEX. Saiba mais em [Como contratar o VTEX Shipping Network Correios?](#7-como-contratar-o-vtex-shipping-network-correios).
 
-O **VTEX Shipping Network** permite integrar a sua operação com os Correios e com outras transportadoras, sugeridas a partir de uma seleção da nossa equipe para o seu modelo de negócio. O **VTEX Shipping Network** precisa ser implantado pela nossa equipe e, para contratá-la, é necessário entrar em contato pelo [site de vendas](https://vtex.com/br-pt/shipping-network/).
+O **VTEX Shipping Network** permite integrar a sua operação com os Correios e com outras transportadoras, sugeridas a partir de uma seleção da nossa equipe para o seu modelo de negócio. O **VTEX Shipping Network** precisa ser implantado pela nossa equipe e, para contratá-la, é necessário entrar em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
 
 Ou seja, as soluções possuem escopos diferentes, apesar de disponibilizarem as mesmas funcionalidades, descritas abaixo:
 
-| **Funcionalidade** | **Descrição** |
-| :----------: | :---------- |
+| Funcionalidade | Descrição |
+| ---------- | ---------- |
 | [Pronto para envio](/pt/docs/tutorials/pronto-para-envio) | Imprima etiquetas de envio padronizadas e notifique automaticamente a transportadora responsável pelo envio de um pedido.Você pode emitir as etiquetas [pelo Admin VTEX](/pt/docs/tutorials/pronto-para-envio) ou [por API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration).Saiba mais em [Como posso emitir etiquetas de envio](#9-como-posso-emitir-etiquetas-de-envio). |
 | [Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network) | Acompanhe pelo Admin VTEX as informações e os detalhes do envio quando utilizar serviços dos Correios.Além disso, a solução permite solicitar um *Pedido de Informação* aos Correios diretamente pelo Admin VTEX.Isso é útil em várias situações, tais como: <ul><li>Pagamento não realizado</li><li>Objeto entregue indevidamente</li><li>Correspondência violada</li></ul>Saiba mais em [Como solicitar um Pedido de Informação aos Correios pelo Admin VTEX](#14-como-solicitar-um-pedido-de-informacao-aos-correios-pelo-admin-vtex). |
 | [Painel VTEX Shipping Network](/pt/docs/tutorials/painel-vtex-shipping-network) | Disponha de painéis, dashboards e dados estratégicos sobre a sua operação logística.Algumas das informações disponíveis são:<ul><li>Custo de frete pago às transportadoras.</li><li>Receita obtida com a cobrança de frete dos consumidores.</li><li>Análise de resultados de integrações.</li></ul>Saiba mais em [Como acompanhar o desempenho das transportadoras integradas à loja](#12-como-acompanhar-o-desempenho-das-transportadoras-integradas-a-loja). |
@@ -64,8 +62,8 @@ Não existem requisitos para uma loja VTEX utilizar o **VTEX Shipping Network Co
 
 Veja na tabela abaixo os detalhes sobre o modelo de cobrança:
 
-| **Aspecto** | **Comportamento da solução** |
-| :----------: | :---------- |
+| Aspecto | Comportamento da solução |
+| ---------- | ---------- |
 | Custo mediante uso | A contratação do **VTEX Shipping Network Correios** é isenta de custos, a cobrança é feita somente quando a entrega de um pedido envolve uma [política de envio](/pt/docs/tutorials/politica-de-envio) associada à tabela dos Correios.  |
 | Não existe fidelidade | Não existe fidelização de uso do **VTEX Shipping Network Correios**. Além disso, você pode a qualquer momento ativar ou desativar as políticas de envio associadas aos Correios, sendo que não existe cobrança quando o serviço não é utilizado.  |
 | Não existe uso mínimo | Não existe a obrigatoriedade de você utilizar o serviço e só existem custos quando você faz uso da tabela dos Correios que foi contratada. |

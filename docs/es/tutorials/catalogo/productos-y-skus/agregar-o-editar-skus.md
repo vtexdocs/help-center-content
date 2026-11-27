@@ -85,8 +85,8 @@ Al hacer clic en `Agregar` en el campo **Imágenes**, se muestran dos opciones p
 
 La siguiente tabla presenta los límites y formatos aceptados para las imágenes:
 
-| **Límites y formatos** | **Valores aceptados** |
-| :--- | :--- |
+| Límites y formatos | Valores aceptados |
+| --- | --- |
 | Tamaño máximo en píxeles | 5000 x 5000 píxeles |
 | Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |
@@ -188,7 +188,7 @@ Esta sección incluye campos relacionados con las estrategias de venta de la tie
 
 ## Personalizaciones
 
-Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/docs/tutorials/que-es-un-anexo) o [servicios](/es/tutorial/o-que-e-um-servico).
+Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/docs/tutorials/que-es-un-anexo) o [servicios](/es/docs/tutorials/que-es-un-servicio).
 
 Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes:
 

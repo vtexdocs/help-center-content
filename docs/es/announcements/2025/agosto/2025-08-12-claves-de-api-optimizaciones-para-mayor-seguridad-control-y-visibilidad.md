@@ -51,7 +51,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_3.png" alt="renew-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_3.png" alt="renew-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_4.png" alt="renew-highly-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_4.png" alt="renew-highly-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_5.png" alt="pending-deletion-alert-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_5.png" alt="pending-deletion-alert-es" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_6.png" alt="delete-pending-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_6.png" alt="delete-pending-es" style="display:block;max-width:100%;height:auto;margin:auto;" />
     </td>
   </tr>
   <tr>

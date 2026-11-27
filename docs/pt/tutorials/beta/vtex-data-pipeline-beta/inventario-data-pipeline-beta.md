@@ -27,8 +27,8 @@ Nesta seção você encontra as seguintes informações:
 
 ## Características dos dados de inventário
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | **Origem do dado** | Alimentado por informações do **módulo de logística**. |
 | **Disponibilidade** | Admin da VTEX. |
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |
@@ -38,7 +38,7 @@ Nesta seção você encontra as seguintes informações:
 
 Conheça a seguir os campos que constituem a tabela:  
 
-| **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
+| Nome da Coluna | Tipo da Coluna | Descrição da Coluna |
 |---------|------------|----------|
 | main_account | character varying(200) | Nome da conta principal do lojista. Identifica a conta VTEX de nível mais alto à qual a loja/entidade pertence. |
 | account_name | character varying(200) | Nome da conta à qual o estoque pertence. Junto com `warehouse_id` e `item_id`, identifica unicamente um registro de inventário. |
@@ -57,7 +57,7 @@ Conheça a seguir os campos que constituem a tabela:
 
 Conheça a seguir os campos que constituem a tabela:
 
-| **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
+| Nome da Coluna | Tipo da Coluna | Descrição da Coluna |
 |---------|------------|----------|
 | warehouse_id | character varying(100) | Identificador do depósito. |
 | warehouse_name | character varying(200) | Nome do depósito conforme a definição do Admin Console. |

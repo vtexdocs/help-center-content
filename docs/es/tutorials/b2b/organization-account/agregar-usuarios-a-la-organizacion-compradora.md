@@ -1,7 +1,7 @@
 ---
 title: 'Agregar usuarios a la organización compradora'
 createdAt: '2026-03-05T10:00:00.000Z'
-updatedAt: '2026-04-13T10:00:00.000Z'
+updatedAt: '2026-09-21T00:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-users-to-buyer-organizations
@@ -25,7 +25,6 @@ La siguiente tabla resume los principales roles y sus funciones:
 | **Buyer** | Puede realizar pedidos en la tienda. |
 | **Order Approver** | Puede aprobar o rechazar pedidos de acuerdo con los flujos de aprobación configurados. |
 | **Order Modifier** | Puede utilizar la funcionalidad de modificación de pedido en los pedidos a los cuales tiene acceso. |
-| **Address Manager** | Puede agregar y gestionar direcciones durante el checkout y ver direcciones guardadas. |
 | **Buyer Organization Manager** | Puede visualizar todos los pedidos de su unidad organizativa. |
 | **Contract Manager** | Puede ver pedidos realizados bajo el contrato que le ha sido asignado. |
 | **User Manager** | Puede gestionar usuarios y ver detalles de usuarios dentro de la organización. |
@@ -34,6 +33,8 @@ La siguiente tabla resume los principales roles y sus funciones:
 | **Accounting Field Manager** | Puede crear, editar y eliminar campos contables, y ver configuraciones de campos contables. |
 | **Credit Card Manager** | Puede gestionar y ver tarjetas de crédito guardadas. |
 | **Personal Cards User** | Puede usar una nueva tarjeta de crédito en el checkout que no se guarda en el contrato de forma predeterminada. |
+
+> ℹ️ El rol **Address Manager** fue eliminado el 21 de septiembre de 2026. La gestión de direcciones de clientes B2B ahora solo está disponible mediante un rol personalizado con los mismos recursos. Las cuentas que ya usaban este rol no necesitan hacer nada, ya que el acceso se mantuvo automáticamente. Las cuentas nuevas que necesiten este permiso deben crear su propio rol personalizado.
 
 > ℹ️ Obtén más información sobre los roles del storefront y los recursos en la guía para desarrolladores [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
@@ -49,7 +50,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
 
 2. En el menú superior, haz clic en **Empresa**. Se mostrará el panel de la organización.
 
-   ![agregar-usuarios-a-la-organizacion-compradora_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_1.png)
+   ![agregar-usuarios-a-la-organizacion-compradora_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_1.png)
 
 3. Haz clic en **Gestionar.**
 
@@ -59,7 +60,7 @@ Sigue las instrucciones a continuación para agregar un usuario:
       o
    2. Haciendo clic en **Usuarios** y luego en el botón **\+**.
 
-   ![agregar-usuarios-a-la-organizacion-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_2.png)
+   ![agregar-usuarios-a-la-organizacion-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organization-account/agregar-usuarios-a-la-organizacion-compradora_2.png)
 
 5. Completa la información del nuevo usuario:
 

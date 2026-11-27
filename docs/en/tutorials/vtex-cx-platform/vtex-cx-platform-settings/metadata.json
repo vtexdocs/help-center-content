@@ -1,6 +1,6 @@
 {
   "id": "vtex-cx-platform-settings",
-  "name": "VTEX CX Platform Settings",
+  "name": "Settings",
   "slug": "vtex-cx-platform-settings-subcategory",
-  "order": 10
+  "order": 6
 }

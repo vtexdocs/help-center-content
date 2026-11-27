@@ -47,7 +47,7 @@ In the VTEX Admin, under **Catalog > Categories**, you'll find the page for mana
 
 In the beta phase, we'll use a new name for the following terms:
 
-| **Current name** | **Beta name** |
+| Current name | Beta name |
 | --- | --- |
 | [Product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) | Attributes |
 | [SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) | Variations |
@@ -273,8 +273,8 @@ Once this is done, the confirmation message "*Attribute updated successfully*" w
 
 Both the attribute and its values can have two possible statuses, as shown in the table below:
 
-| **Status** | **Attribute** | **Attribute value** | **Icon color** |
-| :---: | :--- | :--- | :---: |
+| Status | Attribute | Attribute value | Icon color |
+| --- | --- | --- | --- |
 | Active | The attribute can be reflected on the storefront, displaying only the activated values. | The attribute value can be reflected on the storefront if the attribute itself is active. | 🟢 Green |
 | Inactive | The attribute isn't reflected on the storefront, regardless of the value status. | The attribute value isn't reflected on the storefront, regardless of whether the attribute is active. | ⚪ White |
 
@@ -349,8 +349,8 @@ Once this is done, the confirmation message "*Updated attribute successfully*" w
 
 Both the variation and its values can have two possible statuses, as shown in the table below:
 
-| **Status** | **Variation** | **Variation value** | **Icon color** |
-| :---: | :--- | :--- | :---: |
+| Status | Variation | Variation value | Icon color |
+| --- | --- | --- | --- |
 | Active | The variation is reflected on the storefront and only displays the activated values. | The variation value can be reflected on the storefront if the variation itself is active. | 🟢 Green |
 | Inactive | The variation isn't reflected on the storefront, regardless of the value status. | The value of the variation isn't reflected on the storefront, regardless of whether the variation is active. | ⚪ White |
 

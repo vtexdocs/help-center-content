@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.'
 ---
 
-You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/en/tutorial/what-are-franchise-account-and-seller-white-label) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
+You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/en/docs/tutorials/white-label-seller) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
 
 ## Main benefits
 
@@ -27,7 +27,7 @@ You can now easily sell products from your entire network of physical stores in 
 
 The only necessary setting is the integration of the main account with the external marketplace. Once this is done, the inventories of all franchise accounts linked to the main one will also be sent to the marketplace. This is a new franchise account feature, which is active and ready to make your life easier whenever you need to integrate your operation with marketplaces.
 
-> ⚠️ ** For now, automatic integration of the franchise accounts inventory is only available when the marketplace is not a VTEX one**.
+> ⚠️ For now, automatic integration of the franchise accounts inventory is only available when the marketplace is not a VTEX one.
 
 ## What has changed
 
@@ -39,4 +39,4 @@ The Multilevel Omnichannel Inventory brought a new ally for omnichannel operatio
 
 To learn more about Multilevel Omnichannel Inventory and changes to the Checkout APIs, visit [this Help article](/en/docs/tutorials/multilevel-omnichannel-inventory).
 
-> ❗ <body> <li>The Recursive Marketplace is now called **Multilevel Omnichannel Inventory.**</li> <li> The feature does not allow you to [change seller.](/en/docs/tutorials/change-seller)</li> <li>This solution is aimed at integrating with external marketplaces, not those that are [natively integrated with VTEX.](/en/docs/tutorials/marketplace-strategies-at-vtex).</li> <li>Learn more about usage restrictions in the article [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory) e confira as restrições de uso detalhadamente.</li> </body>
+> ❗ <ul> <li>The Recursive Marketplace is now called **Multilevel Omnichannel Inventory.**</li> <li> The feature does not allow you to [change seller.](/en/docs/tutorials/change-seller)</li> <li>This solution is aimed at integrating with external marketplaces, not those that are [natively integrated with VTEX.](/en/docs/tutorials/marketplace-strategies-at-vtex).</li> <li>Learn more about usage restrictions in the article [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory) e confira as restrições de uso detalhadamente.</li> </ul>

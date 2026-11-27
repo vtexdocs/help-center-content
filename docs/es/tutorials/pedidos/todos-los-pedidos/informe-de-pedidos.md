@@ -48,7 +48,7 @@ Las columnas corresponden a información específica sobre el pedido, conforme s
 *   **Estimate Delivery Date**: es el plazo de entrega.
 *   **Delivery Deadline**: es el tiempo total de entrega del pedido en días hábiles (5bd = 5 business days o días hábiles).
 *   **Status**: es el _status_ del pedido en el momento de exportación la plantilla.
-*   **Last Change Date**: es la fecha y hora de la última alteración en el _status _del pedido. 
+*   **Last Change Date**: es la fecha y hora de la última alteración en el _status_ del pedido. 
 *   **UtmMedium**: es el utm_medium del pedido, si lo hay.
 *   **UtmSource**: es el utm_source del pedido, si lo hay.
 *   **UtmCampaign**: es el utm_campaign del pedido, si lo hay.
@@ -80,7 +80,7 @@ Las columnas corresponden a información específica sobre el pedido, conforme s
 *   **Host**: es el _host_, configurado en el License Manager, que recibió el pedido.
 *   **GiftRegistry ID**: es el ID de la tarjeta de regalos del pedido, si la hay. 
 *   **Seller Name**: es el nombre del _seller_ del pedido.
-*   **Status TimeLine**: es la línea de tiempo de los _status _del pedido, desde su creación y hasta el momento de exportación de la plantilla. 
+*   **Status TimeLine**: es la línea de tiempo de los _status_ del pedido, desde su creación y hasta el momento de exportación de la plantilla. 
 *   **Obs**: es la observación que el cliente incluye en el pedido, si la hay.
 *   **UtmiPart**: es la UTM utmi_pc, para el rastreo interno del tráfico en el sitio web. Por ejemplo, para rastrear el origen de un clic específico en un _banner_ de la propia tienda.
 *   **UtmiCampaign**: es la UTM utmi_cp, para el rastreo interno del tráfico en el sitio web. Por ejemplo, para rastrear el origen de un clic específico en un _banner_ de la propia tienda.

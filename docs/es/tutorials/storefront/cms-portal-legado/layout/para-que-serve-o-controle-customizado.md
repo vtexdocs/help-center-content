@@ -37,7 +37,7 @@ Para crear una tag de control personalizado, basta hacer clic en __Add__, regist
 
 ![cms-custom-elements EN / ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/cms-portal-legado/layout/para-que-serve-o-controle-customizado_1.png)
 
-> ⚠️ **Atención:** no cree un control del tipo HTML con un elemento `title`. Esto puede interferir con el buen funcionamiento de su tienda.
+> ⚠️ No cree un control del tipo HTML con un elemento `title`. Esto puede interferir con el buen funcionamiento de su tienda.
 
 ## Aplicando un control personalizado a un template de página
 

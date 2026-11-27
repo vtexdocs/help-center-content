@@ -1,0 +1,44 @@
+---
+title: 'Sponsor user'
+id: 3oPr7YuIkEYqUGmEqIMSEy
+status: PUBLISHED
+createdAt: 2019-01-24T20:45:43.693Z
+updatedAt: 2022-10-25T15:05:55.777Z
+publishedAt: 2022-10-25T15:05:55.777Z
+firstPublishedAt: 2019-01-24T22:00:34.038Z
+contentType: tutorial
+productTeam: Identity
+author: 56yU9Wz6mLwmzo82TjgAHy
+slugEN: what-is-the-sponsor-user
+legacySlug: what-is-the-master-user
+locale: en
+subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
+---
+
+Each VTEX account has a single Sponsor user – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions.
+
+> ⚠️ The Sponsor user is not the same as the **Owner (Admin Super)**. The **Owner (Admin Super)** is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
+
+The Sponsor management page allows you to identify the current Sponsor user, transfer store ownership and view the activity log associated with Sponsor user actions. To access this page, navigate to **Account settings** > **Account management** > **Account**, scroll down to the Contact section and click `Sponsor management`.
+
+## Actions restricted to the Sponsor user
+
+Only the Sponsor user can perform these critical maintenance and authorization actions:
+
+* [Transfer store ownership](/en/docs/tutorials/transferring-store-ownership) to a new Sponsor user
+* [Database Maintenance (Full Cleanup)](/en/docs/tutorials/database-maintenance-full-cleanup) operations, including:
+    * Re-register prices in SmartCheckout
+    * Delete Indexer Products
+    * Delete Products/SKUs and related items
+    * Delete Categories, Brands, Fields, and related items
+    * Delete Sellers and related items
+    * Schedule full reindexing
+* Authenticating your account in our native connectors, including:
+    * [Facebook](/en/docs/tracks/configuring-the-connector-facebook)
+    * [Google Shopping](/en/docs/tracks/authenticating-your-google-shopping-account)
+    * [Mercado Libre](/en/docs/tutorials/authorizing-mercado-livre-integration-in-vtex-panel)
+* [Approve order cancellation requests](/en/docs/tutorials/order-cancellation-requested-by-the-customer)
+
+In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
+
+> ℹ️ The creation of [authentication credentials](/en/docs/tutorials/api-keys) (appKey/appToken) for API integrations is no longer restricted to the Sponsor user. See this [announcement](/en/docs/tutorials/2021-11-08-changes-in-the-name-and-restricted-actions-available-to-the-master-user) for more details about this change.

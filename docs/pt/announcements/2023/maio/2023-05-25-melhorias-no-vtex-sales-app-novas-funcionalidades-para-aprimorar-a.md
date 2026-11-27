@@ -23,14 +23,14 @@ Com o objetivo de aprimorar a experiência de compra do cliente nas lojas físic
 
 * **HTML na descrição do produto:** permite que a descrição de um produto contenha HTML, proporcionando uma maneira mais flexível e dinâmica de apresentar as informações.
 * **Venda de estoque local:** permite que o vendedor finalize uma compra usando apenas o aplicativo do VTEX Sales App, sem a necessidade de passar pelo checkout. Além disso, o VTEX Sales App possibilita que o vendedor agrupe em uma única transação produtos destinados à entrega em domicílio com outros que podem ser levados imediatamente. Saiba mais no artigo [Habilitar Venda de estoque local do VTEX Sales App](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app).
-* **Sugestões de produtos similares: **apresenta produtos similares na página do produto, oferecendo uma maior variedade de produtos e diversificando a escolha do cliente.
+* **Sugestões de produtos similares:** apresenta produtos similares na página do produto, oferecendo uma maior variedade de produtos e diversificando a escolha do cliente.
 * **Outras ofertas:** exibe na página de produto o melhor preço disponível, seja na loja virtual ou em outras lojas físicas.
 
 ## O que precisa ser feito?
 
 As funcionalidades **HTML na descrição do produto** e **Outras ofertas** serão aplicadas automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App.
 
-Para implementar a **Sugestões de produtos similares**, siga as etapas do artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos). 
+Para implementar a **Sugestões de produtos similares**, siga as etapas do artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/docs/tutorials/configurar-acessorios-sugestoes-produtos-similares-e-mostrar-junto). 
 
 Para configurar a **Venda de estoque local** na sua loja, consulte o artigo [Habilitar Venda de estoque local do VTEX Sales App](/pt/docs/tutorials/habilitar-venda-de-estoque-local-do-vtex-sales-app).
 

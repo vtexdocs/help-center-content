@@ -27,8 +27,8 @@ En este artículo puedes consultar la siguiente información:
 
 ## Características de los datos
 
-| **Característica** | **Descripción**	|
-|:---------:|:-----:|
+| Característica | Descripción	|
+|---------|-----|
 | Origen del dato | Módulo Precios. |
 | Disponibilidad | Admin VTEX y APIs de precios. Es importante tener en cuenta que los datos facilitados por la API pueden no estar estructurados exactamente de la misma manera que en este conjunto de datos de Data Pipeline. |
 | Historial  | El historial de datos comienza en agosto de 2023. Para clientes que ya utilizan la plataforma VTEX, los datos se conservan durante dos años a partir de 2024. 	|
@@ -38,8 +38,8 @@ En este artículo puedes consultar la siguiente información:
 
 La tabla `pricing_latest` contiene datos correspondientes a los precios actuales de los productos de la tienda. Consulta a continuación los campos que componen la tabla.  
 
-| **Nombre de la columna**  | **Tipo de columna** | **Descripción de la columna** |
-|:----------:|:------------:|:-----------:|
+| Nombre de la columna  | Tipo de columna | Descripción de la columna |
+|----------|------------|-----------|
 | account_name | character varying(255) | Nombre de la cuenta asociada al ítem. |
 | last_date  | date 	| Fecha y hora de la última modificación en el precio. |
 | sku_id | character varying(255)| Identificador del SKU.	|
@@ -54,8 +54,8 @@ La tabla `pricing_latest` contiene datos correspondientes a los precios actuales
 
 La tabla `pricing_historical` muestra un registro histórico de los precios de tu tienda. Consulta a continuación los campos que componen la tabla.  
 
-| **Nombre de la columna**  | **Tipo de columna** | **Descripción de la columna** |
-|:--------:|:---------:|:--------:|
+| Nombre de la columna  | Tipo de columna | Descripción de la columna |
+|--------|---------|--------|
 | account_name  | character varying(255) 	| Nombre de la cuenta asociada al ítem. |
 | date | date  | Fecha y hora de la última modificación en el precio.|
 | sku_id  | character varying(255) 	| Identificador del SKU. |

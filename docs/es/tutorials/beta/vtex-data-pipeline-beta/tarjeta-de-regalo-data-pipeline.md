@@ -28,8 +28,8 @@ En este artículo puedes consultar la siguiente información:
 
 ## Características de los datos
 
-| **Característica** | **Descripción** |
-|:---:|:---:|
+| Característica | Descripción |
+|---|---|
 | Origen del dato | Obtenido a partir de la información del [Audit](/es/docs/tutorials/audit). |
 | Disponibilidad | Admin VTEX. |
 | Historial | Los datos se mantienen durante dos años, a partir de 2024 para los clientes que ya utilizan la plataforma VTEX. |
@@ -39,7 +39,7 @@ En este artículo puedes consultar la siguiente información:
 
 Consulta a continuación los campos que componen la tabla.
 
-| **Nombre de la columna** | **Tipo de columna** | **Descripción de la columna** |
+| Nombre de la columna | Tipo de columna | Descripción de la columna |
 |---|---|---|
 | account_name | character varying(255) | Nombre de la cuenta relacionada con la operación del tarjeta de regalo. |
 | event_date | timestamp with time zone | Fecha y hora de la operación. |

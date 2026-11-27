@@ -17,9 +17,9 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 When defining the order numbering format for a store, certain precautions must be taken, among which:
 
-- The order structure such as prefix, suffix and sequence numbering, once chosen, is **irreversible**. This option is made when the store goes live, so it is important to exercise caution when choosing between the two formats: ** A ** or ** B **. By default, your store follows the 12-digit ** A ** option, but you can select the alphanumeric format when adding your store. However, once chosen, it cannot be changed.
+- The order structure such as prefix, suffix and sequence numbering, once chosen, is **irreversible**. This option is made when the store goes live, so it is important to exercise caution when choosing between the two formats: **A** or **B**. By default, your store follows the 12-digit **A** option, but you can select the alphanumeric format when adding your store. However, once chosen, it cannot be changed.
 
-- The numbering pattern ** B ** ** does not necessarily follow ** an alphanumeric sequence or option. The numbers can be distinct without necessarily having a logic in the order. Every order has an `orderId` and a `sequence`. `OrderId` has 12 digits, while the `sequence` always has 6, starting from `500001`.
+- The numbering pattern **B** **does not necessarily follow** an alphanumeric sequence or option. The numbers can be distinct without necessarily having a logic in the order. Every order has an `orderId` and a `sequence`. `OrderId` has 12 digits, while the `sequence` always has 6, starting from `500001`.
 
 - Regardless of format, numbers follow an ascending pattern, but the difference between one number and another (increment) is random. This ensures that no one outside the store can estimate how many orders have been placed in a given period.
 

@@ -33,7 +33,7 @@ En esta sección encontrarás la siguiente información:
 
 ## Características de los datos  
 
-| **Característica**       | **Descripción**  |
+| Característica       | Descripción  |
 |--------------------------|-------------------------|
 | **Origen de los datos**  | [Módulo de catálogo](/es/docs/tutorials/catalogo-vision-general). |
 | **Disponibilidad**   | Acceso en el Admin VTEX.   |
@@ -44,7 +44,7 @@ En esta sección encontrarás la siguiente información:
 
 La tabla `product` contiene información sobre los productos registrados en el catálogo VTEX, incluyendo identificadores, categorías, marcas, visibilidad, imágenes, SKUs relacionados, canales de venta y fechas importantes.  
 
-| __Columna__ | __Tipo de columna__  | __Descripción__ |
+| Columna | Tipo de columna  | Descripción |
 |---------|---------------|-------------|
 | account   | character varying(255) | Cuenta propietaria del producto. |
 | product_id | integer | Identificador único del producto (generado por VTEX).|
@@ -78,7 +78,7 @@ La tabla `product` contiene información sobre los productos registrados en el c
 
 Esta tabla detalla los SKUs asociados a los productos, incluyendo identificadores, dimensiones, códigos de fabricante, EANs, imágenes, servicios, kits y fechas de creación/actualización.  
 
-| __Columna__  | __Tipo de columna__ | __Descripción__ |
+| Columna  | Tipo de columna | Descripción |
 |----------|---------------|-------------|
 | account | character varying(255) | Cuenta propietaria del SKU. |
 | product_id| bigint | Identificador único del producto asociado. |
@@ -108,7 +108,7 @@ Esta tabla detalla los SKUs asociados a los productos, incluyendo identificadore
 
 La tabla `brand` contiene información sobre las marcas registradas en el catálogo VTEX, incluyendo identificadores, nombres, estado de activación y fechas de creación/actualización. 
 
-| __Columna__ | __Tipo de columna__ | __Descripción__ |
+| Columna | Tipo de columna | Descripción |
 |---------|---------------|---------------|
 | account | character varying(255) | Cuenta propietaria de la marca.   |
 | brand_id  | bigint  | Identificador único de la marca.  |
@@ -123,7 +123,7 @@ La tabla `brand` contiene información sobre las marcas registradas en el catál
 
 La tabla `category` organiza los productos en categorías jerárquicas, incluyendo identificadores, nombres, rutas completas y estado de activación.  
 
-| __Columna__ | __Tipo de columna__ | __Descripción__ |
+| Columna | Tipo de columna | Descripción |
 |---------|--------------|-------------|
 | sk_category | character varying(32)  | Identificador único de la categoría (clave primaria).|
 | account | character varying(255) | Cuenta propietaria de la categoría. |
@@ -140,7 +140,7 @@ La tabla `category` organiza los productos en categorías jerárquicas, incluyen
 
 La tabla `specification` almacena especificaciones técnicas de productos y SKUs, incluyendo grupos de especificación, valores asignados y fechas de creación/actualización.  
 
-| __Columna__ | __Tipo de columna__ | __Descripción__ |
+| Columna | Tipo de columna | Descripción |
 |---------|--------------|-------------|
 | sk_specification| character varying(32)  | Identificador único de la especificación. |
 | sk_product  | character varying(32)  | Identificador único del producto.  |
@@ -156,7 +156,7 @@ La tabla `specification` almacena especificaciones técnicas de productos y SKUs
 
 La tabla `cluster` guarda información sobre agrupaciones de cuentas, que representan conjuntos de tiendas o sellers.
 
-| __Nombre de la Columna__  | __Tipo de columna__ | __Descripción__ |
+| Nombre de la Columna  | Tipo de columna | Descripción |
 |----------------------|----------------------------|-------------|
 | sk_category  | character varying(32)      | Clave sintética creada mediante hash de la cuenta y category_id, utilizada como clave primaria. |
 | account | character varying(255)     | Cuenta asociada al clúster, que representa al comerciante o tienda. |

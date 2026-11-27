@@ -15,19 +15,17 @@ locale: pt
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-> ⚠️ Esta funcionalidade não está disponível para novos clientes.
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, envie um email para *suporte.shipping@lojaintegrada.com.br*.
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email *suporte.shipping@lojaintegrada.com.br*.
+VTEX Shipping Network Correios é a solução para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX e obter de recursos exclusivos. Para lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de forma a reduzir os custos logísticos do seu negócio. 
 
-[VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) é a solução para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX e obter de recursos exclusivos. Para lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de forma a reduzir os custos logísticos do seu negócio. 
-
-Este artigo é sobre como ativar o **VTEX Shipping Network Correios**. Esta ativação ocorre pelo seu Admin VTEX e não requer investimento inicial, uso mínimo ou pré-requisitos. Para informações sobre [benefícios](/pt/docs/tutorials/vtex-shipping-network-correios-faq#3-quais-sao-os-beneficios-do-vtex-shipping-network-correios), [modelo de cobrança](/pt/docs/tutorials/vtex-shipping-network-correios-faq#5-qual-o-modelo-de-cobranca-do-vtex-shipping-network-correios) e detalhes sobre a solução, veja nosso [FAQ](/pt/docs/tutorials/vtex-shipping-network-correios-faq), ou acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
+Este artigo é sobre como ativar o **VTEX Shipping Network Correios**. Esta ativação ocorre pelo seu Admin VTEX e não requer investimento inicial, uso mínimo ou pré-requisitos. Para informações sobre [benefícios](/pt/docs/tutorials/vtex-shipping-network-correios-faq#3-quais-sao-os-beneficios-do-vtex-shipping-network-correios), [modelo de cobrança](/pt/docs/tutorials/vtex-shipping-network-correios-faq#5-qual-o-modelo-de-cobranca-do-vtex-shipping-network-correios) e detalhes sobre a solução, veja nosso [FAQ](/pt/docs/tutorials/vtex-shipping-network-correios-faq), ou acesse o site VTEX Shipping Network Correios.
 
 O vídeo abaixo apresenta todas as etapas da ativação, e na seção seguinte você encontra o passo a passo:
 
 ![vsncorreios_ativacao_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_1.gif)
 
-> ℹ️ Se você deseja integrar a sua operação com outras transportadoras além dos Correios, temos o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/), com sugestões de parceiros selecionados pela nossa equipe com foco no seu modelo de negócio.
+> ℹ️ Se você deseja integrar a sua operação com outras transportadoras além dos Correios, temos o VTEX Shipping Network, com sugestões de parceiros selecionados pela nossa equipe com foco no seu modelo de negócio.
 
 ## Ativar VTEX Shipping Network Correios
 

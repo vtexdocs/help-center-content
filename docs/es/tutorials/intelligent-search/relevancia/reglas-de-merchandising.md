@@ -46,7 +46,7 @@ Algunos de los principales casos de uso de las reglas de merchandising son:
 
 Toma en cuenta las siguientes recomendaciones al utilizar reglas de merchandising en tu tienda:
 
-* Gestiona las reglas de merchandising considerando las [reglas de relevancia](/es/docs/tutorials/reglas-de-relevancia) y los [sinónimos](/es/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN) de Intelligent Search. Asegúrate de que estos tres elementos estén alineados para evitar conflictos y proporcionar una experiencia de búsqueda coherente y eficaz.
+* Gestiona las reglas de merchandising considerando las [reglas de relevancia](/es/docs/tutorials/reglas-de-relevancia) y los [sinónimos](/es/docs/tutorials/sinonimos) de Intelligent Search. Asegúrate de que estos tres elementos estén alineados para evitar conflictos y proporcionar una experiencia de búsqueda coherente y eficaz.
 * No utilices reglas de merchandising con efectos opuestos para los mismos ítems, ya que pueden producirse comportamientos inesperados en los resultados de búsqueda.
 * La creación de muchas reglas de merchandising puede tener un impacto considerable en las búsquedas orgánicas.
 * Ten cuidado al utilizar [reglas de activación](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual#regras-de-ativacao) globales, ya que impactarán todas las búsquedas.

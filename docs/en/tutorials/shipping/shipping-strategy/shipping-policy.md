@@ -50,8 +50,8 @@ Once the shipping rate template is associated with the shipping policy, this inf
 
 You can configure initial settings through the VTEX Admin or via API. If you are starting to configure your [shipping strategy](/en/docs/tutorials/shipping-strategy), we recommend the following order:
 
-| **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
-| :--- | :--- | :--- |
+| Topic | Configuration via VTEX Admin | Configuration via API |
+| --- | --- | --- |
 | 1. Shipping policy | [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
 | 2. [Loading dock](/en/docs/tutorials/loading-dock) | [Managing loading docks](/en/docs/tutorials/managing-loading-docks) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | 3. [Warehouse](/en/docs/tutorials/warehouse) | [Managing warehouses](/en/docs/tutorials/managing-warehouses) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

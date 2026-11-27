@@ -59,7 +59,7 @@ Después, basta guardar.
 
 > ⚠️ Es importante prestar atención a que, si utiliza la geolocalización y, por tanto, rellena la columna **PolygonName** de la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete), la transportadora en cuestión no utilizará las columnas **ZipCodeStart** y **ZipCodeEnd**, que deberán rellenarse con `0`.
 
-En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](/es/tutorial/geolocalizacao-no-checkout/), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
+En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](/es/docs/tutorials/geolocalizacion-en-el-checkout), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
 
 Habilita también todas las API de Google Cloud Platform para asegurarte de que la clave funciona:
 

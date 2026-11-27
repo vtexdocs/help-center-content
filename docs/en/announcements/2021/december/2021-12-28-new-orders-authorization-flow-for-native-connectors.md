@@ -27,7 +27,7 @@ The [Price Divergence rule](/en/docs/tutorials/price-divergence-rule) was valid 
 
 The following table compares the order processing flow for native connectors _before_ and _now_:
 
-| **BEFORE** | **NOW** |
+| BEFORE | NOW |
 | ---------- | ---------- | 
 | The configuration of an order processing rule with an error was done in the integration configuration step, by filling in a mandatory field in the connector's registration. | The processing of orders with an error is made in the [configuration of the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), in the Orders authorization flow. |
 | Orders with price divergence error were not created automatically, only after manual reprocessing. | Orders with price divergence error are created automatically. [Manual approval](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually) of an order is only necessary when you configure an authorization rule that requires this action. |
@@ -44,7 +44,7 @@ Mandatory fields for setting up order processing with price divergence error had
 
 These fields were removed from the connector registers and the following message was added: 
 
-> Note: Orders with price divergence between the marketplace and VTEX will only be integrated after [configuring a Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule).
+> Orders with price divergence between the marketplace and VTEX will only be integrated after [configuring a Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule).
 
 > ℹ️ When first integrating with a native connector, it is recommended that the seller create the Price Divergence rule before configuring the integration. Not following the recommendation does not prevent the integration from being completed.
 

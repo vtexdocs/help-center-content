@@ -30,7 +30,7 @@ En este artículo, te explicamos cómo funciona la herencia de especificaciones 
 
 Cuando se crea un grupo dentro de un departamento o categoría, este se replicará en los demás niveles registrados por debajo de ese departamento o categoría, siguiendo la lógica de «herencia». Por lo tanto, si necesitas crear un grupo de especificaciones que se aplique solo a una categoría, debes crear el grupo en el nivel de esa categoría.
 
-Ejemplo: imagina una tienda que opera en el segmento de la moda y que tiene la categoría **Ropa** con el grupo de especificaciones **Características**. Ese grupo puede tener, por ejemplo, un campo de producto llamado **Composición**, con **Algodón** o **Poliéster** como posibles valores y un campo de SKU llamado **Tamaño** con **P**, **M **o **G** como posibles valores.
+Ejemplo: imagina una tienda que opera en el segmento de la moda y que tiene la categoría **Ropa** con el grupo de especificaciones **Características**. Ese grupo puede tener, por ejemplo, un campo de producto llamado **Composición**, con **Algodón** o **Poliéster** como posibles valores y un campo de SKU llamado **Tamaño** con **P**, **M** o **G** como posibles valores.
 
 En la misma tienda del ejemplo anterior, en la categoría **Ropa**, está la subcategoría **Vestidos**, que contiene otro grupo de especificaciones y el campo de producto **Ocasión**, cuyos valores pueden ser **Casual** o **Fiesta**. Los campos de los productos dentro de esa subcategoría y sus respectivos SKU deberán estar completos en el registro.
 
@@ -38,7 +38,7 @@ En la misma tienda del ejemplo anterior, en la categoría **Ropa**, está la sub
 
 Para crear un grupo de especificaciones, sigue las instrucciones a continuación:
 
-1. En el Admin de VTEX, accede a **Catálogo **> **Categorías**.
+1. En el Admin de VTEX, accede a **Catálogo**> **Categorías**.
 2. Haz clic en la categoría en la que deseas crear el grupo.
 3. Haz clic en el botón `Acciones` <i class="fas fa-angle-down"></i>.
 4. Haz clic en <i class="fas fa-tags"></i> **Grupo**.

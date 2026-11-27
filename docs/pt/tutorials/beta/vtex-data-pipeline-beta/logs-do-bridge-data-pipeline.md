@@ -28,8 +28,8 @@ Nesta seção você encontra as seguintes informações:
 
 ## Características dos dados
 
-| **Característica** | **Descrição** |
-|:---:|:---:|
+| Característica | Descrição |
+|---|---|
 | Fonte de dados | Obtido a partir das informações presentes no módulo **Conexões > Pedidos** e **Conexões > Rastreamento**. |
 | Disponibilidade | VTEX Admin. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |
@@ -39,8 +39,8 @@ Nesta seção você encontra as seguintes informações:
 
 Conheça a seguir os campos que constituem a tabela:  
 
-| **Nome da coluna** | **Tipo da coluna** | **Descrição da coluna** |
-|:---:|:---:|:---:|
+| Nome da coluna | Tipo da coluna | Descrição da coluna |
+|---|---|---|
 | main_account | character varying(100)	 | A conta principal da VTEX associada a esta conta. |
 | account_name | character varying(100) | Nome da loja ou conta filha responsável pelo pedido. |
 | marketplace | character varying(50) | O nome do marketplace de onde este pedido se originou. |

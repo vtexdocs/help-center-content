@@ -3,7 +3,7 @@ title: 'How the relationship between websites and sales policies works'
 id: 1VuakBcyNOgg4AM4cUeeQg
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.855Z
-updatedAt: 2023-03-29T14:43:46.618Z
+updatedAt: 2026-10-14T18:21:41.930Z
 publishedAt: 2023-03-29T14:43:46.618Z
 firstPublishedAt: 2019-01-24T22:07:42.559Z
 contentType: tutorial
@@ -15,55 +15,59 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Sales channels define what content can be rendered on a website. Below we will explain the rules of the relationship between websites and sales channels.
+Sales channels define the content that can be rendered on a website. Below are the rules for the relationship between websites and sales channels.
 
 ## Eligibility rule
 
 How do I know which sales channels are eligible for a website?
 
-This eligibility is determined in the __binding__ configuration of the website. [In this article](/en/docs/tutorials/linking-an-account-name-to-a-website-binding), in __step 8__, we have an explanation of how a sales channel is linked to a website.
+This eligibility is defined in the website **binding** configuration. To learn how to link a sales channel to a website, see **step 8** of the article [Linking a store to a folder structure in CMS (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
-Here are the rules for defining eligibility:
+The eligibility rules are as follows:
 
-&bull; If you have checked a sales channel box for a website, this policy becomes eligible for this website. If you want, this policy can still be linked to other websites.
+- If you've selected the box for a sales channel on a website, this sales channel becomes eligible for that website. If you want, this sales channel can still be linked to other websites.
 
-&bull; If you have not linked a sales channel to any website, this sales channel becomes eligible for all of your websites.
+- If you **haven't selected** a sales channel for **any website**, this sales channel becomes eligible for **all** your websites.
+
+> ℹ️ When a [white label seller](/en/docs/tutorials/white-label-seller) fulfills orders for your store, the sales channel served by that seller must be eligible in the binding of the **main account**, even if the seller only delivers orders from another website.
 
 ## Priority rule
 
-Among the __eligible sales channels__, the policy that will be rendered on the website will be the one that is in first place in the sales channels ordering.
+Among the **eligible sales channels**, the one rendered on the website is the one that comes first in the sales channel order.
 
-To know the ordering of sales channels, follow the steps below:
+To check the order of your sales channels, follow the steps below:
 
-1. In your VTEX Admin, access **Store Settings > Channels > Sales Channels**.
-2. In the __Position__ column, you will see the ordering of your sales channels. Position 1 displays the highest priority sales channel.
+1. In the VTEX Admin, go to **Store Settings > Channels > Sales Channels**.
+2. In the **Position** column, you'll see the order of your sales channels. Position 1 shows the sales channel with the highest priority.
 
-> ❗ We recommend that you do not change the position of the sales channel with **ID 1**.
+> ❗ We recommend not changing the position of the sales channel with **ID 1**. This is the default sales channel for the account. Changing its position can affect which sales channel is rendered on websites and cause inconsistencies in prices, catalog, and shipping. If you need to change the order, check the result on each website after the change.
 
-### Examples
+### Use case
 
-Let's assume you have an account with three sales channels (A, B and C). The ordering of policies is configured as follows:
+Consider a store with three registered sales channels (A, B, and C). The sales channel order is configured as follows:
 
 1. C
 2. B
 3. A
 
-A website that has these three eligible sales channels will render the information of the __sales channel C__.
+A website that has these three sales channels as eligible will render the information of **sales channel C**.
 
-A website that only has policies A and B as eligible policies will render the information of __sales channel B__.
+A website that only has sales channels A and B as eligible will render the information of **sales channel B**.
 
 ## Exception to the priority rule
 
-If a sales channel *with access restriction* is listed in the ordering with higher priority than another eligible policy, *which does not have access restriction*, the rendered policy will be the __eligible policy without access restriction__.
+If a sales channel _with access restriction_ is listed in the order with a higher priority than another eligible sales channel _without access restriction_, the rendered sales channel will be the **eligible sales channel without access restriction**.
 
-### Examples
+### Use case
 
-Let's assume you have an account with three sales channels (A, B and C). Policy B is a B2B-specific policy and therefore __has access restriction__. Policy A is a marketplace-specific policy, __without access restriction__.
+Consider a store with three registered sales channels (A, B, and C). Sales channel B is a B2B-specific sales channel and therefore **has access restriction**. Sales channel A is a marketplace-specific sales channel, **without access restriction**.
 
-The ordering of sales channels is configured as follows:
+The sales channel order is configured as follows:
 
 1. C
 2. B
 3. A
 
-A website whose eligible policies are only A and B will render the __sales channel A__.
+A website that only has sales channels A and B as eligible will render the information of **sales channel A**.
+
+> ℹ️ If the main account sales channel served by a [white label seller](/en/docs/tutorials/white-label-seller) has access restriction, the binding eligibility requirement combines with this exception. If logged-out users see unintended information in a store with access restriction, see [Logged-out users see information in my store with access restriction](/en/docs/troubleshooting/logged-out-users-see-information-in-my-store-with-access-restriction).

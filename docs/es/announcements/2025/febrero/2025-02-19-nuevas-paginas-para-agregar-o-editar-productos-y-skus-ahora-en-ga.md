@@ -30,8 +30,8 @@ Los cambios se detallan a continuación, clasificados según la página a la que
 
 La siguiente tabla ilustra las novedades de la página [agregar o editar producto](/es/docs/tutorials/agregar-o-editar-productos):
 
-| **Mejora** | **Descripción** |
-| :--- | :--- |
+| Mejora | Descripción |
+| --- | --- |
 | Nuevo menú de acciones en la página de producto  | En el menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i> situado en la parte superior derecha de la página de producto puedes realizar las siguientes acciones:<ul><li>**Duplicar** (producto)</li><li>**Editar precios**</li><li>**Editar stock**</li><li>**Ver en la tienda**</li><li>**Precio y stock** (ver información)</li><li>**Ver detalles de indexación**</li></ul> |
 | Nuevo campo **Descripción adicional** | Incluye información adicional y resumida del producto. Esta mejora permite tener más flexibilidad y opciones al presentar el producto en la PDP.  |
 | Nuevo campo **Fecha de release** | Configura la fecha de release del producto, que corresponde al día en que estará disponible para la venta. |
@@ -42,8 +42,8 @@ La siguiente tabla ilustra las novedades de la página [agregar o editar product
 
 La siguiente tabla ilustra las novedades de la página [agregar o editar SKU](/es/docs/tutorials/agregar-o-editar-skus):
 
-| **Mejora** | **Descripción** |
-| :--- | :--- |
+| Mejora | Descripción |
+| --- | --- |
 | Nuevas acciones para **Obtener SKUs existentes** o **Mover a otro producto** | Importa o envía un SKU de un producto a otro. |
 | Nueva acción **Crear kit** | Transforma el SKU en un [kit](/es/docs/tutorials/que-es-un-kit).  |
 | Nueva acción **Duplicar** (SKU existente) | Crea un SKU a partir de un SKU existente. Esta acción crea el nuevo SKU con la misma configuración. |

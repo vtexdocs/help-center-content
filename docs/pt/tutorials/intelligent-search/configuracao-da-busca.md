@@ -3,7 +3,7 @@ title: 'Configuração da busca'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2025-04-24T15:27:15.330Z
+updatedAt: 2026-08-26T00:00:00.000Z
 publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
@@ -33,6 +33,8 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
     Por exemplo, se uma camisa não tiver a cor no nome do produto, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.
 
+> ℹ️ Além do nome do produto e da marca, é possível configurar especificações para também gerar keyword, o que aumenta a relevância de produtos cujo valor de especificação corresponde à busca, mesmo quando o termo não está no nome do produto. Esse recurso está disponível sob demanda: para habilitá-lo, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support). Saiba mais em [Como funciona a relevância dos resultados de busca](https://help.vtex.com/pt/docs/tutorials/intelligent-search-como-funciona-a-relevancia-dos-resultados-de-busca#keyword-a-partir-de-especificações).
+
 ## Configurações de filtros
 
 As configurações de filtros apresentam ajustes relacionados aos filtros exibidos para os clientes da sua loja durante a busca:
@@ -50,4 +52,18 @@ As configurações de filtros apresentam ajustes relacionados aos filtros exibid
 * **Ocultar filtros:** seleção que permite que determinados filtros não sejam exibidos na loja. Para ocultar um filtro, clique no campo e, em seguida, clique no nome do filtro. 
 
     Para voltar a exibir um filtro, clique no X ao lado do nome dele. Se deseja voltar a exibir todos os filtros anteriormente ocultos, clique no X do lado direito do campo.
+
+### Cobertura mínima de resultados para filtros
+
+> ℹ️ Este recurso está disponível sob demanda. Para habilitá-lo, entre em contato com o [Suporte VTEX](https://supporticket.vtex.com/support).
+
+Catálogos grandes frequentemente contêm filtros criados a partir de especificações compartilhadas por poucos produtos, poluindo o painel de filtros com opções de baixa cobertura. Com a cobertura mínima ativada, apenas filtros com cobertura significativa são exibidos por padrão.
+
+Filtros em que nenhuma opção atinge um percentual mínimo de cobertura sobre o total de resultados da busca são ocultados automaticamente. É possível excluir filtros específicos dessa regra para que sejam sempre exibidos, independentemente da configuração.
+
+Por exemplo, se a cobertura mínima for definida como 5%, um filtro em que todas as opções se aplicam a menos de 5% dos resultados da busca atual não será exibido. Considere uma busca por "camisa" que retorna 1.000 produtos. Com cobertura mínima de 5%, os filtros são avaliados da seguinte forma:
+
+* O filtro **Cor** cobre 1.000 produtos (100%) e é exibido.
+* O filtro **Tamanho** cobre 600 produtos (60%) e é exibido.
+* O filtro **Tecido** cobre apenas 30 produtos (3%) e é ocultado automaticamente, pois nenhuma de suas opções atinge o percentual mínimo.
 

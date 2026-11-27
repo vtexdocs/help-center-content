@@ -1,0 +1,34 @@
+---
+title: 'Configurando marketplace entre lojas VTEX'
+id: tutorials_6520
+status: PUBLISHED
+createdAt: 2017-04-27T21:48:44.692Z
+updatedAt: 2026-11-04T15:00:00.000Z
+publishedAt: 2025-09-04T15:23:15.845Z
+firstPublishedAt: 2017-04-27T23:11:18.934Z
+contentType: tutorial
+productTeam: Channels
+author: authors_3
+slugEN: configuring-the-marketplace-between-vtex-stores
+legacySlug: configurando-marketplace-entre-lojas-vtex
+locale: pt
+subcategoryId: 2xWRgEIlR2ookieEmm4KQu
+---
+
+Toda loja VTEX já vem preparada para ser [tanto marketplace quanto seller](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) de outras lojas VTEX, assim como de nossos marketplaces integrados. 
+
+A integração entre lojas VTEX dispensa alguns passos necessários nas demais integrações. Abaixo estão as instruções para cada configuração.
+
+- Quero me tornar um marketplace VTEX
+- Quero me tornar um seller VTEX 
+
+Ser um marketplace significa que seu website vai receber (e vender) produtos de outra loja (que vai funcionar como seller). Para fazer isso, você precisa seguir as [instruções para criação de seller](/pt/docs/tutorials/adicionar-seller).
+
+## Para lojas que querem atuar como sellers: como configurar um marketplace VTEX
+Ser um seller significa que sua loja vai enviar e vender produtos por meio de outro website (que vai funcionar como marketplace). Para fazer isso, você precisa cadastrar essa loja como marketplace no seu admin. Basta seguir os passos abaixo:
+
+1. Configure a [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
+2. Configure a [logística](/pt/docs/tutorials/configurando-logistica-para-marketplace/) para esta política comercial.
+3. Configure o [afiliado](/pt/docs/tutorials/como-configurar-afiliado/).
+
+Com essas configurações feitas, os produtos começarão a ser enviados para o marketplace. Então, o marketplace deve realizar o [mapeamento de categorias, marcas e especificações](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace), além de aceitar os produtos enviados.

@@ -3,7 +3,7 @@ title: 'Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2025-10-24T23:03:49.398Z
+updatedAt: 2026-08-24T14:06:50.000Z
 publishedAt: 2025-10-24T23:03:49.398Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
@@ -135,7 +135,7 @@ Media storage devices used to store customer data are classified as critical and
 
 #### Does the company have a data protection and privacy policy? If yes, how often is it reviewed? Has the policy been distributed and communicated to the entire company?
 
-Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) can be found on the VTEX website.
+Yes, VTEX has data protection and privacy policies, which are reviewed annually. The internal and external privacy policies were distributed and communicated to the entire company through our internal announcements channel. The internal privacy policy is kept in our internal corporate document tool to facilitate open access by employees. Our [External Privacy Notice](https://www.vtex.com/en-us/trust/general-external-privacy-notice) can be found on the VTEX website.
 
 #### Does the organization have a data protection officer (DPO) with the authority, mission, responsibility, and resources to coordinate, develop, and implement applicable privacy requirements and manage privacy risks through a privacy program?
 
@@ -159,13 +159,13 @@ As a data processor, VTEX processes personal data from shoppers only when necess
 * Session passwords (encrypted)
 * Generated tokens
 
-The data list above is described in the [Data Processing Addendum (DPA)](https://help.vtex.com/en/docs/tracks/data-protection-roles#data-processing-addendum-dpa).
+The data list above is described in the [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum).
 
 #### How does VTEX ensure compliance with the General Data Protection Regulation (GDPR) or the Brazilian General Data Protection Law (LGPD)?
 
-VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on the [Privacy & Agreements](https://vtex.com/us-en/trust/) page of our website.
+VTEX is committed to be compliant with all applicable data protection regulations, including GDPR and LGPD. You can read more about our data protection policies, agreements, and compliance commitment on our website, in the VTEX Platform's [External Privacy Notice](https://compliance.vtex.com/item/privacy-notice-for-shoppers).
 
-Check our [Data Processing Addendum (DPA)](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) to learn how personal data is processed by VTEX.
+Check our [Data Processing Addendum (DPA)](https://compliance.vtex.com/item/data-processing-addendum) to learn how personal data is processed by VTEX.
 
 #### What data subject rights does the VTEX platform guarantee?
 
@@ -183,13 +183,15 @@ Our policy establishes the classification levels as public, internal, and confid
 
 #### How may data come into contact with third parties and outsourced or subcontracted projects? How are these interactions protected and monitored?
 
-The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of subprocessors at [VTEX Subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
+The VTEX infrastructure is completely reliant on third-party providers, which ensures external partners do not have access to tenant data. See the full list of our subprocessors at [Subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=search).
 
-Secure data processing and transmission to third parties is a key priority for VTEX. We use a comprehensive approach that combines advanced technology, rigorous security processes, and continuous employee training. Technical measures, such as robust encryption, are used to protect data during transmission and processing. Also, we have implemented strict information security processes and access controls to ensure that only authorized individuals have access to the data. Among other measures, we constantly invest in updates and improvements to ensure effective protection for the data that is shared with external partners. You can learn more about our current security measures in[ Security Practices](https://vtex.com/us-en/security/security-practices/).
+Secure data processing and transmission to third parties is a key priority for VTEX. We use a comprehensive approach that combines advanced technology, rigorous security processes, and continuous employee training. Technical measures, such as robust encryption, are used to protect data during transmission and processing. Also, we have implemented strict information security processes and access controls to ensure that only authorized individuals have access to the data. Among other measures, we constantly invest in updates and improvements to ensure effective protection for the data that is shared with external partners. You can learn more about our current security measures in [Security Practices](https://compliance.vtex.com/item/vtex-security-posture).
 
 #### Can you guarantee that data does not migrate beyond a defined geographical region?
 
-Currently, most of the data stored by VTEX is based on AWS us-east-1. This means that the client can't define the geographical region. On the other hand, it also means that VTEX won't migrate the data outside that region unless it's authorized by the client.
+Most of the data stored by VTEX is hosted on AWS us-east-1 (Virginia, USA), and the client can't define an alternative geographical region for storage. However, VTEX may carry out international transfers of personal data when necessary for the operation of the platform (for example, to enable support, subprocessors, or other processing activities), always backed by legal mechanisms recognized for this purpose, such as the EU-US Data Privacy Framework (DPF), standard contractual clauses, or other applicable safeguards, as the case may be.
+
+For more details on how VTEX carries out and protects international data transfers, see the whitepaper [International Transfers and the DPF](https://compliance.vtex.com/?itemUid=b625c744-158a-4edc-9d76-9322b4c730e8).
 
 #### Does VTEX use data anonymization?
 

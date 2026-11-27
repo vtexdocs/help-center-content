@@ -27,7 +27,7 @@ The upgrade aims to maximize the reliability of collected data and data mapping 
 
 Previously, stores using the Conversions API could only measure navigation data related to the "Purchase" event — when users complete a purchase. Now you can also measure the following events:
 
-| **Event** | **Description** |
+| Event | Description |
 | ------------- |-------------| 
 | PageView | When the user views a product page. |
 | View Content | When the user views content. |

@@ -1,7 +1,7 @@
 ---
 title: 'Crear lista de recomendaciones (beta)'
 createdAt: 2026-03-17T13:01:10.919Z
-updatedAt: 2026-03-17T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-03-17T13:01:10.919Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -9,7 +9,7 @@ slugEN: creating-recommendation-lists
 locale: es
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](http:///es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el <a [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu negocio, ponte en contacto con nuestro [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el <a [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 La creación de listas de recomendaciones permite definir diferentes estrategias para mostrar productos relevantes a los consumidores. Cada lista utiliza una estrategia de recomendación y se muestra en una posición específica en la tienda.
 
@@ -17,9 +17,18 @@ Esta guía describe cómo crear una nueva lista de recomendaciones desde el Admi
 
 > ⚠️ No recomendamos reutilizar la misma lista en múltiples posiciones en el frontend. Crea una lista para cada posición para hacer seguimiento de las métricas de desempeño de forma separada y con mayor granularidad.
 
-## Requisito
+## Requisitos
 
-Tener activada la funcionalidad de [Recomendaciones de productos](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta) en la tienda.
+* Tener activada la funcionalidad de [Recomendaciones de productos](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta) en la tienda.
+* Tener un [rol](https://help.vtex.com/es/docs/tutorials/roles) con los [recursos de License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager) a continuación. Sin el recurso *View Recommendations*, la página **Recomendaciones** no se abre en el Admin VTEX.
+
+  * **Producto:** *Recommendations*
+  * **Categoría:** *Recommendations*
+
+  | Recurso | Clave | Descripción |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | Consulte la lista de recomendaciones en el panel de administración. |
+  | *Edit Recommendations* | `EditRecommendations` | Edita las recomendaciones en el panel de administración. |
 
 ## Crear lista de recomendaciones
 
@@ -102,6 +111,7 @@ Accede al [Dashboard de recomendaciones](https://help.vtex.com/es/docs/tutorials
 
 - [Recomendaciones de productos (beta)](https://help.vtex.com/es/docs/tutorials/recomendaciones-de-productos-beta)
 - [Dashboard de recomendaciones (beta)](https://help.vtex.com/es/docs/tutorials/dashboard-de-recomendaciones)
+- [Informes de recomendaciones (beta)](https://help.vtex.com/es/docs/tutorials/informes-de-recomendaciones)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

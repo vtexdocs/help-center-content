@@ -21,7 +21,7 @@ As configurações de autenticação são divididas em dois grupos principais: *
 Define quais identificadores o usuário pode informar ao iniciar o login (nome de usuário, email ou ambos nome de usuário e/ou email).
 
 | Identificador | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Nome de usuário** | O usuário informa seu nome de usuário para iniciar o login. |
 | **Email** | O usuário informa seu endereço de email para iniciar o login. |
 
@@ -30,7 +30,7 @@ Define quais identificadores o usuário pode informar ao iniciar o login (nome d
 Define como o usuário será autenticado após a identificação (por senha, provedor de identidade externo ou ambos).
 
 | Método | Descrição |
-| :---- | :---- |
+| ---- | ---- |
 | **Password** | O usuário é autenticado com senha cadastrada na plataforma VTEX. |
 | **IdP externo (SSO)** | O usuário é redirecionado para um provedor de identidade externo configurado pelo lojista para autenticação via Single Sign-On. Saiba mais em [Habilitar login na organização via provedor de identidade (IdP) externo](https://help.vtex.com/pt/docs/tutorials/habilitar-login-na-organizacao-via-provedor-de-identidade-idp-externo). |
 
@@ -62,7 +62,7 @@ Para configurar os métodos de autenticação diretamente pela [tela inicial da 
 Também é possível gerenciar os métodos de autenticação por unidade organizacional via API. Os endpoints disponíveis são:
 
 | Método | Endpoint | Descrição |
-| :---- | :---- | :---- |
+| ---- | ---- | ---- |
 | `GET` | [Get organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#get-/api/vtexid/organization-units/-unitId-/settings) | Consulta os métodos de autenticação configurados para uma unidade organizacional. |
 | `POST` | [Set organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#post-/api/vtexid/organization-units/-unitId-/settings) | Define os métodos de autenticação de uma unidade organizacional. |
 | `PATCH` | [Update organization unit authentication settings](https://developers.vtex.com/docs/api-reference/vtex-id-api#patch-/api/vtexid/organization-units/-unitId-/settings) | Atualiza parcialmente os métodos de autenticação de uma unidade organizacional. |

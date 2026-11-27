@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS (Legacy) (Legado) - Visão geral'
+title: 'Headless CMS (Legado)'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z
@@ -14,10 +14,11 @@ legacySlug: headless-cms-visao-geral
 locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 order: 1
+categoryCover: true
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Headless CMS (Legacy) está disponível apenas para lojas FastStore (v1, v2 e v3) e Headless Stores. Recomendamos migrar para o novo <a href="/pt/docs/tutorials/cms-overview">CMS</a>, que oferece melhor desempenho, colaboração e escalabilidade.
+  Headless CMS (Legacy) está disponível apenas para lojas FastStore (v1, v2 e v3) e Headless Stores. Recomendamos migrar para o novo <a href="/pt/docs/tutorials/cms-visao-geral">CMS</a>, que oferece melhor desempenho, colaboração e escalabilidade.
 </div>
 
 O Headless CMS (Legacy) é um sistema de gerenciamento de conteúdo desenvolvido pela VTEX para proporcionar às empresas a flexibilidade de criar e disponibilizar conteúdo em diferentes canais, como sites e aplicativos móveis.
@@ -27,7 +28,7 @@ O termo *Headless* refere-se à independência entre a interface que exibe o con
 Para acessar o Headless CMS (Legacy), entre no Admin VTEX e acesse **Storefront > Headless CMS (Legacy)**.
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para o gerenciamento do Headless CMS (Legacy), certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+  Para o gerenciamento do Headless CMS (Legacy), certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/docs/tutorials/perfis-de-acesso?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 </div>
 
 Com o Headless CMS (Legacy), você pode:

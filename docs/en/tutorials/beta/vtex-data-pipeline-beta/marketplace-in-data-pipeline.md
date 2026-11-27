@@ -34,8 +34,8 @@ This section includes the following information:
 
 ## Data characteristics
 
-| **Characteristic** | **Description** |
-|:-----:|:---:|
+| Characteristic | Description |
+|-----|---|
 | Data source | Obtained from the marketplace module. |
 | Availability| VTEX Admin.|
 | History| The data history starts in September 2024. The data is retained for two years starting in 2024. |
@@ -45,8 +45,8 @@ This section includes the following information:
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description**|
-|:----:|:---:|:----:|
+| Column name | Column type | Column description|
+|----|---|----|
 | pk| bigint | Primary key that uniquely identifies each row. |
 | main_account | character varying(100)| The name of the main account to whom the seller is associated.|
 | seller_id | character varying(100) | The ID of the seller.|
@@ -67,8 +67,8 @@ The table fields are described below:
 
 The table fields are described below:
 
-| **Column name** | **Column type**| **Column description**|
-|:----:|:----:|:----:|
+| Column name | Column type| Column description|
+|----|----|----|
 | main_account | character varying(100)| The name of the main account to whom the seller is associated.|
 | seller_id | character varying(100)| The ID of the seller.|
 | seller_is_active | boolean | Tells if the seller is active (true) or not (false).|
@@ -84,8 +84,8 @@ The table fields are described below:
 
 The table fields are described below:
 
-| **Column name** | **Column type**| **Column description**|
-|:-----:|:-----:|:-----:|
+| Column name | Column type| Column description|
+|-----|-----|-----|
 | main_account| character varying(100)| The name of the main account to whom the seller is associated.|
 | seller_id| character varying(100)| The ID of the seller.|
 | seller_is_active | boolean| Tells if the seller is active (true) or not (false).|
@@ -102,8 +102,8 @@ The table fields are described below:
 
 The table fields are described below:
 
-| **Column name**| **Column type**| **Column description** |
-|:-----:|:-----:|:-----:|
+| Column name| Column type| Column description |
+|-----|-----|-----|
 | main_account| character varying(100)| The name of the main account to whom the seller is associated.|
 | seller_id| character varying(100) | The ID of the seller.|
 | seller_is_active| boolean | Tells if the seller is active (true) or not (false).|
@@ -127,8 +127,8 @@ The table fields are described below:
 
 The table fields are described below:
 
-| **Column name**| **Column type**| **Column description**|
-|:---:|:---:|:----:|
+| Column name| Column type| Column description|
+|---|---|----|
 | main_account| character varying(100)| The name of the main account to whom the seller is associated.|
 | seller_id| character varying(100)| The ID of the seller.|
 | seller_is_active| boolean| Tells if the seller is active (true) or not (false).|
@@ -153,8 +153,8 @@ The table fields are described below:
 
 The *sellers_orders_items* table stores details of items in orders placed by VTEX Seller Portal sellers. The table fields are described below:
 
-|**Column name** | **Column type** | **Column description**|
-|:---:|:---:|:---:|
+|Column name | Column type | Column description|
+|---|---|---|
 |item_id | character varying(65535) | Unique item identifier within the order. It can be associated with the sellers_inventory table for additional details.|
 |product_id | character varying(65535) | Identifier of the product associated with the item.|
 |order_id | character varying(16383) | Unique order identifier. It can be associated with the order tables for additional details.|
@@ -195,8 +195,8 @@ The *sellers_orders_items* table stores details of items in orders placed by VTE
 
 The *sellers_orders_rateandbenefitsidentifiers* table contains data about promotions applied to seller orders. The table fields are described below:
 
-|**Column name** | **Column type** | **Column description**|
-|:---:|:---:|:---:|
+|Column name | Column type | Column description|
+|---|---|---|
 |orderid | character varying(16383) | Unique identifier of each order.|
 |hostname | character varying(16383) | Host name associated with the order, indicating the server or domain managing the order.|
 |marketplace_name | character varying(16383) | Marketplace name associated with the order.|
@@ -215,8 +215,8 @@ The `sku_binding` table serves as a cross-reference mapping between the marketpl
 
 The table fields are described below:
 
-|**Column name** | **Column type** | **Column description**|
-|:---:|:---:|:---:|
+|Column name | Column type | Column description|
+|---|---|---|
 |sk_sku_binding | character varying | Surrogate key for the SKU binding record that uniquely identifies each seller's SKU mapping to a marketplace SKU.|
 |sk_sku | character varying | Surrogate key referencing the SKU in the item_catalog_silver.sku table.|
 |sk_product | character varying | Surrogate key referencing the product in the item_catalog_silver.product table.|

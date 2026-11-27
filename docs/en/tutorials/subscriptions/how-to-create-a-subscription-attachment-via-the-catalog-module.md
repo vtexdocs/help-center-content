@@ -76,7 +76,7 @@ To configure the subscription frequencies and cycle dates you want to offer in y
 
 8. Click `Save`.
 
-| **Key name** | **Permitted values** |
+| Key name | Permitted values |
 | --- | --- |
 | `vtex.subscription.key.frequency` | The permitted values are a combination of a number from 1 to 9 + space + any of the following:<ul><li>`day`: Daily orders. Example: `5 day`.</li><li>`week`: Weekly orders. Example: `4 week`.</li><li>`month`: Monthly orders. Example: `3 month`.</li><li>`year`: Yearly orders. Example: `2 year`.</li>To offer multiple frequency options, separate the values with a comma and do not include a space after the comma.<ul><li>Example: To offer both a monthly and a weekly subscription option, enter `1month,1week`.</li></ul> |
 | `vtex.subscription.key.purchaseday` | **Weekly frequency**The permitted values for the weekly subscription cycle date range from 0 to 6, corresponding to the days of the week:<ul><li>`0`: Sunday</li><li>`1`: Monday</li><li>`2`: Tuesday</li><li>`3`: Wednesday</li><li>`4`: Thursday</li><li>`5`: Friday</li><li>`6`: Saturday</li></ul>To offer more than one day for the cycle with a weekly frequency, separate the values with a comma.<ul><li>Example: A weekly subscription with a cycle date on Sundays, Wednesdays, and Fridays would be written as `0,3,5`.</li></ul><br>**Monthly frequency**The permitted values range from `1` to `28` and correspond to the days of the month, where `1` is the first day of the month, `2` is the second, and so on, up to `28`, which is the twenty-eighth day of the month.If you use more than one number, separate them with a comma and do not include a space after the comma.<ul><li>Example: A monthly subscription with a cycle date on the first and last days would be written as `1,28`.</li></ul> |
@@ -85,11 +85,11 @@ The following images provide examples of how to complete the fields in the VTEX 
 
 * **Example of monthly frequency:** The image shows a monthly subscription where orders can be placed on the 1st, 15th, or 28th of each month.
 
-  ![EN Assinatura Exemplo Valores month](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_1.png)
+  ![EN Assinatura Exemplo Valores month](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/how-to-create-a-subscription-attachment-via-the-catalog-module_1.png)
 
 * **Example of a frequency every 3 weeks:** The image shows a subscription that generates new orders every 3 weeks, with purchases occurring on Sundays, Tuesdays, or Saturdays.
 
-  ![EN Assinatura Exemplo Valores week](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_2.png)
+  ![EN Assinatura Exemplo Valores week](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/how-to-create-a-subscription-attachment-via-the-catalog-module_2.png)
 
 ## 3. Associating a SKU with the subscription attachment
 

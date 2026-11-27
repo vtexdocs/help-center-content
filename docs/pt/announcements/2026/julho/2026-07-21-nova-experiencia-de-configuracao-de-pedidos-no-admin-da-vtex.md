@@ -6,7 +6,7 @@ createdAt: 2026-07-21T13:00:00.000Z
 updatedAt: 2026-07-21T13:00:00.000Z
 contentType: updates
 productTeam: Orders
-slugEN: 2026-07-21-new-orders-configuration-experience-inside-vtex-admin
+slugEN: 2026-07-21-new-order-configuration-experience-in-the-vtex-admin
 locale: pt
 announcementSynopsisPT: 'A página de configurações de pedido e checkout agora é uma experiência independente e mais rápida no Admin da VTEX.'
 tags:
@@ -17,7 +17,7 @@ tags:
 
 Redesenhamos a página de configurações de pedido e checkout no Admin da VTEX. As configurações agora estão disponíveis em uma nova experiência independente, com uma interface mais moderna e carregamento mais rápido, mantendo as mesmas opções de configuração que você já utiliza.
 
-O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/en/announcements/2025-10-21-new-license-manager-resources-order-configurations): `Save Order Configuration` e `Save OrderForm Configuration`.
+O acesso à página continua exigindo os recursos do [License Manager](https://help.vtex.com/pt/announcements/2025-10-21-novos-recursos-do-license-manager-configuracoes-pedidos): `Save Order Configuration` e `Save OrderForm Configuration`.
 
 ## Por que fizemos essa mudança?
 

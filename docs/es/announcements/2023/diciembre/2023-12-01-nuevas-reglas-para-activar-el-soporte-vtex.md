@@ -17,7 +17,7 @@ announcementSynopsisES: 'Para cuentas en Brasil, ahora es esencial tener Open Su
 
 Las cuentas de Brasil ahora requieren que los roles de los usuarios tengan asignado el recurso **Open Support Ticket** del producto **VTEX - Support** para poder solicitar asistencia del equipo de soporte VTEX. Un usuario con el rol *User Administrator - Restricted* debe asignar el permiso en [License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3?&utm_source=autocomplete).
 
-> ℹ️ Los usuarios administrativos asociados al rol ** Owner (Admin Super)** tienen el recurso * Open Support Ticket * asignado automáticamente. 
+> ℹ️ Los usuarios administrativos asociados al rol **Owner (Admin Super)** tienen el recurso *Open Support Ticket* asignado automáticamente. 
 
 ## ¿Qué cambió?
 

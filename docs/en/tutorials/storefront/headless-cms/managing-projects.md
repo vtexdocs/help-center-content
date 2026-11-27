@@ -100,7 +100,7 @@ On the Projects main page, click Settings (⚙️), and a modal window will open
 
 ### Restoring default Sections URL
 
-Once you have [created the project](creating-a-new-project) and want to edit the [**Sections URL**](#content-types) field click `Edit`, add the new webhook URL and click `Save`. If you want to restore the default URL, click `Restore default`.
+Once you have [created the project](#creating-a-new-project) and want to edit the [**Sections URL**](#content-types) field click `Edit`, add the new webhook URL and click `Save`. If you want to restore the default URL, click `Restore default`.
 
 ## Archiving a project
 Archiving a project disables the API and access to the content within the project. 

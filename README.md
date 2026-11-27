@@ -12,6 +12,7 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
       - [Announcements fields](#announcements-fields)
       - [Track fields](#track-fields)
       - [Troubleshooting fields](#troubleshooting-fields)
+      - [Category cover field (tracks and tutorials only)](#category-cover-field-tracks-and-tutorials-only)
     - [Applying filters to an announcement](#applying-filters-to-an-announcement)
       - [Announcements Type filters](#announcements-type-filters)
       - [Announcements Area filters](#announcements-area-filters)
@@ -85,6 +86,7 @@ The front matter is the table with metadata about the article you are creating. 
 - **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
 - **locale:** Article language (`pt`, `en`, or `es`).
 - **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
+- **order:** (Optional) Defines the article's position among its siblings in the sidebar navigation. See [Order field](#order-field) below for the full rules.
 
 In addition to the standard fields for all articles, check the specific fields for each type of article below:
 
@@ -97,12 +99,48 @@ In addition to the standard fields for all articles, check the specific fields f
 #### Track fields
 
 - **trackSlugEN**: Track slug identification.
-- **order**: Defines the article's position in the track sidebar navigation. Must be a positive integer. Articles are displayed in ascending order.
 
 #### Troubleshooting fields
 
 - **domainFilters**: Troubleshooting Area filters. These values identify the product or area in which the user is most likely to associate the issue (for example, `Checkout`, `Logistics`, `Master Data`).
 - **symptomFilters**: Troubleshooting Type filters. These values identify the problem type the user is experiencing (for example, `Loading issue`, `Misconfiguration`, `Flow interruption`).
+
+#### Order field
+
+- **order**: Defines the article's position among its siblings in the sidebar navigation (`tracks`, `tutorials`, `faq`, `known-issues`, and `troubleshooting`). Must be a positive integer; articles are displayed in ascending order.
+
+Rules for using `order`:
+
+- **Set it on the PT file only.** Marking `order` on an EN or ES file still works, but the navigation generator logs a warning asking for it to be moved to the PT version — the same policy as `categoryCover` below. You don't need to repeat the same value across every language version of an article.
+- **Gaps in the sequence are fine.** `order: 1` and `order: 5` with nothing in between still sort correctly, in that order.
+- **Articles without an `order` value** are listed after every article that does have one, sorted alphabetically by their PT title.
+- **If two articles share the same `order` value**, they're also sorted alphabetically by their PT title, instead of in an arbitrary order.
+- **Has no effect on `announcements`**, which always sort by date instead.
+
+Example frontmatter (on the PT file):
+
+```yaml
+order: 1
+```
+
+#### Category cover field (tracks and tutorials only)
+
+- **categoryCover**: Marks a folder's own overview article as that category's landing page (`true` or omitted).
+
+This field only has an effect for folders that have subfolders. When one of the direct `.md` files in such a folder is marked `categoryCover: true`, that article becomes the entry point for the whole category: clicking the category in the navigation opens that article directly, instead of just expanding the list of subcategories.
+
+Rules for using `categoryCover`:
+
+- **It only applies to the `tracks` and `tutorials` sections.** It has no effect in `announcements`, `faq`, or `troubleshooting`.
+- **Only one file per folder can be marked as cover.** If more than one file in the same folder has `categoryCover: true`, the navigation generator ignores the flag for that folder and falls back to a regular category, logging a warning.
+- **Set it on the PT file only.** Marking `categoryCover: true` on an EN or ES file still works, but the navigation generator logs a warning asking for it to be moved to the PT version.
+- **The folder needs subfolders for the cover to apply.** If the folder has no subfolders, `categoryCover` has no effect and the article is listed normally.
+
+Example frontmatter for a cover article:
+
+```yaml
+categoryCover: true
+```
 
 ### Applying filters to an announcement
 
@@ -133,7 +171,7 @@ The existing values and their context are:
 | **Admin**              | **Admin**              | **Admin**              | VTEX Admin.                                                   |
 | **Checkout**           | **Checkout**           | **Checkout**           | Validation, reCAPTCHA, cart functionality.                    |
 | **Catalog**            | **Catálogo**          | **Catálogo**          | Products, categories, SKUs, specifications.                   |
-| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods, Billing.          |
+| **Payments**           | **Pagamentos**         | **Pagos**              | Gateway, Payment Provider Protocol, payment methods.          |
 | **Orders**             | **Pedidos**            | **Pedidos**            | Order Management System (OMS), order processing.              |
 | **Promotions**         | **Promoções**        | **Promociones**        | Discounts, coupons, campaigns, pricing rules.                 |
 | **Prices**             | **Preços**            | **Precios**            | Price tables, fixed prices, computed prices, price rules.     |
@@ -150,6 +188,7 @@ The existing values and their context are:
 | **VTEX Ads**           | **VTEX Ads**           | **VTEX Ads**           | VTEX Ads news.                                                |
 | **B2B Buyer Portal**   | **B2B Buyer Portal**   | **B2B Buyer Portal**   | B2B Buyer Portal news.                                        |
 | **VTEX Sales App**     | **VTEX Sales App**     | **VTEX Sales App**     | VTEX Sales App news.                                          |
+| **Billing**            | **Faturamento**        | **Facturación**        | Billing, invoices, financial statements.                      |
 
 > ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
@@ -380,7 +419,7 @@ To insert an image to an article follow the steps below:
    - `{{path}}` by the path where you saved the image
    - `{{image-slug-name}}` by the image slug name
 
-Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\b2b\b2b-suite\visao-geral\b2b-suite-visao-geral_1.gif)`.
+Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-suite/visão-geral/b2b-suite-visao-geral_1.gif)`.
 
 > ⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 

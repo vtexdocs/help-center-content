@@ -26,7 +26,7 @@ Para estos casos, la página **Certificados SSL** permite instalar un nuevo cert
 La página presenta la siguiente información en forma de tabla:
 
 | Columnas | Descripción |
-| :---- | :---- |
+| ---- | ---- |
 | **Dominio** | Dirección de la tienda (host), compuesto por subdominio, dominio y dominio de nivel superior. Por ejemplo, `www.mystore.com`. Para saber más sobre la estructura de la dirección, consulta [Configurar dominio de la tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda#estrutura-do-endereco-da-loja). |
 | **AC** | Autoridad de certificación. |
 | **Fecha de instalación** | Fecha de instalación del certificado. |

@@ -86,10 +86,10 @@ Para instalar o aplicativo, acesse a App Store VTEX:
 1. Procure na loja o aplicativo **Amazon MCF**;
 2. Clique em `Instalar`.
 3. Preencha os seguintes campos: 
-    * **Fatura Automática:** Selecione <i class="fas fa-toggle-on"></i> para ativar (**Ativado) **ou desativar** (Desativado).**
+    * **Fatura Automática:** Selecione <i class="fas fa-toggle-on"></i> para ativar (**Ativado)** ou desativar** (Desativado).**
         * Utilize `Ativado` para a geração automática de nota fiscal (quando a loja não envia a nota fiscal para os pedidos); 
         * Utilize `Desativado` para incluir as notas fiscais dos pedidos manualmente ou via ERP.
-    * **Embalagem Branca:** Selecione <i class="fas fa-toggle-on"></i> para ativar (**Ativado**) ou desativar (**Desativado**).
+    * **Embalagem Branca:**Selecione <i class="fas fa-toggle-on"></i> para ativar (**Ativado**) ou desativar (**Desativado**).
         * Utilize `Ativado` para que os pedidos sejam enviados em embalagens que não possuem a logomarca da Amazon.
         * Utilize `Desativado` para que os pedidos sejam enviados com embalagens da Amazon.
     * **Logística Amazon:** Selecione <i class="fas fa-toggle-on"></i> para ativar (**Ativado**) ou desativar (**Desativado**).
@@ -113,7 +113,7 @@ Para realizar a integração, consulte e siga os passos do tutorial [Cadastro da
 Com o aplicativo instalado, é preciso autorizar o acesso à sua conta Amazon. Para isso, siga os passo abaixo:
 
 1. No menu lateral à esquerda, clique no ícone de Aplicativos;
-2. Em **Gerenciamento de Aplicativos, **clique em `Meus Aplicativos`;
+2. Em **Gerenciamento de Aplicativos,** clique em `Meus Aplicativos`;
 3. Selecione o **Amazon MCF (Multi-Channel Fulfillment)**;
 4. Clique em `Authorize`;
 5. Você será redirecionado para a página da Amazon. Faça o login na sua conta;

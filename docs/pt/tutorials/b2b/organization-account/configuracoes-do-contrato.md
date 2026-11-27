@@ -20,6 +20,7 @@ Este artigo aborda:
   - [Editar um endereço](#editar-um-endereço)
   - [Excluir um endereço](#excluir-um-endereço)
 - [Gerenciar meios de pagamento](#gerenciar-meios-de-pagamento)
+  - [Configurar a promissória compatível](#configurar-a-promissória-compatível)
   - [Adicionar um meio de pagamento](#adicionar-um-meio-de-pagamento)
   - [Remover um meio de pagamento](#remover-um-meio-de-pagamento)
 - [Gerenciar cartões de crédito](#gerenciar-cartões-de-crédito)
@@ -89,6 +90,20 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 ## Gerenciar meios de pagamento
 
 A página **Payment methods** lista os meios de pagamento atualmente disponíveis para a unidade organizacional. O usuário pode adicionar meios dentre as opções disponíveis para a unidade ou remover os existentes.
+
+### Configurar a promissória compatível
+
+Ao configurar meios de pagamento na sua loja, existem diferentes opções de pagamento com promissória, diferenciadas por códigos numéricos.
+
+Para pagamentos com promissória, o **B2B Buyer Portal** é compatível apenas com a promissória do meio de pagamento `207`. Configure essa promissória no **Admin** antes de adicioná-la aos meios de pagamento do contrato.
+
+Para abrir a promissória compatível, acesse a URL `https://{accountName}.myvtex.com/admin/pci-gateway#/custom-payments/promissories/207`, substituindo `{accountName}` pelo [account name](https://help.vtex.com/pt/docs/tutorials/o-que-e-account-name) da loja.
+
+Não use a busca por promissórias do **Admin** para localizar a promissória compatível.
+
+O primeiro resultado da busca pode ser uma promissória incompatível com o **B2B Buyer Portal**.
+
+Para preencher os demais campos da promissória, consulte [Configurar pagamentos com Promissória](https://help.vtex.com/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
 
 ### Adicionar um meio de pagamento
 

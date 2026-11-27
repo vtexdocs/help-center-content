@@ -1,0 +1,34 @@
+---
+title: 'Intelligent Search'
+id: 3qgT47zY08biLP3d5os3DG
+status: PUBLISHED
+createdAt: 2020-03-05T14:47:05.068Z
+updatedAt: 2024-09-06T20:31:00.380Z
+publishedAt: 2024-09-06T20:31:00.380Z
+firstPublishedAt: 2020-03-05T19:53:38.701Z
+contentType: trackArticle
+productTeam: Marketing & Merchandising
+slugEN: overview-intelligent-search
+locale: en
+trackId: 19wrbB7nEQcmwzDPl1l4Cb
+trackSlugEN: vtex-intelligent-search
+order: 1
+---
+
+Intelligent Search is VTEX's native intelligent search tool, designed to improve the digital shopping experience. It supports customers throughout their shopping journey across various channels (website, mobile app, conversational commerce, etc.).
+
+It returns relevant results from the user's first interaction with the store through the search bar, browsing categories, or exploring product listing pages, providing a seamless and intuitive experience.
+
+In this track, we will present the necessary steps to configure and begin using Intelligent Search in your VTEX store.
+
+> ℹ️ Explore all available features and learn more about the tool's behavior in the section [Intelligent Search - Overview](/en/docs/tutorials/intelligent-search-overview).
+
+## Requirements
+
+Before you start using Intelligent Search, make sure your store meets the following requirements:
+
+* The store must have been developed using [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [FastStore](https://developers.vtex.com/docs/guides/faststore), i.e., it must use a version of [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x or newer.
+
+  > ℹ️ The above requirement does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, search impressions and clicks must be tracked manually using Activity Flow. For implementation details, see [Tracking search analytics events in headless web stores](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-headless-web-stores) and [Tracking search analytics events in mobile apps](https://developers.vtex.com/docs/guides/tracking-search-analytics-events-in-mobile-apps).
+
+* The store must have active [products and SKUs in the Catalog](/en/docs/tracks/adding-products).

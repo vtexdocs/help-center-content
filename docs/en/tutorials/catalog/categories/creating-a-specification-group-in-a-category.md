@@ -28,9 +28,9 @@ In this article, we explain how the specification inheritance works and how to c
 
 ## Specification inheritance
 
-When a group is created in a department or a category, it will be replicated in all the sublevels of that department or category, following a "inheritance" logic. Therefore, if you want to create a specification group applicable to one category only, you must create it at that category level.
+When a group is created in a department or a category, it will be replicated in all the sublevels of that department or category, following an "inheritance" logic. Therefore, if you want to create a specification group applicable to one category only, you must create it at that category level.
 
-Example: A fashion store has a **Clothing** category which includes a **Characteristics** specification group. This group may have, for example, a product field named **Fabric**, with values such as **Cotton** or **Polyester** and a SKU field named **Size** with possible values such as **S**, **M **or **L**.
+Example: A fashion store has a **Clothing** category which includes a **Characteristics** specification group. This group may have, for example, a product field named **Fabric**, with values such as **Cotton** or **Polyester** and a SKU field named **Size** with possible values such as **S**, **M** or **L**.
 
 In the same store from the example above, under the **Clothing** category, there is a **Dresses** subcategory which contains a different specification group: a product field named **Occasion**, with values such as **Casual** or **Party**. The products in this subcategory and their respective SKUs must have all the fields filled in.
 

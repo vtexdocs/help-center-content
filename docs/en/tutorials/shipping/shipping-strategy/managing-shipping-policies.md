@@ -39,8 +39,8 @@ In the VTEX Admin, by going to **Shipping > Shipping Strategy** in the **Shippin
 
 The information displayed on this page is described in the table below:
 
-| **Column** | **Description** |
-| :---: | :--- |
+| Column | Description |
+| --- | --- |
 | Shipping Policy | Name that identifies your [shipping policy](/en/docs/tutorials/shipping-policy) for users with access to your VTEX Admin. Learn more in the [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy) article. |
 | Shipping Method | [Shipping method](/en/docs/tutorials/how-does-the-type-of-delivery-work) is the name you set in the shipping policy displayed to customers at checkout. Thus, you should use intuitive names when creating a shipping policy.Example: `Express shipping` and `Standard shipping`. |
 | Loading Docks | Identifies which [loading docks](/en/docs/tutorials/loading-dock) are associated with the [shipping policy](/en/docs/tutorials/shipping-policy). When you hover over the number in this column, you will see the names of all the loading docks associated with the shipping policy. |

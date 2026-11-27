@@ -28,7 +28,7 @@ Este artículo contiene la información necesaria para:
 * [Editar un almacén existente](/es/docs/tutorials/gestionar-almacenes#editar-almacen).
 * [Eliminar un almacén](/es/docs/tutorials/gestionar-almacenes#eliminar-almacen).
 
-> ⚠️ Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden: <body> <ol> <li>[Política de envío](/es/docs/tutorials/politica-de-envio)</li> <li>[Muelle](/es/docs/tutorials/gestionar-el-muelle)</li> <li>[Almacén](/es/docs/tutorials/almacen)</li> </ol> </body>
+> ⚠️ Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden: <ol> <li>[Política de envío](/es/docs/tutorials/politica-de-envio)</li> <li>[Muelle](/es/docs/tutorials/gestionar-el-muelle)</li> <li>[Almacén](/es/docs/tutorials/almacen)</li> </ol> 
 
 ## Registrar almacén
 

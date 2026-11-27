@@ -30,7 +30,7 @@ Los problemas en ciclos de suscripción se producen cuando hay un impedimento pa
 
 La pestaña **Ciclos con un problema**, que se ilustra en la siguiente imagen, recoge los pedidos de suscripción que tienen este tipo de problemas.
 
-![pedidos_assinaturas_print_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
+![pedidos_assinaturas_print_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
 
 Desde esta pestaña se puede gestionar los pedidos que presentan ciclos con un problema y realizar reintentos manuales de creación de pedidos. Por ejemplo, cuando un producto no está disponible, puede ajustar el stock y volver a intentarlo.
 
@@ -41,7 +41,7 @@ Para visualizar los ciclos con un problema y realizar nuevos intentos de pedido,
 3. En la sección **Pedidos de suscripción**, haga clic en **Ciclos con problema**.
 4. Identifique el pedido que desea corregir y verifique cuál es el problema informado en la columna **Error**. Consulte la [tabla de errores](#errores) para más información.
 5. De ser necesario, corrija el problema indicado (ejemplo: ajustar stock).
-6. Vuelva a **Suscripciones **>** Dashboards **>** Pedidos de suscripción**  > **Ciclos con problema** y haga clic en el botón <i class="fas fa-redo-alt"></i> en la columna **Procesar de nuevo**.  Si el nuevo intento funciona, el pedido se creará en **Gestión de pedidos**.
+6. Vuelva a **Suscripciones**>**Dashboards**>**Pedidos de suscripción**  > **Ciclos con problema** y haga clic en el botón <i class="fas fa-redo-alt"></i> en la columna **Procesar de nuevo**.  Si el nuevo intento funciona, el pedido se creará en **Gestión de pedidos**.
 
 ### Errores
 
@@ -67,7 +67,7 @@ Los errores de pago se producen durante el flujo de aprobación del pago, como e
 
 Los pedidos con este tipo de error pueden visualizarse en la pestaña **Error de pago**, ilustrada en la siguiente imagen.
 
-![pedidos_assinaturas_print_erro_pagamento_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
+![pedidos_assinaturas_print_erro_pagamento_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
 
 Para analizar errores de pago, realice el siguiente procedimiento.
 
@@ -76,7 +76,7 @@ Para analizar errores de pago, realice el siguiente procedimiento.
 3. En la sección de **Pedidos de suscripción**, haga clic en la pestaña **Error de pago**.
 4. Identifique el pedido deseado y haga clic en el ID del pedido. Será dirigido a la página de detalles del pedido en el módulo de **Todos los pedidos**. 
 5. Una vez en la página de detalles del pedido, haga clic en **Ver detalles de la transacción**, en la opción **Pago**. Será dirigido a la página de Transacciones en el módulo **Pagos**. 
-6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
+6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/docs/tutorials/como-visualizar-detalle-del-pedido) para obtener más información.
 
 Los pedidos con errores de pago pasan por 5 reintentos automáticos en un periodo de 12 horas, de acuerdo con  el flujo del gateway. No es posible realizar reintentos manuales para corregir errores de pago en el Admin. 
 

@@ -70,7 +70,7 @@ The **Specifications** section may display different fields depending on the pro
 
 > ⚠️ If a SKU has specifications, they must be completed. For more information, see the article [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields).
 
-> ❗ It's not possible to create a SKU with the same values combination​ as another SKU. For example, if the combination of SKU A is color black and size S, it would not be possible to create SKU B with the color black and size S, as this would generate a conflict. However, if the SKU A was black and the SKU B color was blue, even if you kept the size S for both, there would be no conflict as the combinations would differ. It is worth mentioning that you can deactivate but not delete a single SKU.
+> ❗ It's not possible to create a SKU with the same combination of values as another SKU. For example, if the combination of SKU A is color black and size S, it would not be possible to create SKU B with the color black and size S, as this would generate a conflict. However, if SKU A was black and SKU B was blue, even if you kept the size S for both, there would be no conflict as the combinations would differ. It is worth mentioning that you can deactivate but not delete a single SKU.
 
 ## Media
 
@@ -85,8 +85,8 @@ In the **Images** field, clicking `Add` displays two options for uploading photo
 
 The table below shows the size limits and formats accepted for each image:
 
-| **File size and format** | **Description** |
-| :--- | :--- |
+| File size and format | Description |
+| --- | --- |
 | Maximum size in pixels | 5,000 x 5,000 pixels |
 | Minimum size in pixels | 600 x 600 pixels |
 | Maximum size in MB | 4 MB |
@@ -115,7 +115,7 @@ In addition to adding new images to an SKU, you can replicate images from one SK
 
 In the **Videos** field, click `+ Add` to open the **Add SKU media links** window. To add a video, enter its URL and then click `Apply`.
 
-A SKU can have up to 6 videos, and you can only add them using links from either the Vimeo or YouTube platforms**. The accepted formats are:
+A SKU can have up to 6 videos, and you can only add them using links from either the Vimeo or YouTube platforms. The accepted formats are:
 
 **Vimeo**
 
@@ -135,7 +135,7 @@ A SKU can have up to 6 videos, and you can only add them using links from either
 The fields in this section refer to the codes that identify the SKU:
 
 * **Reference code:** Unique reference code created to help merchants with catalog management.
-* **EAN/UPC:** The EAN (European Article Number) and the UPC (Universal Product Code) are in ternational identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for the EAN and 12 for the UPC.
+* **EAN/UPC:** The EAN (European Article Number) and the UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for the EAN and 12 for the UPC.
 * **Manufacturer code:** Code provided by the manufacturer to identify the SKU. If a SKU has a specific code, this field must be completed.
 
 ## Logistics
@@ -181,14 +181,14 @@ Define inventory aspects in the Catalog context:
 
 This section includes fields related to the store's sales strategies:
 
-* **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](https://help.vtex.com/docs/tutorials/registering-a-commercial-condition).
+* **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](https://help.vtex.com/en/docs/tutorials/registering-a-commercial-condition).
 * **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/docs/tutorials/how-shipping-calculation-works) to customers.
 * **Generate credit with gift card:** When enabled, indicates that the SKU is a gift list item.
 * **Loyalty amount**: Determines the credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases.
 
 ## Customizations
 
-SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/docs/tutorials/what-is-an-attachment) and [services](/en/tutorial/o-que-e-um-servico).
+SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/docs/tutorials/what-is-an-attachment) and [services](/en/docs/tutorials/what-is-a-service).
 
 To link a customization to a SKU, click the add + icon, select the desired option, and follow these steps:
 
@@ -199,23 +199,23 @@ To link a customization to a SKU, click the add + icon, select the desired optio
 
 ## Cross-sell and up-sell recommendations
 
-This section allows the store to configure [cross-selling](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics#what-is-cross-selling) and [up-selling](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
+This section allows the store to configure [cross-selling](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together#what-is-cross-selling) and [up-selling](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
 
 To configure cross-sell and up-sell options, follow the steps below:
 
 1. In the **Cross-sell and up-sell recommendations** section, click the add icon `+`.
 2. Select an option from the following:
 
-    * **Accessories:** Complimentary items suggested for the main product.
+    * **Accessories:** Complementary items suggested for the main product.
     * **Suggestions:** Product recommendations.
     * **Similar products:** Alternatives to the selected item or products with similar characteristics.
     * **Show together:** Suggestions for buying together.
 
-3. Click `Add SKUs`
+3. Click `Add SKUs`.
 4. Select the SKUs you want to add. You can use the search bar if you wish.
 5. Click `Apply`.
 
-> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics).
+> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/docs/tutorials/setting-up-accessories-suggestions-similar-products-and-show-together).
 
 ## Attributes
 
@@ -235,4 +235,4 @@ To configure an attribute for the SKU, follow the steps below:
 * [Products and SKUs](/en/docs/tutorials/products-and-skus)
 * [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
 * [Catalog: Overview](/en/docs/tutorials/catalog-overview)
-* [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
+* [Catalog](/en/docs/tracks/catalog-101) (track)

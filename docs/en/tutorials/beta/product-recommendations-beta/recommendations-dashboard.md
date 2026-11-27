@@ -3,7 +3,7 @@ title: 'Recommendations dashboard (beta)'
 id: 2QIexbD2FSXBxELUnFtg7g
 status: PUBLISHED
 createdAt: 2026-02-20T13:01:10.919Z
-updatedAt: 2026-02-20T13:01:10.919Z
+updatedAt: 2026-10-09T15:18:22.000Z
 publishedAt: 2026-02-20T13:01:10.919Z
 firstPublishedAt: 2025-06-27T20:41:49.041Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/pt-br/contato/">contact form</a>.
+> ℹ️ This feature is in closed beta and only available to selected clients. If you're a VTEX client and want to adopt this feature for your business, contact our [commercial support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, complete the <a href="https://vtex.com/pt-br/contato/">contact form</a>.
 
 The **Recommendations** page provides a dashboard to track and analyze the performance of product recommendation strategies in your store through consolidated metrics or divided by shelves.
 
@@ -23,8 +23,17 @@ To access the dashboard in the VTEX Admin, go to _Storefront > Recommendations_.
 
 ## Requirements
 
-- The [Product recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
-- [Recommendation strategies](https://help.vtex.com/docs/tutorials/product-recommendations-beta) must be implemented in your store.
+- The [Product recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) feature must be enabled in your store.
+- [Recommendation strategies](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta) must be implemented in your store.
+- You need a [role](https://help.vtex.com/en/docs/tutorials/roles) with the [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources) below. Without the *View Recommendations* resource, the **Recommendations** page doesn't open in the VTEX Admin.
+
+  * **Product:** *Recommendations*
+  * **Category:** *Recommendations*
+
+  | Resource | Key | Description |
+  | --- | --- | --- |
+  | *View Recommendations* | `ViewRecommendations` | View the list of recommendations in the Admin panel. |
+  | *View Recommendations metrics* | `ViewRecommendationsMetrics` | View recommendation metrics in the Admin panel. |
 
 ## Overview
 
@@ -39,7 +48,7 @@ Click any metric to view its corresponding chart, which shows the metric's evolu
 The following table describes the dashboard metrics:
 
 | Metric                       | Description                                                                                                                                                                            | Hover information                        |
-| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | **Click-through conversion** | Percentage of clicks on recommendations that resulted in orders.                                                                                                       | Clicks, Orders, Click-through conversion |
 | **View rate**                | Percentage of recommendation shelf views relative to total page views. The strategy is generated each time the page loads, and you may view it or not. | Views, Impressions, View rate            |
 | **Click-through rate**       | Average click-through rate (CTR) for recommendations.                                                                                               | Clicks, Views, Click-through rate        |
@@ -54,7 +63,7 @@ The table shows the performance of each recommendation shelf configured in the s
 The page displays the following information about each shelf in table form:
 
 | Column                   | Description                                                                                                                                                  |
-| :----------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shelf                    | Recommendation shelf name and its respective strategy and display context (for example, _home_, _pdp_, _cart_, _footer_). |
 | View rate                | Percentage of shelf views relative to views of the page where it's embedded.                                                                 |
 | Click-through rate       | Percentage of clicks on products in the shelf relative to total views.                                                                       |
@@ -138,7 +147,8 @@ To remove a filter, repeat steps 1 and 2 and click `Clear`.
 
 ## Learn more
 
-- [Product Recommendations](https://help.vtex.com/docs/tutorials/product-recommendations-beta)
+- [Product Recommendations](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta)
+- [Recommendations reports (beta)](https://help.vtex.com/en/docs/tutorials/recommendations-reports)
 - [Recommendation Shelf (Store Framework)](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf)
 - [Integrating product recommendations in headless or FastStore web stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-or-faststore-web-stores)
 - [Integrating product recommendations in mobile stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-mobile-stores)

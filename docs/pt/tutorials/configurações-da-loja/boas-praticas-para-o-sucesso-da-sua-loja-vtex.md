@@ -54,7 +54,7 @@ Os principais benefícios em criar uma documentação da arquitetura da sua oper
 
 Existem estratégias para prevenir e reduzir a exposição da sua loja ao risco de ataques maliciosos. Algumas das principais são:
 
-* **Antifraude:** configure um sistema [antifraude](/pt/tutorial/what-is-anti-fraud) para todos os métodos de pagamento da sua loja.  
+* **Antifraude:** configure um sistema [antifraude](/pt/docs/tutorials/agentes-financeiros-no-fluxo-de-pagamento#antifraude) para todos os métodos de pagamento da sua loja.  
 * **reCAPTCHA:** use o [reCAPTCHA](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) para se prevenir de fraudes com falsos usuários criados por programas maliciosos.
 * **Autenticação:** caso sua loja esteja sofrendo ataques recorrentes, considere desabilitar o login por senha e optar por outra forma de [autenticação](/pt/docs/tutorials/autenticacao) para os clientes da sua loja.
 
@@ -86,8 +86,8 @@ Nesta seção, conheça boas práticas para acompanhar o status da plataforma e 
 
 A plataforma VTEX está em constante evolução, uma boa forma para você e sua equipe estarem a par dos lançamentos é acompanhando nossos portais de documentação, apresentados a seguir:
 
-| **Portal de documentação** | **Onde encontrar** |
-| :---: | :---: |
+| Portal de documentação | Onde encontrar |
+| --- | --- |
 | Help Center | Página: [Novidades](/pt/announcements) |
 | Developer Portal | Página: [Release Notes](https://developers.vtex.com/updates/release-notes) |
 
@@ -118,8 +118,8 @@ A  VTEX oferece inúmeras funcionalidades e produtos, e é importante conhecê-l
 
 Para isso, disponibilizamos uma série de conteúdos de onboarding sobre a plataforma, apresentados a seguir:
 
-| **Formato** | **Onde encontrar** | **Língua** |
-| :---: | :--- | :--- |
+| Formato | Onde encontrar | Língua |
+| --- | --- | --- |
 | Documentação | Help Center: [Guia de onboarding](/pt/docs/tracks/introducao-a-vtex) | Português, inglês e espanhol. |
 | Vídeos | Site: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Somente português. |
 | Demos e ebooks | Site: [VTEX.com](https://vtex.com/br-pt/resources) | Cada conteúdo é disponibilizado somente em português, inglês ou espanhol. |

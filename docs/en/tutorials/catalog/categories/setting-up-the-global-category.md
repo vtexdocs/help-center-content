@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-The global category tree is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436), and which in VTEX system is pre-defined as a single tree.
+The global category tree is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436), and which in the VTEX system is pre-defined as a single tree.
 
 The same global categories are available for products from all stores.
 
@@ -35,7 +35,7 @@ The global category is only used in external integrations, for example with mark
 
 ### How to choose a global category?
 
-A good mapping makes the products of the store found in partners more effectively.
+A good mapping helps partners find the store's products more effectively.
 
 You should always choose the global category that most closely matches the products of the category in your store.
 
@@ -45,13 +45,13 @@ __Example__: If your store has a "Motherboard" category, you should choose the g
 
 ### How to configure a global category?
 
-In the [VTEX catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
+In the [VTEX catalog](/en/docs/tracks/catalog-101), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
 
 Defining a global category is mandatory. **You can use it to integrate a store with external sales channels.** Currently, VTEX uses the global category only for the Amazon integration connector. 
 
 You must choose the global category that most closely matches your product. Your partners will be able to find your products easily if you map them well. The more specific the category is, the better.
 
-**Example:** if your store has a "Motherboards" category, you should choose the "Motherboards" as the global category rather than "Components and circuit boards" or "Electronics".
+**Example:** if your store has a "Motherboards" category, you should choose "Motherboards" as the global category rather than "Components and circuit boards" or "Electronics".
 
 Ideally, it would be best if you determined the global category in the category settings. This way, all products in a given category will belong to the same global category.
 

@@ -1,5 +1,5 @@
 ---
-title: 'What is a Department?'
+title: 'Departments'
 id: 22rKjmYWVmmKAK8CWa8yKw
 status: PUBLISHED
 createdAt: 2018-01-25T21:25:55.009Z
@@ -23,10 +23,10 @@ In order to optimize the usability of your store, we recommend that you create a
 __Female__ (Department)
 
 
-__Acessories__ (Category)
+__Accessories__ (Category)
 
 
 __Shoes__ (Subcategory)
 
 
-In such way, you make life easier for users and ensure they quickly find the products they are looking for.
+This way, you make life easier for users and ensure they quickly find the products they are looking for.

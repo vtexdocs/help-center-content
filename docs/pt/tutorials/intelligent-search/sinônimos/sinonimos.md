@@ -13,6 +13,7 @@ slugEN: synonyms
 legacySlug: sinonimos
 locale: pt
 subcategoryId: BBzMtJan1UTxC9QZODnlN
+categoryCover: true
 ---
 
 A funcionalidade de sinônimos do Intelligent Search permite cadastrar palavras com significados semelhantes a um termo de busca específico, aumentando as chances de sucesso na pesquisa. Essa ferramenta possibilita criar regras de relacionamento entre as palavras pesquisadas e as palavras contidas no cadastro de produtos.

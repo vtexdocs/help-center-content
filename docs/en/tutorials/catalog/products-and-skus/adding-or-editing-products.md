@@ -35,7 +35,7 @@ To add a new product to the store catalog, follow these steps:
 4. Depending on the product category, the **Category attributes** step might appear with additional sections. Complete the fields as described in [Category attributes](#category-attributes).
 5. Click `Save`.
 
-> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows bulk deleting products and SKUs in bulk via [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup).
+> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows deleting products and SKUs in bulk via [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup).
 
 > ℹ️ If the product you created doesn't show in the storefront, check the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) to learn how to solve the problem.
 
@@ -69,7 +69,7 @@ The [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) (Search
   > ❗ When filling in the **Product URL**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages: `a`, `meta`, `api` and `admin`.
 
 * **Page title:** Enter a name that will be displayed both on the product detail page (PDP) and in the browser tab. This field is crucial for SEO. Avoid using more than 60 characters.
-* **Meta description:** Provide a brief description of the category, preferably under 160 characters. This allows search engines to display the description correctly on results pages.
+* **Meta description:** Provide a brief description of the product, preferably under 160 characters. This allows search engines to display the description correctly on results pages.
 
 > ℹ️ As you complete these fields, **Google** will show a preview of the structure to be displayed on the website.
 
@@ -78,13 +78,13 @@ The [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) (Search
 These fields define how the product displays in the [storefront](/en/docs/tutorials/storefront-overview):
 
 * **Display on website:** If you want to make the product visible in the storefront, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To hide it, keep it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-* **Show when out of stock:** If you want the out-of-stock product to be displayed on the storefront, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. This allows customers to use the [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) feature, which allows them to enter their email and receive a notification when the product is available. To hide out-of-stock items, keep it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
+* **Show when out of stock:** If you want the out-of-stock product to be displayed on the storefront, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. This allows customers to use the [Notify me](/en/docs/tutorials/setting-up-the-notify-me-option#) feature, which allows them to enter their email and receive a notification when the product is available. To hide out-of-stock items, keep it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 * **Release date:** Set a date to make the product available for sale. This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta) and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date.
 * **Substitute words:** Include synonyms for department and/or product category names by typing the desired term and pressing `Enter`. This field helps make product searches more comprehensive, allowing you to add multiple words up to a limit of 8,000 characters.
 
   > Example: For the product "Sneakers", substitute words could be "Trainers", "Running shoes", and "Athletic shoes".
 
-* **Similar categories:** Add the names of [similar categories](/en/tutorial/configurando-categoria-similar).
+* **Similar categories:** Add the names of [similar categories](/en/docs/tutorials/setting-up-similar-categories).
 * **Priority in search order:** Click the arrows to assign a priority level to the product on the search results page. Negative values aren't allowed. For more information, see the article [How does the Score field work?](/en/docs/tutorials/how-does-the-score-field-work).
 
 ## Identifiers
@@ -96,12 +96,12 @@ This section includes product identification codes:
 
 ## Category attributes
 
-Depending on the product category, the **Category attributes** may be displayed below the Default fields. This step includes informational fields that assign characteristics to the product, known as [product specifications](/en/tutorial/criando-um-campo-de-produto).
+Depending on the product category, the **Category attributes** may be displayed below the Default fields. This step includes informational fields that assign characteristics to the product, known as [product specifications](/en/docs/tutorials/adding-specifications-or-product-fields).
 
 The table below shows examples of product specifications for products in different categories:
 
-| **Category** | **Product** | **Specification** | **Value** |
-| :---: | :---: | :---: | :---: |
+| Category | Product | Specification | Value |
+| --- | --- | --- | --- |
 | Clothes | Shirt | Fabric | Cotton |
 | Electronics | Cell phone | Battery duration | 12 hours |
 | Beverages | Wine | Country of origin | Chile |
@@ -113,4 +113,4 @@ The table below shows examples of product specifications for products in differe
 * [Products and SKUs](/en/docs/tutorials/products-and-skus)
 * [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus)
 * [Catalog: Overview](/en/docs/tutorials/catalog-overview)
-* [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
+* [Catalog](/en/docs/tracks/catalog-101) (track)

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Once you have [configured the zoom CSS](https://developers.vtex.com/vtex-developer-docs/docs/setting-up-the-zoom), you have to insert a control to activate the zoom on the product page template. This process also takes place in the _Gerenciador do Portal_, but this time you have to locate the product page template, which should be in the _Portal > Templates de Página _folder. When you have located the template, you must enter the reference for the .css file we have just uploaded. 
+Once you have [configured the zoom CSS](https://developers.vtex.com/vtex-developer-docs/docs/setting-up-the-zoom), you have to insert a control to activate the zoom on the product page template. This process also takes place in the _Gerenciador do Portal_, but this time you have to locate the product page template, which should be in the _Portal > Templates de Página_ folder. When you have located the template, you must enter the reference for the .css file we have just uploaded. 
 
 For this, you must include a tag such as `<link href="/arquivos/zoom.css" rel="stylesheet" type="text/css">` in the head template, as we would do with any other .css file. 
 
