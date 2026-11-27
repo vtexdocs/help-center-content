@@ -24,6 +24,8 @@ symptomFilters:
 
 A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](/en/docs/tracks/prices-module-overview) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU price in the sales channel used by the integration. Provide the SKU ID, and VTEX Copilot will show whether a price is configured and what the configured price is for each sales channel.
+
 ## Solution
 
 To solve the problem, you must first identify which of the processes contains the error and apply the necessary correction.

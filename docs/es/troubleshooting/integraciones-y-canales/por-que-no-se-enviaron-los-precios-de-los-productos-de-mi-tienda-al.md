@@ -25,6 +25,8 @@ symptomFilters:
 
 El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](/es/docs/tracks/modulo-de-precios-vision-general) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el precio del SKU en la política comercial usada por la integración: envíale el ID del SKU y Copilot muestra si el precio está configurado y cuánto cuesta en cada política comercial.
+
 ## Solución
 
 Para resolver el problema, primero hay que identificar cuál de los procesos presenta error y aplicar la corrección necesaria.

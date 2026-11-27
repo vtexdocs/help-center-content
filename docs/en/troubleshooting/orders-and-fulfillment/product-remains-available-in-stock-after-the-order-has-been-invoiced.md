@@ -32,6 +32,8 @@ After a product is sold, it undergoes the following statuses in the store invent
 
 Products are only withdrawn from inventory when the order reaches the **Awaiting fulfillment** status. The [removal from inventory](/en/docs/tutorials/how-does-reservation-work#removal-from-inventory), which updates the number of available items, can be done manually by the merchant or automatically through the ERP. This process is carried out via [inventory management](/en/docs/tutorials/managing-stock-items) or the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check inventory. Provide the SKU ID, and VTEX Copilot will show the reserved and available quantities in each warehouse, identify reservations that haven't been released, and update the inventory quantity with your confirmation.
+
 ## Solutions
 
 Consider the following processes for updating the inventory when orders are in the **Awaiting fulfillment** status:

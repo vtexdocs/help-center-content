@@ -39,6 +39,8 @@ Este artículo explica cómo investigar errores de indisponibilidad de productos
 
 Hay casos en que el producto aparece en la vitrina, pero se muestra indisponible cuando se agrega al carrito. Esto puede depender de varios ajustes de logística. Aprende más en el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/docs/tutorials/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito).
 
+> ℹ️ Antes de seguir los pasos a continuación pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que verifique: usando el ID del producto Copilot lista las configuraciones del catálogo que hacen que no se muestre en la vitrina; con el SKU y un código postal, identifica si el problema es de precio, stock o envío.
+
 ## Catálogo
 
 Te recomendamos que empieces tu búsqueda de errores por el **Catálogo**. Para verificar la configuración del **Catálogo**, sigue estas instrucciones.

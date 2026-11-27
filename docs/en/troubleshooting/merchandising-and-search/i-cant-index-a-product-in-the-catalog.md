@@ -44,6 +44,8 @@ In some cases, the indexing process may be interrupted, resulting in the latest 
    - Number of collections
    - Number of sellers
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why products aren't being indexed. Provide the product ID, and VTEX Copilot will check the product registration, SKUs, category, brand, and associated sales channels to identify what's preventing indexing.
+
 ## Solutions
 
 To fix any issues preventing correct product indexing in the store, consider doing the following:

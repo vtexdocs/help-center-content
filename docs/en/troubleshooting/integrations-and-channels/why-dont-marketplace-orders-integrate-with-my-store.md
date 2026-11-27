@@ -32,6 +32,8 @@ When order integration errors occur between a marketplace and your store, messag
 
 Check the status of order integration and messages by going to the VTEX Admin, and clicking **Marketplace > Connections > Orders** or typing **Orders** in the search bar.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate integration errors on your store's side. Provide the SKU ID and the delivery postal code, and VTEX Copilot will check whether a pricing, inventory, or shipping issue is preventing the order from being created.
+
 ## Solution
 
 To understand the meaning of the error and fix it, see the table below:

@@ -22,6 +22,8 @@ symptomFilters:
 
 Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el stock negativo: envíale el ID del SKU y Copilot muestra el stock y las reservas por almacén, identifica reservas bloqueadas por pedidos cancelados o vencidos y actualiza el recuento tras tu confirmación.
+
 ## Solución
 
 La información de stock del ítem debe actualizarse en función de la cantidad de ítems físicos disponibles en el stock. Así, el valor registrado de los ítems en stock deberá ser igual a la suma de los ítems disponibles más los ítems reservados pero que aún no tienen el status **Preparando envío**.

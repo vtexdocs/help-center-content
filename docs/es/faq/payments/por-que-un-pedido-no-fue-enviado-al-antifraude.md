@@ -20,3 +20,5 @@ Cada vez que se realiza un pago, el conector de gateway de pago realiza algunas 
 Después de varios intentos, si no obtiene las respuestas esperadas, el pago y el pedido se cancelan. Los pedidos en esta situación no se envían al antifraude.
 
 > ⚠️ No se puede reenviar un pedido cancelado para el antifraude.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX ayuda a entender este caso: envíale el número del pedido y Copilot consulta la transacción y la respuesta del adquirente además de verificar qué proveedores antifraude están configurados en tu tienda.

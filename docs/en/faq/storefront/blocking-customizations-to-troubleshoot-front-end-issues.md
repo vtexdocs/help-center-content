@@ -21,6 +21,8 @@ In this article, you'll learn how to check the source of a frontend issue. The f
 
 To do this, we will show you how to remove the customizations using a native Chrome tool, **DevTools**.
 
+> ℹ️ If the issue persists even with customizations blocked, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can open a ticket with VTEX Support, with the conversation context and any screenshots you provide already included.
+
 ## Configuring DevTools
 
 To configure [Chrome DevTools](https://developer.chrome.com/docs/devtools/), follow the steps below.

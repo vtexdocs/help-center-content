@@ -34,6 +34,8 @@ Below are some instructions to help you solve these issues in Site Editor.
 
 To understand and correct each error, see the solutions below:
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate issues with Site Editor. Provide your email address, and VTEX Copilot will verify whether your store uses Store Framework, check whether you have the CMS GraphQL API resource in your roles, and open a ticket with VTEX Support if needed.
+
 ## Site Editor doesn't open
 
 The following error may occur: when you go to **Storefront** > **Site Editor** in the VTEX Admin, the page may show a blank screen or the `Something went wrong` message.

@@ -21,6 +21,8 @@ Eventualmente, puede ser que no se muestre una transportadora en el checkout. Se
 
 Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/docs/tutorials/transportadoras-en-vtex) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/es/tutorial/--tutorials_143).
 
+> ℹ️ Antes de seguir los pasos a continuación pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que investigue: usando el ID del SKU y el código postal, Copilot simula el envío, verifica si cada política de envío cubre ese código postal y revisa muelles y almacenes para encontrar la falla.
+
 ## Competencia entre transportadoras del mismo tipo
 
 Al momento de registrar una transportadora, es necesario incluir el [tipo de entrega](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega) de esta transportadora. En el checkout, se exhiben los _tipos de entrega_ y no el nombre de las transportadoras.

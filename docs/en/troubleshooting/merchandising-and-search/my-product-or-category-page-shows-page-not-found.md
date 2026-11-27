@@ -35,6 +35,8 @@ The most common causes for this behavior are:
 - [The category hierarchy or breadcrumb path is incorrect](#check-the-category-hierarchy-and-breadcrumb-path)
 - [Workspace changes weren't published](#publish-workspace-changes)
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the 404 error on the page. Provide the product ID, and VTEX Copilot will list the catalog settings (product, SKUs, category, and brand) and sales channels that may be preventing the item from being displayed on the product listing page.
+
 ## Solutions
 
 ### Check the URL and slug

@@ -22,3 +22,5 @@ Examples of cases where this happens:
 1. Your store is a marketplace, and the order refers to products sold by a seller that uses their own payment methods. This means that the order will be closed in your store and will include all products. This seller will see an order that includes only the products related to its store, and the corresponding transaction will appear in its Payments module.
 
 2. Your store is a seller whose products are sold in a marketplace, yet it has been defined that you would not use its payment methods. That is, the order transaction will be made by the marketplace itself. Because of that this transaction will appear only in the marketplace environment, not in your store.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you locate the payment. Provide the order number, and VTEX Copilot will check whether a transaction exists in Payments for your store or whether the payment was processed by the marketplace or seller.

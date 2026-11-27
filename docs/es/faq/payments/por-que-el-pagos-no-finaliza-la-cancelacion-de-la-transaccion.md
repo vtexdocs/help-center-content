@@ -20,3 +20,5 @@ Este escenario ocurre cuando una transacción permanece indefinidamente en el st
 ![resposta-inadequada-pci-gateway](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/payments/por-que-el-pagos-no-finaliza-la-cancelacion-de-la-transaccion_1.png)
 
 Para solucionar la cuestión, el comerciante debe ponerse en contacto con el gateway responsable del pago, informar los datos de la transacción y solicitar la cancelación.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga una transacción detenida en `Cancelling`: envíale el número del pedido o el ID de la transacción y Copilot consulta el status en el gateway para reunir los datos que necesitas para solicitar la cancelación al proveedor.

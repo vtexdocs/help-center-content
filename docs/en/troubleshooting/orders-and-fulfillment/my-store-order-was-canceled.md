@@ -26,6 +26,8 @@ Smart Checkout supports the "Pre-Auth" feature from some acquirers. So the platf
 
 In this process, an order is created, but if the operator denies, this transaction is automatically canceled.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can identify why an order was canceled. Provide the order number, and VTEX Copilot will check the order's cancellation data and the acquirer's response in the transaction to determine who requested the cancellation and why.
+
 ## Solution
 
 To identify the reason for the cancellation, you need to:

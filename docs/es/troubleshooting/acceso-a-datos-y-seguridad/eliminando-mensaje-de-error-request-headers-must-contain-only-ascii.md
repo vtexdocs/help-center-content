@@ -29,6 +29,8 @@ Este escenario se produce si la página o funcionalidad solicitada contiene una 
 
 Según las normas de la [IETF](https://www.ietf.org/) (Internet Engineering Task Force), institución responsable de documentar los estándares utilizados en internet, las cookies deben estar compuestas únicamente por caracteres ASCII estándar y deben evitar incluir caracteres especiales (no ASCII). Para más información sobre los caracteres aceptados en cookies y encabezados, accede a [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX te guía para identificar la cookie con caracteres especiales y, si el error continúa, abre un ticket con el Soporte VTEX que ya incluye tus capturas de pantalla adjuntas.
+
 ## Soluciones
 
 Para remover el mensaje de error y permitir que el usuario vuelva a acceder a la página o funcionalidad, deben realizarse las siguientes acciones:

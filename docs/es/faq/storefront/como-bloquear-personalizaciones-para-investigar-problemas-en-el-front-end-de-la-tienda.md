@@ -21,6 +21,8 @@ En este artículo, aprenderás a identificar el origen de un problema en el fron
 
 Para hacer esto, te mostraremos cómo remover las personalizaciones utilizando una herramienta nativa de Chrome, **DevTools**.
 
+> ℹ️ Si el problema continúa incluso con las personalizaciones bloqueadas, [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX abre un ticket con el Soporte VTEX que ya incluye el contexto de la conversación y las capturas de pantalla que envíes.
+
 ## Configurar DevTools
 
 Para configurar [Chrome DevTools](https://developer.chrome.com/docs/devtools/) sigue los pasos a continuación.

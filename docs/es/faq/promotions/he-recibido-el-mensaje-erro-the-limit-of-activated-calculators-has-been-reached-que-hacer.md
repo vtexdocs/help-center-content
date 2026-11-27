@@ -20,3 +20,5 @@ Este mensaje indica que se ha alcanzado el número máximo de promociones y que 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/promotions/he-recibido-el-mensaje-erro-the-limit-of-activated-calculators-has-been-reached-que-hacer_1.jpg)
 
 Debes revisar sus promociones activas para ajustarlas y reorganizarlas, para que tantas unidades no sean necesarias. En general, la unión de varias reglas en sólo una promoción es posible, ayudando a mejorar la performance del carrito y la organización de las promociones.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX analiza tus promociones: Copilot lista las promociones de tu tienda y revisa las condiciones de cada una para identificar reglas que pueden unificarse.

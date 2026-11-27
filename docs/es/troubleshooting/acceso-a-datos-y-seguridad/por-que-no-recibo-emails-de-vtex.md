@@ -28,6 +28,8 @@ A través del [Centro de mensajes](/es/docs/tutorials/como-funciona-el-message-c
 
 Si detectas que los emails de tu tienda no se están enviando de la manera adecuada, perjudicando la transmisión de información importante a tus clientes, aquí tienes algunas posibles soluciones para identificar el origen de este problema.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el envío de emails de tu tienda: Copilot explica las plantillas, triggers y variables del Centro de mensajes y, si los mensajes se marcan como spam, genera las claves DKIM de tu dominio de envío.
+
 ## Solución
 
 Para corregir interrupciones en el envío de emails de VTEX, consulta las siguientes soluciones:

@@ -10,7 +10,7 @@ firstPublishedAt: 2017-04-27T23:02:46.478Z
 contentType: frequentlyAskedQuestion
 productTeam: Orders
 author: authors_3
-slugEN: why-does-the-hostName-in-the-message-center-JSON-display-different-information-from-the-license-manager
+slugEN: why-does-the-hostname-in-the-message-center-json-display-different-information-from-the-license-manager
 locale: en
 legacySlug: why-does-the-hostName-in-the-message-center-JSON-display-different-information-from-the-license-manager
 ---
@@ -22,3 +22,5 @@ When you see the `hostName` variable in the Message Center JSON, it may not be c
 ![VTEX - License Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/orders/why-does-the-hostname-in-the-message-center-json-display-different-information-from-the-license-manager_1.png)
 
 In other words, the value is not loaded from the Hosts area. As shown in the image above, the value registered as **Store's Name** is loaded into the email template.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can explain the Message Center template variables, such as `hostName`, and query your account data to display the registered store name.

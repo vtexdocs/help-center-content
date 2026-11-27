@@ -33,3 +33,5 @@ For manual inclusion of specific SKUs, follow these step-by-step instructions:
 ![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/catalog/i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site_1.png)
 
 Finally, give a name to the __Group__ of your Collection and click __Save Group__.
+
+> ℹ️ If the product still isn't displayed on the site after reindexing, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate. Provide the product ID, and VTEX Copilot will list the catalog settings preventing the product from being displayed on the storefront.

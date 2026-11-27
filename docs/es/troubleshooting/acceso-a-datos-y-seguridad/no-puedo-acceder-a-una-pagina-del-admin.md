@@ -25,6 +25,8 @@ Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Err
 
 Estos problemas suelen producirse por conflictos entre [roles](/es/docs/tutorials/roles) de usuarios administrativos o configuraciones específicas del navegador.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el error 403: envíale el email del usuario y Copilot compara los roles de esa persona con lo que cada rol permite e indica si falta algún rol o si hay una combinación que tiene conflictos.
+
 ## Solución
 
 Para resolver estos problemas hay algunas soluciones que puedes considerar:

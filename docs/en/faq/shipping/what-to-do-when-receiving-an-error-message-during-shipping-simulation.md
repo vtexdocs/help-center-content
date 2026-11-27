@@ -34,3 +34,5 @@ But how can you correct that?
 This depends on each retailer; however, after resetting the Inventory-Dock-Carrier Logistics, you may also need to change the [carrier spreadsheet](/en/tutorial/building-a-freight-spreadsheet).
 
 A fast way to check a carrier’s range of Postal Codes is using the [Shipping Amounts](/en/docs/tutorials/managing-shipping-rates) tab.
+
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to run a shipping simulation. Using the SKU ID and postal code, it checks whether the issue is related to pricing, inventory, or shipping, and reviews docks, warehouses, and shipping policies.

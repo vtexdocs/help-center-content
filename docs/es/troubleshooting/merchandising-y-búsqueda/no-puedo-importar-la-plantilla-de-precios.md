@@ -32,6 +32,8 @@ Tras [importar una plantilla de precios](/es/docs/tracks/exportacion-e-importaci
 
 Si identificas mensajes de error, valores de precio incorrectos u otros problemas al importar una plantilla, consulta las posibles soluciones que se describen a continuación.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga los errores de importación: envíale el ID del SKU y Copilot muestra el precio base, el precio de lista y los precios fijos configurados para que verifiques la importación.
+
 ## Solución
 
 Para resolver problemas de importación en la plantilla de precios, intenta aplicar las siguientes soluciones:

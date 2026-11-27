@@ -35,3 +35,5 @@ To fill in the Label field, follow the steps below.
 5. Click **Save**.
 
 After you save, the Outfit images should display correctly in the shop window.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the product images. Provide the SKU ID, and VTEX Copilot will review the added images, including their `Label` fields, and make adjustments after you confirm the changes.

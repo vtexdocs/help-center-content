@@ -28,3 +28,5 @@ En el Admin VTEX, en **Pedidos > Todos los pedidos**, ao hacer click en un pedid
 2. El servidor de emails del cliente final puede estar con problemas que lo impiden de responder con un "acepte" de recibo de su email.
 
    El servidor de envío de los emails transaccionales (SMTP), no logrando el OK del servidor de destino, seguirá intentando repetidamente entregar el email enviado por el módulo **Pedidos**.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga el pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si la factura registrada cubre el valor total, que es el motivo común para que el ERP reenvíe la factura y repita los emails.

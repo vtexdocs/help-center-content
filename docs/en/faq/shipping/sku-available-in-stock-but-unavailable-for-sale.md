@@ -23,3 +23,5 @@ This occurs because the VTEX platform sums the negative number of items for that
 
 Learn more about negative inventory in the article [Inventory management](/en/docs/tutorials/managing-stock-items#updating-inventory).
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the SKU. Provide the SKU ID, and VTEX Copilot will check the inventory in each warehouse, including reserved and available quantities, and identify what's preventing the item from being available for sale.
+

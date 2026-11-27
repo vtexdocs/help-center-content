@@ -26,6 +26,8 @@ El status `Preparando envío` se produce en el [flujo de pedidos](/es/docs/tutor
 
 La permanencia de un pedido en el status `Preparando envío` por un periodo superior al previsto puede deberse a la falta de registro de las facturas en VTEX.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si las facturas registradas cubren el valor total e indica el siguiente paso. Copilot ve el pedido en VTEX, no en el ERP.
+
 ## Solución
 
 ### Comprobar las facturas en integraciones ERP

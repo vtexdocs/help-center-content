@@ -23,3 +23,5 @@ When cancellation happens, the user is notified through [VTEX DO](/en/docs/tutor
 2. If you want to go ahead with fulfillment, proceed with invoicing, informing the customer that the order cannot be canceled.
 
    > ❗ Under `Cancellation Window` status, only the customer’s cancellation request is unilateral, and the store does not confirm. In all other statuses, the store will be informed of the request through VTEX DO.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order. Provide the order number, and VTEX Copilot will show the current order status and whether a cancellation is in progress, helping you decide whether to confirm the cancellation or proceed with invoicing.

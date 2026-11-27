@@ -20,3 +20,5 @@ This scenario is expected. It happens when an order is canceled on the marketpla
 To confirm this case, compare the billing date on VTEX with the cancellation request date on the marketplace. Then contact the marketplace to find out why the order was canceled.
 
 The order will **not** appear as canceled on VTEX. After the order status is billed, it cannot be changed.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order on the VTEX side. Provide the order number, and VTEX Copilot will summarize the order status and billing data, allowing you to compare them with the cancellation date in the marketplace.

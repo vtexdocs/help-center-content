@@ -35,6 +35,8 @@ Las causas más comunes de este comportamiento son:
 - [La jerarquía de categorías o las rutas de exploración son incorrectas](#verifica-la-jerarquia-de-categorias-y-las-rutas-de-exploracion)
 - [Los cambios en el workspace no se publicaron](#publica-los-cambios-en-el-workspace)
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga la página con error 404 en el Admin VTEX: envíale el ID del producto y Copilot lista las configuraciones del catálogo (producto, SKUs, categoría y marca) y las políticas comerciales que pueden hacer que el ítem no se muestre en la vitrina.
+
 ## Soluciones
 
 ### Verifica la URL y el slug

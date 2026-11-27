@@ -19,6 +19,8 @@ Choosing a carrier is a required step at checkout.
 
 Sometimes a carrier does not appear. The six cases below are the most common. Before you continue, confirm that [carriers are registered](/en/docs/tutorials/carriers-on-vtex). All of these checks are in [Shipping](/en/docs/tutorials/fulfillment-logistics-vtex).
 
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate the issue. Using the SKU ID and postal code, it simulates shipping, checks whether each shipping policy covers that postal code, and reviews docks and warehouses to identify the cause.
+
 ## Carrier type conflict
 
 When you register carriers, you assign a [delivery type](/en/docs/tutorials/shipping-policy). Checkout shows delivery types, not each carrier name.

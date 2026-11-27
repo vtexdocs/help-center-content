@@ -26,3 +26,5 @@ To adjust these settings, follow the steps below:
 3. Click your account.
 4. Verify that the value contained in the `Store Name` field is also in the `Hosts` field. If not, include in the `Hosts` field the value found in the `Store Name` field.
 5. Click __Save__.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) queries your account data, including registered stores and domains, and checks whether the store name also appears among the hosts.

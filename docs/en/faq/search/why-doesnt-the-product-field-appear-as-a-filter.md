@@ -28,3 +28,5 @@ The filter appears in the menu only when there are active products that use it. 
 If you integrate products from other stores into your catalog, index the product after you add it so the indexer overwrites the seller's specifications.
 
 To create product fields, see [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the product field. Provide the category and field name, and VTEX Copilot will verify the field type (Combo, Radio, CheckBox, or text) and explain what's missing for it to be displayed as a filter.

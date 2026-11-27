@@ -26,6 +26,8 @@ El status `Listo para preparación` se produce en el [flujo del pedido](/es/docs
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica si el flujo se detuvo esperando la liberación de la preparación por el ERP y qué acciones se deben realizar. Copilot ve el pedido en VTEX, no en el ERP.
+
 ## Solución
 
 La primera acción necesaria es ponerse en contacto con el responsable de tu [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) y comprobar si la liberación del pedido ya fue realizada a través del endpoint [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling). Tras esta confirmación, sigue los pasos a continuación:

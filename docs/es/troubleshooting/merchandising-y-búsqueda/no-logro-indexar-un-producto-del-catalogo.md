@@ -44,6 +44,8 @@ En ciertas situaciones, la indexación es interrumpida y no se muestra la inform
    - Cantidad de colecciones
    - Cantidad de sellers
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el producto que no se indexa: envíale el ID del producto y Copilot verifica el registro, los SKUs, la categoría, la marca y las políticas comerciales asociadas para identificar qué está impidiendo la indexación.
+
 ## Soluciones
 
 Para corregir los problemas que impiden indexar correctamente un producto en la tienda, considera probar las siguientes acciones:

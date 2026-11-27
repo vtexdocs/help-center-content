@@ -22,6 +22,8 @@ symptomFilters:
 
 Cuando hay un número excesivo de redirecciones, la página Redirecciones del Admin no puede procesar la búsqueda. Por lo tanto, al intentar realizarla, no se obtiene ningún resultado. Para más información sobre la página Redirecciones, consulta el artículo [Gestionar redirecciones según el binding](/es/docs/tutorials/administrando-redireccionamientos-de-url-por-binding).
 
+> ℹ️ Si la búsqueda de redirecciones sigue sin mostrar resultados, [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX te guía por las consultas de GraphQL IDE descritas a continuación y, si es necesario, abre un ticket con el Soporte VTEX que ya incluye los detalles del caso.
+
 ## Solución
 
 Sigue los pasos a continuación para obtener las redirecciones:

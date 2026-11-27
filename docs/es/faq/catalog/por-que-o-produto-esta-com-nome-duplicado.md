@@ -43,4 +43,6 @@ O usar en el nome do SKU solarmente el complemento del nome do produto:
 - **Nombre del producto** está como: Porta Lápices
 - **Nombre del SKU** está como: Azul
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) ayuda a encontrar la diferencia en el Admin VTEX: envíale el ID del producto y Copilot lista los SKUs con su nombre para que los compares con el nombre del producto y ajustes el registro.
+
 - El sistema mostrará: Porta Lápices - Azul

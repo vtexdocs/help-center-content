@@ -24,6 +24,8 @@ En Master Data v1, los formularios Cliente y Dirección solo se crean en la tien
 
 > ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data-es#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica si las entidades de cliente (CL) y dirección (AD) ya existen en Master Data de tu multitienda y te orienta a seguir los pasos a continuación en caso de que no estén presentes.
+
 ## Solución
 
 Sigue las instrucciones a continuación para cada multitienda en la que deseas crear los formularios Cliente y Dirección:

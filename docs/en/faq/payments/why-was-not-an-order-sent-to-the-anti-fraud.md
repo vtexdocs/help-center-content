@@ -20,3 +20,5 @@ Whenever a payment is made, the payment gateway connector performs some initial 
 After several attempts, if the connector doesn't get the expected responses, the payment and the order are both canceled. Orders in this situation are not sent to the anti-fraud.
 
 > ⚠️ You can not resubmit a canceled order to the anti-fraud.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you understand this case. Provide the order number, and VTEX Copilot will retrieve the transaction details and the acquirer's response, and check which anti-fraud solutions are configured in your store.

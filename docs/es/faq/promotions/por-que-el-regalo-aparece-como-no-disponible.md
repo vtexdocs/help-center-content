@@ -32,3 +32,5 @@ Además, vale resaltar que existen casos en que el regalo es __removido__ del ca
 
 
 Para contornear esta situación, basta verificar los tres ítems en la plataforma, de la misma forma como si el regalo estuviera "indisponible".
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el SKU del regalo: envíale el ID del SKU y Copilot verifica el status, precio, stock e imágenes e indica qué está impidiendo la visualización.

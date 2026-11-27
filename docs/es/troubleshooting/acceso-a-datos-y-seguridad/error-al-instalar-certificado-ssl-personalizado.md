@@ -22,6 +22,8 @@ symptomFilters:
 
 Al instalar [certificados SSL personalizados](/es/docs/tutorials/certificados-ssl-personalizados) en [VTEX Shield](/es/docs/tutorials/vtex-shield) pueden producirse algunos errores. Consulta a continuación los posibles errores y sus soluciones.
 
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga estos errores: envía tu email y Copilot verifica los dominios registrados en tu cuenta, comprueba si tu usuario tiene el rol necesario y, si es necesario, abre un ticket con el Soporte VTEX con todos los detalles ya incluidos.
+
 ## Solución
 
 Consulta la tabla a continuación para identificar el significado y verificar la acción correctiva específica para cada mensaje de error:

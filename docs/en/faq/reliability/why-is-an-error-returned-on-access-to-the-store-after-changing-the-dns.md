@@ -22,3 +22,5 @@ For the store to go live, the account status must be set to production in [Accou
 If you open the store and see an error instead of the storefront, confirm that the account status is **in production**. See the [Go-live](/en/tracks/go-live--4Ns5FxIiksmjsdX2yOTduM) track for the full process.
 
 After you set the status to production, you can access the store.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this error. Provide the store URL, and VTEX Copilot will run the go-live checklist (DNS, CDN, and SSL certificate) to identify what's preventing access to the store.

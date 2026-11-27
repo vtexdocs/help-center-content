@@ -21,6 +21,8 @@ There are cases, however, where this benefit is not viewed by some customers.
 
 Here we show some scenarios in which this error can happen and describe solutions for each of them. They are all related to the value of the cluster that must be inserted in the platform.
 
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this case. Provide the promotion name and an affected customer's email address, and VTEX Copilot will compare the promotion's cluster values with the customer's record in Master Data.
+
 ## Absence of value
 
 This can happen if the benefit is applied to more than one cluster and you forget to apply its respective value.
