@@ -1,7 +1,7 @@
 ---
 title: 'Configurar pagos con Pagaré'
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2026-10-22T00:00:00.000Z
+updatedAt: 2026-11-23T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: setting-up-payments-with-notes-payable
@@ -40,8 +40,7 @@ Después de registrar el proveedor de pagos, siga los pasos a continuación:
 - **Autorización automática:** seleccione si desea autorizar los pagos automáticamente. Recomendamos esta opción solo en casos en los que el pago que se realiza durante la entrega o recogida del pedido en la tienda. Si selecciona «Yes», el status del pedido cambia automáticamente a Preparando entrega sin pasar por ninguna verificación de pago.
 - **Modificar margen:** es el margen porcentual permitido para la modificación del importe del pago realizado con un pagaré. Para algunos clientes, puede ser importante permitir [cambios en los pedidos](https://help.vtex.com/es/docs/tutorials/como-funciona-modificar-pedido). En este caso, debe rellenar el campo Modificar margen para determinar el porcentaje de margen de cambio permitido.
 - **Activar split de pago:** indique si utilizará la solución de [split de pagos](/es/docs/tutorials/split-de-pagos). Si selecciona esta opción, cuando la venta involucre tiendas del marketplace, el pagaré se dividirá entre los sellers y el marketplace.
-- **Facturación automática:** Número de días para la facturación automática del pagaré después de la autorización.
-Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.
+- **Facturación automática:** Número de días para la facturación automática del pagaré después de la autorización. De forma predeterminada, este campo está configurado en 15 días, es decir, los pagarés se facturan 15 días después de la autorización del pago. Puede modificar este valor para establecer un número de días diferente, de 1 a 30.
 
 5. Haga clic en `Salvar`.
 
