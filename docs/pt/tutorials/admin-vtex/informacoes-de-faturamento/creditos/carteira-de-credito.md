@@ -1,7 +1,7 @@
 ---
-title: 'Carteira de Crédito'
+title: 'Carteira de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-11-05T00:00:00.000Z'
+updatedAt: '2026-11-27T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: credit-wallet
@@ -16,7 +16,7 @@ A **carteira de crédito** é um crédito de faturamento concedido automaticamen
 
 Neste artigo, entenda como o crédito da carteira de crédito é calculado, como ele é aplicado à cobrança de Master Data e o que acontece com o saldo não utilizado.
 
-> ℹ️ Para saber como consultar as informações da sua carteira de crédito, acesse [Consultar Carteira de Crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
+> ℹ️ Para saber como consultar as informações da sua carteira de crédito, acesse [Consultar carteira de crédito](/pt/docs/tutorials/consultar-carteira-de-credito).
 
 ## Como o crédito é calculado
 
