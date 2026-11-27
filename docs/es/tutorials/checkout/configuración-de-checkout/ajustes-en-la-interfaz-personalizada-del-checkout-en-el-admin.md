@@ -3,7 +3,7 @@ title: 'Ajustes en la interfaz personalizada del checkout en el Admin'
 id: 548aDBJciQu97Vh0BhEiWx
 status: PUBLISHED
 createdAt: 2024-01-04T13:27:04.734Z
-updatedAt: 2024-01-04T18:28:45.989Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-01-04T18:28:45.989Z
 firstPublishedAt: 2024-01-04T18:28:45.989Z
 contentType: tutorial
