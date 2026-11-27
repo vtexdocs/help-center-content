@@ -35,17 +35,17 @@ As funcionalidades de customização do app podem ser acessadas por meio das seg
 
 Nesta aba é possível realizar as seguintes configurações:
 
-1. **Opções de pagamento estilo sanfona:** ao habilitar o botão, os meios de pagamentos são exibidos em cascata (sanfona), se houver até cinco meios de pagamentos. Quando desabilitado, os meios de pagamentos são exibidos em abas laterais.
+1. **Opções de pagamento estilo sanfona:** ao habilitar o botão, os meios de pagamento são exibidos em cascata (sanfona), se houver até cinco meios de pagamento. Quando desabilitado, os meios de pagamento são exibidos em abas laterais.
 
-2. **Data de entrega simplificada:** ao habilitar o botão você terá acesso à visualização da estimativa de entrega em formato de data, como por exemplo, segunda-feira,18/09/23.  Quando a opção estiver desabilitada, os dados fornecidos se limitarão a uma estimativa do prazo em dias, como por exemplo, Até 5 dias úteis.
+2. **Data de entrega simplificada:** ao habilitar o botão você terá acesso à visualização da estimativa de entrega em formato de data, como, por exemplo, segunda-feira, 18/09/23. Quando a opção estiver desabilitada, os dados fornecidos se limitarão a uma estimativa do prazo em dias, como, por exemplo, Até 5 dias úteis.
 
 3. **Mostrar preço unitário do item:** ao habilitar o botão, o usuário irá visualizar o valor unitário de cada produto e o valor total somado, de acordo com a quantidade do mesmo produto. Quando a opção estiver desabilitada, é possível visualizar apenas o valor unitário de cada produto.
 
-4. **Exibir campo de anotações:** ao habilitar este botão é permitido visualizar uma caixa para incluir comentários adicionais ao pedido, como por exemplo uma mensagem de felicitações, caso o produto seja um presente ou alguma observação referente a entrega do produto. Quando desabilitado, não é exibido esta caixa de comentário.
+4. **Exibir campo de anotações:** ao habilitar este botão é permitido visualizar uma caixa para incluir comentários adicionais ao pedido, como por exemplo uma mensagem de felicitações, caso o produto seja um presente ou alguma observação referente à entrega do produto. Quando desabilitado, não é exibida esta caixa de comentário.
 
 5. **Remover a etapa de email:** ao habilitar o botão, a opção de preenchimento automático de dados via inserção do email é desabilitada. Quando desativado, é necessário preencher manualmente suas informações de contato.
 
-6. **Formulário de endereço do Google:** esta é uma integração do formulário de endereço com o Google (em fase beta). Quando habilitado o botão, permite que ao digitar o endereço, seja oferecido sugestões de autopreenchimento, que quando selecionado realiza um preenchimento automático dos campos do endereço.
+6. **Formulário de endereço do Google:** esta é uma integração do formulário de endereço com o Google (em fase beta). Quando habilitado o botão, permite que, ao digitar o endereço, sejam oferecidas sugestões de autopreenchimento, que, quando selecionadas, realizam um preenchimento automático dos campos do endereço.
 
 7. **Tamanho do texto:** essa configuração possibilita alterar o tamanho da fonte (em pixels) no Checkout.
 
@@ -63,13 +63,13 @@ Nesta aba é possível realizar as seguintes configurações:
 
 ## Cores
 
-A aba Cores permite personalizar as cores do checkout de sua loja, permitindo alterar cores de fundo, botões, texto entre outros. Essa padronização garante uma harmonia visual consistente.
+A aba Cores permite personalizar as cores do checkout de sua loja, permitindo alterar cores de fundo, botões, texto, entre outros. Essa padronização garante uma harmonia visual consistente.
 
-![Cores ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_1.png)
+![Cores](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_1.png)
 
-## Javascript
+## JavaScript
 
-A aba JavaScript  adiciona uma camada adicional de personalização à interface permitindo a inclusão de scripts.
+A aba JavaScript adiciona uma camada adicional de personalização à interface permitindo a inclusão de scripts.
 
 ![Java - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_2.png)
 
