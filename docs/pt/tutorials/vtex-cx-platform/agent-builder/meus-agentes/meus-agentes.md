@@ -1,15 +1,27 @@
 ---
 title: 'Meus agentes'
+createdAt: 2026-11-27T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
+slugEN: agent-builder-my-agents
 locale: pt
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 categoryCover: true
 ---
 
-Na seção de **Meus agentes** do [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), você editar o manager, que é o agente orquestrador da sua operação, e as instruções que ele deve seguir. Nessa página, você também consegue testar e atribuir cada um dos agentes colaboradores.
+Na seção de **Meus agentes** do [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), você pode editar o manager, que é o agente orquestrador da sua operação, e as instruções que ele deve seguir. Nessa página, você também consegue testar e atribuir cada um dos agentes colaboradores.
 
 Para entender como atribuir agentes, leia o artigo [Atribuir e testar um agente](https://help.vtex.com/pt/docs/tutorials/atribuir-e-testar-agentes).
+
+### Tipos de conteúdos suportados
+
+O agente orquestrador usa as informações fornecidas pelos clientes na conversa para entender o contexto do atendimento e saber quais colaboradores acionar. O agente orquestrador consegue interpretar diferentes tipos de conteúdo:
+
+- Mensagens de texto.
+- Imagens.
+- Arquivos PDF.
+
+> ⚠️ A leitura de arquivos PDF pelo agente orquestrador está limitada a documentos de até cinco páginas.
 
 ## Editar manager
 

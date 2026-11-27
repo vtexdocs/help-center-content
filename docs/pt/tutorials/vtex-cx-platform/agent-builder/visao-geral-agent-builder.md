@@ -9,24 +9,21 @@ locale: pt
 categoryCover: true
 ---
 
-O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em inteligência artificial. Usando essa funcionalidade, você pode customizar agentes para interagir com seus clientes, permitindo que eles solicitem informações sobre um pedido em andamento, o catálogo da sua loja e o cancelamento de um pedido, por exemplo.
+O Agent Builder é a ferramenta do VTEX CX Platform para configurar, gerenciar e testar agentes de inteligência artificial (IA) que interagem com clientes. Por meio desses agentes, é possível automatizar atendimentos relacionados a diferentes necessidades, como consultas sobre pedidos, informações sobre produtos do catálogo e solicitações de cancelamento.
 
-A funcionalidade se concentra em um agente orquestrador (ou manager), que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador obtém informações da conversa com o cliente, de mensagens de texto, PDFs e imagens, e aciona agentes colaboradores específicos para as necessidades do usuário.
+O funcionamento dos agentes é baseado em uma estrutura de colaboração entre dois tipos de agentes:
 
-> ⚠️ Os agentes orquestradores conseguem ler PDFs enviados por clientes de até 5 páginas.
+- **Agente orquestrador (manager):** ponto de contato com o cliente, responsável por conduzir a conversa, interpretar as solicitações recebidas e acionar os agentes colaboradores adequados a cada situação.
+- **Agentes colaboradores:** agentes especializados em determinadas tarefas ou domínios de conhecimento, responsáveis por fornecer informações ou executar ações de acordo com as solicitações encaminhadas pelo agente orquestrador.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
+O VTEX CX Platform disponibiliza agentes colaboradores predefinidos para diferentes cenários de atendimento. Você pode selecionar os agentes adequados às necessidades da sua operação, configurá-los e testá-los no Agent Builder. Para conhecer os agentes disponíveis, consulte [Agentes oficiais do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
 
-Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
+Caso sua operação tenha necessidades específicas que não sejam contempladas pelos agentes oficiais, também é possível desenvolver agentes customizados por meio do [CLI do VTEX CX Platform](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli).
 
-> ⚠️ Para criar agentes customizados, use o CLI do VTEX CX Platform. Confira a [documentação](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli) para criar seu próprio agente.
+## Páginas do Agent Builder
 
-## Agent Builder
+Para acessar o Agent Builder, selecione a organização e o projeto que deseja gerenciar na página inicial do VTEX CX Platform. O Agent Builder é composto pelas seguintes páginas:
 
-Para acessar o **Agent Builder**, selecione a Organização na página inicial do VTEX CX Platform e, em seguida, o projeto que deseja gerenciar.
-
-Em **Agent Builder**, as seguintes páginas estão disponíveis:
-
-- [**Meus agentes**](https://help.vtex.com/pt/docs/tutorials/meus-agentes): área de gerenciamento e teste dos agentes colaboradores e de configuração do agente orquestrador.
-- [**Base de conhecimento**](https://help.vtex.com/pt/docs/tutorials/base-de-conhecimento): conjunto de arquivos, sites e textos que servem como fontes de informação para os agentes responderem aos clientes.
-- [**Fluxo de automação**](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao): área de configuração de fluxos automatizados que determinam as interações e respostas dos agentes com base nas mensagens dos clientes.
+- [Meus agentes](https://help.vtex.com/pt/docs/tutorials/meus-agentes): área de gerenciamento e teste dos agentes colaboradores e de configuração do agente orquestrador.
+- [Base de conhecimento](https://help.vtex.com/pt/docs/tutorials/base-de-conhecimento): conjunto de arquivos, sites e textos que servem como fontes de informação para os agentes responderem aos clientes.
+- [Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao): área de configuração de fluxos automatizados que determinam as interações e respostas dos agentes com base nas mensagens dos clientes.

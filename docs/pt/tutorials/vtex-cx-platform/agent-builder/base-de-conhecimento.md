@@ -1,9 +1,11 @@
 ---
 title: 'Base de conhecimento'
+createdAt: 2026-11-27T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
+slugEN: knowledge-base
 locale: pt
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
 Na página da **Base de conhecimento** do [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder), você pode adicionar [arquivos](#arquivos), [sites](#sites) e [textos](#textos) à base de conhecimento do seu agente. Os agentes vão utilizar os dados desses documentos para responder aos usuários.
