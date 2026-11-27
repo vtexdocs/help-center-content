@@ -1,7 +1,7 @@
 ---
 title: 'Cartera de crédito'
 createdAt: '2026-10-08T00:00:00.000Z'
-updatedAt: '2026-10-30T00:00:00.000Z'
+updatedAt: '2026-11-27T00:00:00.000Z'
 contentType: tutorial
 productTeam: Billing
 slugEN: credit-wallet
@@ -21,7 +21,7 @@ En este artículo se explica cómo se calcula el crédito de la cartera de créd
 
 ## Cómo se calcula el crédito
 
-Cuando una empresa opera con más de una cuenta en VTEX (por ejemplo, [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) o ambientes adicionales), todas se agrupan en una misma empresa para fines de facturación. Esa empresa recibe una factura consolidada, y el crédito de la cartera de crédito se calcula y se aplica en ese nivel, y no por cuenta individual.
+Cuando una empresa opera con más de una cuenta en VTEX (por ejemplo, [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) o entornos adicionales), todas se agrupan en una misma empresa para fines de facturación. Esa empresa recibe una factura consolidada, y el crédito de la cartera de crédito se calcula y se aplica en ese nivel, y no por cuenta individual.
 
 Cada mes VTEX suma lo que le pagaron todas las cuentas de la empresa. La suma va del día 1 al último día del mes. De esa suma VTEX convierte el 2% en el crédito del mes siguiente.
 

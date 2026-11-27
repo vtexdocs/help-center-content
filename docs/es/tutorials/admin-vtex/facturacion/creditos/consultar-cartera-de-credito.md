@@ -34,7 +34,7 @@ En la página **Créditos** puedes consultar la siguiente información:
 
 Para ver el consumo de Master Data, expande la fila de un mes en el **Estado de cuenta de créditos** y, en la sección **Consumo por add-on**, en la esquina inferior izquierda de la pantalla, haz clic en la tarjeta **Master Data**. Se abrirá un panel lateral con:
 
-- **Costo estimado para el próximo ciclo**: costo bruto de Master Data en el próximo ciclo. Se calcula con el volumen de documentos de la última actualización semanal, antes de aplicar el crédito de la cartera de crédito.
+- **Costo estimado para el próximo ciclo**: costo bruto de Master Data en el siguiente ciclo, calculado con base en el volumen de documentos almacenados en la última actualización del dashboard (semanal) antes de aplicar el crédito de la cartera de crédito.
 - **Cobertura del crédito**: porcentaje del costo de Master Data del próximo ciclo que cubre el saldo actual de la cartera de crédito. Si es menor que 100%, la diferencia se cobra en la factura.
 - **Documentos almacenados**: el volumen actual y el nivel de precios de ese volumen.
 - **Volumen de documentos** (gráfico): volumen de documentos almacenados por mes. La barra del mes en curso muestra el volumen acumulado hasta la última actualización, el último lunes. Todavía no es el volumen final del mes. Las barras de los meses ya cerrados muestran el total definitivo de ese mes.
