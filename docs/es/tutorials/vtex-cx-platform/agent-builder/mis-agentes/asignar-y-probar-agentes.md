@@ -1,18 +1,11 @@
 ---
-title: "Mis agentes"
-id: 41beBpRcBouxMywt6dUW2z
-status: PUBLISHED
+title: 'Asignar y probar agentes en Agent Builder'
 createdAt: 2025-07-09T18:14:18.864Z
 updatedAt: 2026-09-18T00:00:00.000Z
-publishedAt: 2025-09-11T13:21:03.550Z
-firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: assigning-and-testing-agents-in-agent-builder
-legacySlug: asignar-y-testar-agentes-en-el-agent-builder
 locale: es
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
 La sección **Mis agentes** permite asignar agentes al equipo y probar su funcionamiento. Algunos agentes oficiales requieren credenciales para operar en la plataforma. Para más información, accede a [Agentes oficiales de VTEX CX Platform](https://help.vtex.com/es/docs/tutorials/agentes-oficiales-de-vtex-cx-platform).

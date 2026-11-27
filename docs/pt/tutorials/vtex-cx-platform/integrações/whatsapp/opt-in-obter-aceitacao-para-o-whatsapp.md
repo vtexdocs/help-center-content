@@ -3,7 +3,7 @@ title: 'Opt-In: Obter aceitação para o WhatsApp'
 id: 1zqhPT4869IgWgRZ6eJDkv
 status: PUBLISHED
 createdAt: 2025-09-15T15:35:50.207Z
-updatedAt: 2026-11-13T14:30:00.000Z
+updatedAt: 2026-11-19T21:08:52.000Z
 publishedAt: 2025-10-03T14:20:32.308Z
 firstPublishedAt: 2025-10-03T14:20:32.308Z
 contentType: tutorial
@@ -26,6 +26,12 @@ As empresas devem seguir os seguintes requisitos ao coletar a aceitação dos us
 - Informar que o usuário está consentindo em receber mensagens da empresa via WhatsApp.
 - Informar de maneira visível o nome da empresa para que o cliente saiba com quem está concordando em interagir.
 - Seguir todas as leis e regulamentações locais aplicáveis.
+
+> ⚠️ **Consentimento da Meta x base legal de proteção de dados**  
+>   
+> O consentimento descrito acima é uma exigência de política da Meta para manter a qualidade da conta no WhatsApp Business. Ele não substitui a análise de base legal exigida pela legislação de proteção de dados aplicável (como a LGPD no Brasil, o GDPR na União Europeia, ou outras leis locais equivalentes) para o tratamento de dados pessoais.  
+>   
+> Quando o consentimento for a base legal escolhida, a empresa deve seguir o estabelecido pelas leis de privacidade aplicáveis, incluindo: informar claramente a finalidade do tratamento, manter registro/comprovação do consentimento obtido e permitir a revogação a qualquer momento.
 
 ## Métodos de coleta de aceitação
 

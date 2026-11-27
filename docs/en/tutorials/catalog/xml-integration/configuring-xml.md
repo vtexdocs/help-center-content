@@ -67,7 +67,7 @@ Instead of integrating with a marketplace using an XML file, it is possible to d
 
 - [Amazon](/en/docs/tracks/amazon-integration)
 - [B2W](/en/docs/tracks/b2w-integration-set-up)
-- [Mercado Livre](/en/docs/tracks/mercado-libre-integration-set-up)
+- [Mercado Livre](/en/docs/tutorials/mercado-libre)
 - [Magazine Luiza](/en/docs/tracks/magazine-luiza-integration-set-up)
 - [Carrefour](/en/docs/tracks/carrefour-integration-set-up)
 - [Centauro](/en/docs/tracks/centauro-integration)

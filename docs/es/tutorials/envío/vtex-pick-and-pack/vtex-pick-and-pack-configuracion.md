@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack: Configuración'
 createdAt: 2024-01-05T20:43:38.480Z
-updatedAt: 2026-10-26T00:00:00.000Z
+updatedAt: 2026-11-26T00:00:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: vtex-pick-and-pack-settings
@@ -502,11 +502,14 @@ Para crear un nuevo webhook sigue los pasos a continuación:
      - `ORDER_STATUS`: cambio en el status del pedido.
      - `WORKSHEET_STATUS`: cambio en el status de la hoja de trabajo.
      - `RETURN_STATUS`: actualización en el status de la devolución.
+     - `SHIPPING_SERVICE_STATUS`: cambio en el status del servicio de envío.
    - **URL**: URL del webhook.
    - **Encabezados**: encabezados del webhook.
    - **Parámetros**: parámetros del webhook.
    - **Dónde se aplicará (ubicaciones de fulfillment)**: ubicaciones de fulfillment en las que se aplicará el webhook.
 5. Haz clic en `Crear`.
+
+Las notificaciones se envían mediante una regla de [automatización](#automatizacion) con la acción **Activar Webhook**. Crea la regla en la pestaña que corresponde al tipo de webhook: **Pedidos** para `INVOICING` y `ORDER_STATUS`, **Hojas de trabajo** para `WORKSHEET_STATUS` y **Servicios de envío** para `SHIPPING_SERVICE_STATUS`. En las condiciones de la regla, selecciona los status que activan la notificación. Los cambios de status que no cumplen la regla no generan notificaciones.
 
 Para editar o eliminar un webhook, sigue los pasos a continuación:
 
