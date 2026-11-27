@@ -8,7 +8,7 @@ slugEN: knowledge-base
 locale: en
 ---
 
-On the **Knowledge base** page of [Agent Builder](https://help.vtex.com/en/docs/tutorials/visao-geral-agent-builder), you can add [files](#files), [websites](#websites), and [texts](#texts) to your agent's knowledge base. Agents will use the data from these documents to respond to users.
+On the **Knowledge base** page of [Agent Builder](https://help.vtex.com/en/docs/tutorials/agent-builder-overview), you can add [files](#files), [websites](#websites), and [texts](#texts) to your agent's knowledge base. Agents will use the data from these documents to respond to users.
 
 ## Files
 

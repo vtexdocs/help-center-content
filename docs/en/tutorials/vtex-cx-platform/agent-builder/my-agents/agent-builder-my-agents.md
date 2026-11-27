@@ -8,7 +8,7 @@ slugEN: agent-builder-my-agents
 locale: en
 ---
 
-In the **My agents** section of [Agent Builder](https://help.vtex.com/en/docs/tutorials/visao-geral-agent-builder), you can edit the manager, which is the orchestrator agent of your operation, and the instructions it must follow. On this page, you can also test and assign each of the collaborator agents.
+In the **My agents** section of [Agent Builder](https://help.vtex.com/en/docs/tutorials/agent-builder-overview), you can edit the manager, which is the orchestrator agent of your operation, and the instructions it must follow. On this page, you can also test and assign each of the collaborator agents.
 
 For more information on how to assign agents, see [Assigning and testing agents](https://help.vtex.com/en/docs/tutorials/atribuir-e-testar-agentes).
 
