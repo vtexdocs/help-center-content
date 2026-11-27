@@ -40,6 +40,6 @@ Otra opción es [limpiar el catálogo](/es/docs/tutorials/mantenimiento-de-base-
 > ⚠️ Por razones de seguridad, solo el [usuario Titular](/es/docs/tutorials/que-es-el-usuario-titular) de la cuenta tiene acceso a la limpieza de la base. Si otro usuario intenta acceder a esta página, todos los botones estarán inactivos.
 
 ### Artículos relacionados
-- [Registrar categoría](/es/tutorial/cadastrando-categoria)
+- [Registrar categoría](/es/docs/tutorials/registrar-categoria)
 - [Registrar un producto](/es/tutorial/registrando-producto)
 - [Registrar un SKU](/es/tutorial/registrando-sku)

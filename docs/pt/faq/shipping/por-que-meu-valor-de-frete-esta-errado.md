@@ -19,7 +19,7 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 
 ### Logística
 
-1. Realize uma [simulação de envio](/pt/tutorial/simulacao-de-frete/);
+1. Realize uma [simulação de envio](/pt/docs/tutorials/simulador-de-envio);
 2. Clique no link **Detalhar** na tabela de transportadoras;
 3. Aqui, você verificará o valor cadastrado na planilha mais todos os [adicionais](/pt/tutorial/como-funciona-o-adicional-de-frete/) somados a esse valor.
 4. Caso o valor ainda não esteja condizente com o exibido na loja, siga os passos abaixo para verificar se não há nenhuma promoção alterando o valor do frete.

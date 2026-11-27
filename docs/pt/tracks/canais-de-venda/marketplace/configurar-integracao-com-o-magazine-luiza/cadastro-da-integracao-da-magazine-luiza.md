@@ -29,7 +29,7 @@ A integração com a Magazine Luiza acontece através da IntegraCommerce, uma in
 
 &bull; __Id do afiliado*:__ esse campo deve ser preenchido com um ID de [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não exista no cadastro de afiliados. O ID aceita apenas três dígitos (todos devem ser consoantes). Sugestão: `MGZ`.
 
-Caso você tenha configurações de [integração para multidomínios](/pt/tutorial/como-criar-multiloja-multidominio), dê uma atenção especial ao ID do afiliado, porque esse campo deve ter um valor diferente para cada domínio.
+Caso você tenha configurações de [integração para multidomínios](/pt/docs/tutorials/gerenciando-uma-multiloja), dê uma atenção especial ao ID do afiliado, porque esse campo deve ter um valor diferente para cada domínio.
 
 Caso você esteja migrando uma conta, nós aproveitaremos o afiliado já usado para a integração antiga e passaremos a usá-lo nessa integração.
 
@@ -37,7 +37,7 @@ Caso você esteja migrando uma conta, nós aproveitaremos o afiliado já usado p
 
 &bull; __Percentual de tolerância na divergência do valor do pedido*:__ é a taxa de aceitação da diferença de valor de um pedido. Qualquer pedido que possua uma diferença entre o preço de venda do marketplace e o preço determinado pelo seller [será comparado com esse valor](/pt/docs/tutorials/meu-pedido-foi-fechado-com-o-preco-errado). Se a divergência, em percentual, for menor que o valor definido nesse campo, o pedido será integrado normalmente. Caso contrário, o pedido não será integrado e você poderá visualizá-lo na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/docs/tutorials/verificando-integracao-no-bridge).
 
-&bull; __Mapeamento de SLA Customizável*:__ nesses campos deverá ser feito um de/para entre os [tipos de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) cadastradas na IntegraCommerce e os cadastrados na logística da VTEX.  Os valores aceitos são **Normal**, **Expressa** e **Convencional.** Ao fazer o mapeamento, clique no botão `+` para salvá-lo.
+&bull; __Mapeamento de SLA Customizável*:__ nesses campos deverá ser feito um de/para entre os [tipos de transportadora](/pt/docs/tutorials/como-funciona-o-tipo-de-envio) cadastradas na IntegraCommerce e os cadastrados na logística da VTEX.  Os valores aceitos são **Normal**, **Expressa** e **Convencional.** Ao fazer o mapeamento, clique no botão `+` para salvá-lo.
 
 _`Ex:` imagine que você usa os Correios (PAC) como transportadora, seu Tipo de Transportadora na IntegraCommerce seja "Normal" e no painel logístico da VTEX se chama "Comum". Então, você deve preencher o primeiro campo com "Normal" e o segundo com "Comum". Lembre-se que as palavras devem ser exatamente iguais às cadastradas na logística._
 

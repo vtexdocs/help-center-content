@@ -23,7 +23,7 @@ Vale resaltar que antes de proseguir la lectura de este artículo, es necesario 
 
 ## Competencia entre transportadoras del mismo tipo
 
-Al momento de registrar una transportadora, es necesario incluir el [tipo de entrega](/es/tutorial/como-funciona-o-tipo-de-entrega/) de esta transportadora. En el checkout, se exhiben los _tipos de entrega_ y no el nombre de las transportadoras.
+Al momento de registrar una transportadora, es necesario incluir el [tipo de entrega](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega) de esta transportadora. En el checkout, se exhiben los _tipos de entrega_ y no el nombre de las transportadoras.
 
 El checkout exhibe siempre la transportadora más rápida/barata entre las opciones de un mismo tipo de entrega. Así, una transportadora no aparece en el checkout cuando otra del mismo tipo tiene menor plazo/costo registrado.  
 

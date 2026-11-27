@@ -26,7 +26,7 @@ This article covers the following topics:
 
 To add an accounting field, follow the steps below:
 
-1. Go to the [organization account home screen](https://help.vtex.com/docs/tutorials/organization-account#accessing-the-organization-account).
+1. Go to the [organization account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
 2. Click the `+` icon next to **Accounting fields**.
 3. In the drawer displayed, complete the following information:
     - **Field label:** Enter the name that identifies the accounting field.
@@ -45,7 +45,7 @@ Accounting fields created in the interface work as value lists: you add and mana
 
 To edit the settings of an accounting field, follow the steps below:
 
-1. Go to the [organization account home screen](https://help.vtex.com/docs/tutorials/organization-account#accessing-the-organization-account).
+1. Go to the [organization account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
 2. Click the name of the accounting field you want to edit.
 3. On the accounting field screen, click the <i class="fas fa-ellipsis-v"></i> icon next to the value you want to edit.
 4. In **List type**, select whether the field values should be used only in the organizational unit (`Custom list`) or shared with other organizational units of the contract (`Synced list`).
@@ -71,7 +71,7 @@ You'll see a message confirming that the value of the accounting field was creat
 
 To edit a value in an accounting field, follow the steps below:
 
-1. Go to the [organization account home screen](https://help.vtex.com/docs/tutorials/organization-account#accessing-the-organization-account).
+1. Go to the [organization account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
 2. Click the name of the accounting field you want to edit.
 3. On the accounting field screen, click the options icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i> next to the value you want to edit.
 4. Select one of the options below based on the desired action:
@@ -90,7 +90,7 @@ When you delete an accounting field, you remove the field from all organizationa
 
 To delete an accounting field, follow the steps below:
 
-1. Go to the [organization account home screen](https://help.vtex.com/docs/tutorials/organization-account#accessing-the-organization-account).
+1. Go to the [organization account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
 2. Click the name of the accounting field you want to delete.
 3. On the accounting field screen, click the delete icon <i class="fas fa-trash-alt" aria-hidden="true"></i> at the top of the page.
 4. In the **Delete accounting field** drawer, type the field label to confirm deletion.

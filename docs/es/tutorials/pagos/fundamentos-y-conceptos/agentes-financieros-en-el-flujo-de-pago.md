@@ -1,7 +1,7 @@
 ---
 title: 'Agentes financieros en el flujo de pago'
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2026-10-01T00:00:00.000Z
+updatedAt: 2026-11-11T19:26:00.000Z
 contentType: tutorial
 productTeam: Financial
 slugEN: financial-agents-in-the-payment-flow
@@ -51,7 +51,7 @@ Las redes de tarjeta definen las reglas de negocio de las compras con tarjeta de
 
 Las redes de tarjeta mantienen una relación cercana con los adquirentes para garantizar la aceptación de las tarjetas en los establecimientos, lo que fomenta el uso y amplía la base de usuarios.
 
-En el flujo de pago con tarjeta de crédito, la red de tarjeta recibe del adquirente la información de la compra, valida las condiciones (como el número de cuotas) y envía los datos al banco emisor, que verifica el límite disponible. La red de tarjeta regula el uso de la tarjeta y funciona como puente entre el adquirente y el banco del cliente.
+En el [flujo de pago con tarjeta de crédito](/es/docs/tracks/flujo-de-pago-por-tarjeta-de-credito), la red de tarjeta recibe del adquirente la información de la compra, valida las condiciones (como el número de cuotas) y envía los datos al banco emisor, que verifica el límite disponible. La red de tarjeta regula el uso de la tarjeta y funciona como puente entre el adquirente y el banco del cliente.
 
 ## Banco emisor
 

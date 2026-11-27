@@ -73,7 +73,7 @@ La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente p
 
 No es posible distribuir las cuentas por cobrar en toda la cadena (_marketplace, seller directo y sellers white label_). Los pagos de los pedidos de _Multilevel Omnichannel Inventory_ solo pueden realizarse en el _marketplace._ La conciliación y la transferencia de valores a los _sellers_ de nivel 3 deben realizarse fuera de VTEX, ya que no hay soporte nativo para esta etapa.
 
-Puedes utilizar la solución de [split de pagos](/es/docs/tutorials/split-de-pagos) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/tutorial/split-payment#split-de-recebiveis).
+Puedes utilizar la solución de [split de pagos](/es/docs/tutorials/split-de-pagos) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/docs/tutorials/split-de-pagos#split-de-recebiveis).
 
 En estos casos, el _seller_ directo se convierte en receptor de los ítems de sus _sellers white label_ y de sus propios ítems, eliminando las comisiones establecidas en la relación con el _marketplace_.
 

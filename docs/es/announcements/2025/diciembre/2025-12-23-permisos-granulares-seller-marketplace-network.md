@@ -61,5 +61,5 @@ Si su operación utiliza apps personalizadas del VTEX IO que interactúan con da
 
 >⚠️ Sin la actualización de los perfiles, los usuarios verán pantallas vacías o mensajes de error al intentar acceder a los módulos de Seller y Marketplace Network después de la fecha límite.
 
-Para más información sobre la gestión de perfiles de acceso, consulte la [documentación de Perfiles de acceso](https://help.vtex.com/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc).
+Para más información sobre la gestión de perfiles de acceso, consulte la [documentación de Perfiles de acceso](https://help.vtex.com/es/docs/tutorials/roles).
 

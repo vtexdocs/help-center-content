@@ -1,18 +1,12 @@
 ---
 title: 'Payment refunds'
-id: 6mS04nXwV46LeeH8Nr99fE
-status: PUBLISHED
 createdAt: 2025-04-03T10:23:45.401Z
-updatedAt: 2025-04-03T11:01:24.508Z
-publishedAt: 2025-04-03T11:01:24.508Z
-firstPublishedAt: 2025-04-03T11:01:24.508Z
+updatedAt: 2026-11-23T11:01:24.508Z
 contentType: tutorial
 productTeam: Financial
-author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: payment-refunds
-legacySlug: payment-refunds
 locale: en
-subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
+hidden: false
 ---
 
 A refund returns the amount paid by the customer for a store purchase. This action may be required in several scenarios, such as:
@@ -24,7 +18,7 @@ A refund returns the amount paid by the customer for a store purchase. This acti
 There are two types of refunds:
 
 - __Total refund__: The entire order is canceled and the full purchase amount is returned to the customer.
-- __Parcial refund__: Only part of the purchase amount is refunded. For example, when the customer keeps one or more order items.
+- __Partial refund__: Only part of the purchase amount is refunded. For example, when the customer keeps one or more order items.
 
 ## Priority rules for partial refunds
 

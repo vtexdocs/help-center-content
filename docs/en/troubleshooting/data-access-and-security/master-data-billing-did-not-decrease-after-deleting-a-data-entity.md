@@ -14,7 +14,7 @@ symptomFilters:
   - Flow interruption
 ---
 
-After deleting a [data entity](/docs/tutorials/data-entity) via the Master Data v1 interface, you expect your monthly billed volume to decrease, but it doesn't.
+After deleting a [data entity](/en/docs/tutorials/data-entity) via the Master Data v1 interface, you expect your monthly billed volume to decrease, but it doesn't.
 
 This issue occurs because deleting a data entity through the interface doesn't remove the documents (records) already stored in it. These documents continue to be counted toward the monthly billing until they are deleted through the API.
 
@@ -31,6 +31,6 @@ Follow the instructions in the [Deleting documents in bulk in Master Data](https
 
 ### Confirming the decrease in the Master Data usage dashboard
 
-After deleting the documents, go to the [Master Data usage](/docs/tutorials/checking-master-data-usage-in-the-vtex-admin) dashboard in the VTEX Admin to confirm that the entity document count has decreased.
+After deleting the documents, go to the [Master Data usage](/en/docs/tutorials/checking-master-data-usage-in-the-vtex-admin) dashboard in the VTEX Admin to confirm that the entity document count has decreased.
 
-If the billing remains unchanged after deleting the documents, contact [Support](/docs/tutorials/how-does-vtex-support-work).
+If the billing remains unchanged after deleting the documents, contact [Support](/en/docs/tutorials/how-does-vtex-support-work).

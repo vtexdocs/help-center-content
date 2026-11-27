@@ -19,7 +19,7 @@ What to do when a shipping simulation does not show the expected result?
 
 Here, we will provide a step-by-step description of how to check the Logistics settings.
 
-Before we start, please remember that the [Shipping Simulation](/en/tutorial/freight-simulation/) will return the result of the [Shipping Calculation](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate) API. We recommend always using APIs. If you don’t have access, ask your store administrator and check the role associated with your user.
+Before we start, please remember that the [Shipping Simulation](/en/docs/tutorials/shipping-simulation) will return the result of the [Shipping Calculation](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate) API. We recommend always using APIs. If you don’t have access, ask your store administrator and check the role associated with your user.
 
 To illustrate this article, let’s consider a scenario where the __X-Box__ product is not being delivered to Postal Code 22451-451 for sales policy 1. The error message is as follows: "_It was not possible to generate the cart. See details below_".
 
@@ -33,4 +33,4 @@ But how can you correct that?
 
 This depends on each retailer; however, after resetting the Inventory-Dock-Carrier Logistics, you may also need to change the [carrier spreadsheet](/en/tutorial/building-a-freight-spreadsheet).
 
-A fast way to check a carrier’s range of Postal Codes is using the [Shipping Amounts](/en/tutorial/editing-freight-values/) tab.
+A fast way to check a carrier’s range of Postal Codes is using the [Shipping Amounts](/en/docs/tutorials/managing-shipping-rates) tab.

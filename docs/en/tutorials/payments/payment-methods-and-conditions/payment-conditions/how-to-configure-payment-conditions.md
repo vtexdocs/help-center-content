@@ -26,15 +26,15 @@ Once your provider is defined, for any payment condition you plan to choose, you
 - Complete the **Condition name** field with the name of your choice for identification.
 - Activate the condition in the **Status** field.
 - In **Process with provider**, indicate the provider that will process this payment condition.
-- Define whether you want to use an [anti-fraud solution](https://help.vtex.com/docs/tutorials/how-to-configure-the-anti-fraud) in **Use anti-fraud solution**.
+- Define whether you want to use an [anti-fraud solution](https://help.vtex.com/en/docs/tutorials/how-to-configure-the-anti-fraud) in **Use anti-fraud solution**.
 
-You can also define whether the payment will be in full or in installments, with or without interest, or with [special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+You can also define whether the payment will be in full or in installments, with or without interest, or with [special payment conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 ## Information about installments and interest
 
 ### Condition name
 
-Internal identifier of the payment condition (rule) in the Admin. You can create multiple rules for the same payment method (example: "Visa 10 installments no interest" and "Visa 12 installments with interest"), as long as they are differentiated by card network, installments, or [special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+Internal identifier of the payment condition (rule) in the Admin. You can create multiple rules for the same payment method (example: "Visa 10 installments no interest" and "Visa 12 installments with interest"), as long as they are differentiated by card network, installments, or [special conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 ### Total number of installments
 
@@ -49,11 +49,11 @@ The **Minimum installment** field defines the minimum amount for each installmen
 
 ### Billing
 
-Applies only to installments with interest. Defines whether the charge is calculated at the beginning or end of each period, impacting the final installment amount. See the formulas in [How do you calculate payments in installments with compound interest?](https://help.vtex.com/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest).
+Applies only to installments with interest. Defines whether the charge is calculated at the beginning or end of each period, impacting the final installment amount. See the formulas in [How do you calculate payments in installments with compound interest?](https://help.vtex.com/en/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest).
 
 ### Interest per installment
 
-When you click **Set installment interest rate**, a list with interest fields is displayed for each number of installments. You can define different surcharges per option (example: 1.99% for 6 installments and 2.49% for 12 installments). For more information about the differences between simple and compound interest, see [How to choose the type of interest for a payment condition](https://help.vtex.com/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition).
+When you click **Set installment interest rate**, a list with interest fields is displayed for each number of installments. You can define different surcharges per option (example: 1.99% for 6 installments and 2.49% for 12 installments). For more information about the differences between simple and compound interest, see [How to choose the type of interest for a payment condition](https://help.vtex.com/en/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition).
 
 ### Displaying installments at checkout
 
@@ -132,6 +132,6 @@ In the steps below, we'll use a credit card as the example of a payment conditio
 
 ## Learn more
 
-- [Configuring special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions)
-- [How to choose the type of interest for a payment condition](https://help.vtex.com/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition)
-- [How do you calculate payments in installments with compound interest?](https://help.vtex.com/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest)
+- [Configuring special payment conditions](https://help.vtex.com/en/docs/tutorials/special-conditions)
+- [How to choose the type of interest for a payment condition](https://help.vtex.com/en/docs/tutorials/how-to-choose-the-type-of-interest-for-a-payment-condition)
+- [How do you calculate payments in installments with compound interest?](https://help.vtex.com/en/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest)

@@ -34,8 +34,8 @@ To configure MSC-Payment, follow the steps below:
 8. In **Provider Fields**, complete the **tasaCambio** field with your MSC-Payment information.
 9. Click `Save`.
 
-To configure the payment methods to be processed by MSC-Payment, access [Configuring Payment Conditions](https://help.vtex.com/docs/tutorials/how-to-configure-payment-conditions).
+To configure the payment methods to be processed by MSC-Payment, access [Configuring Payment Conditions](https://help.vtex.com/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/docs/tutorials/special-conditions).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, MSC-Payment connector may take up to 10 minutes to appear at your store's checkout as a payment option.

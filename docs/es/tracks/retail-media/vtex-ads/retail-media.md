@@ -3,7 +3,7 @@ title: 'Retail Media'
 id: 36ZHI8z0VQjcu5yHeGEvv3
 status: PUBLISHED
 createdAt: 2025-05-29T14:17:24.579Z
-updatedAt: 2025-07-04T15:53:33.192Z
+updatedAt: 2026-11-18T00:00:00.000Z
 publishedAt: 2025-07-04T15:53:33.192Z
 firstPublishedAt: 2025-05-29T14:23:22.627Z
 contentType: trackArticle
@@ -15,28 +15,29 @@ trackSlugEN: vtex-ads
 order: 1
 ---
 
-Retail media es la práctica de transformar canales de venta, como sitios web, aplicaciones y tiendas físicas, en espacios publicitarios estratégicos. Este enfoque permite que retailers y marcas ejecuten campañas directamente en los puntos de contacto con el consumidor a lo largo de su jornada de compra.
+Retail media es la práctica de transformar canales de venta, como sitios web, aplicaciones y tiendas físicas, en espacios publicitarios estratégicos. Este enfoque permite que retailers y marcas ejecuten campañas segmentadas directamente en los puntos de contacto con el consumidor a lo largo de su jornada de compra.
 
 Lo que marca la diferencia al aplicar retail media es el uso de datos de comportamiento de compra del consumidor para diseñar campañas personalizadas, con una medición más eficiente del desempeño respecto a otros formatos de publicidad.
 
 ## VTEX Ads
 
-VTEX Ads es la solución de retail media de VTEX, creada para operar y escalar este tipo de publicidad dentro del ecosistema de retail. Los retailers y marcas pueden crear, gestionar y medir anuncios que aparecen en entornos propios (como la tienda de ecommerce del retailer), en canales externos y también en puntos de venta físicos.
+**VTEX Ads** es la solución de retail media de VTEX, creada para operar y escalar este tipo de publicidad dentro del ecosistema de retail. Los retailers y marcas pueden crear, gestionar y medir anuncios que aparecen en entornos propios (como la tienda de ecommerce del retailer), en canales externos y también en PDV físicos.
 
-Al navegar por una tienda de ecommerce, abrir una aplicación de compras o visitar una tienda física, los consumidores pueden recibir campañas activadas vía VTEX Ads, como vitrinas de productos patrocinados o banners promocionales. Todos esos puntos de contacto pueden utilizarse como medios publicitarios.
+Al navegar por una tienda de ecommerce, abrir una aplicación de compras o visitar una tienda física, los consumidores pueden verse impactados por campañas activadas mediante **VTEX Ads**, como vitrinas de productos patrocinados o banners promocionales. Todos esos puntos de contacto pueden utilizarse como medios publicitarios.
 
 ## Estrategias de retail media
 
-VTEX Ads admite múltiples estrategias de activación publicitaria, agrupadas en dos formatos principales:
+**VTEX Ads** admite tres estrategias de activación publicitaria:
 
-* **Onsite**: anuncios mostrados dentro de los canales digitales que pertenecen al retailer, como sitios web, aplicaciones de tienda de ecommerce, televentas, etc.  
-* **En la tienda**: activaciones realizadas en las tiendas física del retailer, como pantallas publicitarias digitales y promociones en el punto de venta.
+* **Onsite**: anuncios mostrados dentro de los canales digitales que pertenecen al retailer, como sitios web, aplicaciones de ecommerce, televentas, etc.
+* **En la tienda**: activaciones realizadas en las tiendas físicas del retailer, como pantallas publicitarias digitales y promociones en el PDV.
+* **Offsite**: anuncios mostrados fuera de la tienda que recibe el tráfico y que llevan al usuario hasta ella, como se explica en [Campañas offsite en VTEX Ads](/es/docs/tutorials/campanas-offsite-en-vtex-ads). El publicador opta por participar en la página [Retail de destino](/es/docs/tutorials/retail-de-destino).
 
 Estos formatos se combinan para atraer a los consumidores en las distintas fases del proceso de compra, desde el reconocimiento de la marca hasta la conversión final.
 
 ## Tipos de campaña
 
-Con VTEX Ads pueden configurarse diferentes tipos de campaña para alcanzar objetivos específicos a lo largo de la jornada de compra del cliente, que se detallan a continuación.
+Con **VTEX Ads**, pueden configurarse diferentes tipos de campaña para alcanzar objetivos específicos a lo largo de la jornada de compra. A continuación, se detalla cada tipo disponible.
 
 ### Productos patrocinados
 

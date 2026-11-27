@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ VTEX has two search options - CMS Portal (Legacy) search and VTEX Intelligent Search. This article refers to the CMS Portal (Legacy) search. To learn more about VTEX Intelligent Search, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ VTEX has two search options - CMS Portal (Legacy) search and VTEX Intelligent Search. This article refers to the CMS Portal (Legacy) search. To learn more about VTEX Intelligent Search, see [this track](/en/docs/tracks/implementing-the-search-in-your-store-frontend).
 
 If you need to use words in your products that may not be important for the search engine, several good practices exist:
 

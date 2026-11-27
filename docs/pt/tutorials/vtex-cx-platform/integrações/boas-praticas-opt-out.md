@@ -3,7 +3,7 @@ title: 'Boas práticas: Opt-Out'
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
-updatedAt: 2025-10-03T14:20:32.275Z
+updatedAt: 2026-11-13T14:30:00.000Z
 publishedAt: 2025-10-03T14:20:32.275Z
 firstPublishedAt: 2025-10-03T14:20:32.275Z
 contentType: tutorial
@@ -17,27 +17,23 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 A **prática de opt-out** refere-se ao processo pelo qual um usuário pode cancelar ou interromper o recebimento de comunicações de uma empresa, ou serviço. No contexto do **WhatsApp Business API**, por exemplo, a prática de opt-out permite que os clientes optem por não receber mais mensagens da empresa, seja por marketing, atualizações de serviços ou outras notificações.
 
-Essa prática envolve a disponibilização de métodos claros e acessíveis para que os usuários possam facilmente interromper a comunicação quando desejarem. O opt-out é geralmente feito por meio de palavras-chave enviadas pelo próprio usuário (como ""PARAR"", ""CANCELAR"", ""SAIR"") ou por meio de botões, ou links clicáveis que removem o contato da lista de envio.
+Essa prática envolve a disponibilização de métodos para que os usuários possam interromper a comunicação quando desejarem. O opt-out é geralmente feito por meio de palavras-chave enviadas pelo próprio usuário (como “PARAR”, “CANCELAR” ou “SAIR”) ou por meio de botões, ou links clicáveis que removem o contato da lista de envio.
 
 **Principais características da prática de opt-out:**
 
 1. **Controle do usuário**: O cliente tem o poder de escolher quando parar de receber comunicações.
-2. **Fácil de usar**: Deve ser simples e rápido para o usuário solicitar o descadastramento.
+2. **Processo**: Deve exigir o menor número de passos possível para o usuário solicitar o descadastramento.
 3. **Imediato**: As empresas devem garantir que o cancelamento seja processado sem demora.
-4. **Transparente**: Desde o início das interações, as empresas precisam informar claramente como os clientes podem cancelar o recebimento de mensagens.
+4. **Transparente**: Desde o início das interações, as empresas precisam informar como os clientes podem cancelar o recebimento de mensagens.
 
-A prática de opt-out é fundamental para garantir o respeito à privacidade e às preferências dos usuários, promovendo uma experiência de comunicação transparente e confiável.**O motivo que faz com que o cliente peça o Opt-Out pode ser o mais variado, como:**
+O motivo que faz com que o cliente peça o Opt-Out pode ser o mais variado, como:
 
 - Desinteresse pelo conteúdo divulgado;
-- resolução do problema apresentado pelo cliente;
-- insatisfação com o material oferecido;
-- cadastro feito sem o consentimento do usuário.
+- Resolução do problema apresentado pelo cliente;
+- Insatisfação com o material oferecido;
+- Cadastro feito sem o consentimento do usuário.
 
-Caso o cliente perca o interesse e a empresa não retire as mensagens da lista de envios, isso pode gerar uma frustração ainda pior.
-
-E isso se dá tendo em vista que a imagem da empresa ficará manchada para aquele cliente.
-
-Assim, caso ele precise futuramente de novas resoluções ou serviços da instituição, ele não ficará à vontade, sendo suficiente para impedir que novos negócios sejam fechados.
+Se o contato pede para parar de receber mensagens e a empresa continua enviando, o contato pode bloquear ou denunciar o número. Bloqueios e denúncias afetam a classificação de qualidade da conta.
 
 ## Melhorar a classificação por qualidade
 
