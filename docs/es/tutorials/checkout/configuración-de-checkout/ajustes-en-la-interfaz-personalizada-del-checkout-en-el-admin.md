@@ -15,8 +15,6 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-> ⚠️ VTEX ya no mantiene la aplicación Checkout UI Custom. Esto significa que ya no ofrece soporte ni mantenimiento.
-
 Las personalizaciones del checkout descritas en este artículo se llevan a cabo utilizando la aplicación Checkout UI Custom. Antes de iniciar los ajustes debes comprobar que la aplicación está instalada en la tienda, o instalarla como se indica en el artículo [Checkout UI Custom](https://developers.vtex.com/docs/apps/vtex.checkout-ui-custom).
 
 ## Personalizar el checkout
