@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 4
 ---
 
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 Para vender sus productos en Mercado Libre necesita determinar una [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio), es decir, informar cuál será la operación de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [política de envío](/es/docs/tutorials/politica-de-envio), [almacén](/es/docs/tutorials/almacen) y [muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
 La Política de envío (transportadora) se asocia al Almacén de su tienda a través del Muelle. El muelle es el punto intermedio y donde se establecen las condiciones entre la transportadora y el almacenaje de su tienda.

@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 8
 ---
 
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 La configuración de la logística para atender los pedidos realizados en Mercado Libre tiene algunas particularidades, principalmente porque es Mercado Libre quien determina el tipo de envío que su tienda debe configurar.
 
 Esta elección se produce en función del acuerdo comercial que su tienda tiene con Mercado Libre y de su ubicación y experiencia como seller. Por lo tanto, debe consultar a Mercado Libre para saber qué tipo de modalidad de envío debe configurar en su tienda

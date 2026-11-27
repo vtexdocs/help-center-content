@@ -15,6 +15,8 @@ trackSlugEN: que-funcionalidades-ofrece-la-integracion
 order: 11
 ---
 
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 Después de finalizar la [integración](/es/docs/tutorials/mercado-libre) de tu tienda VTEX con Mercado Libre, no solo compartirás tus productos y gestionarás los pedidos que se realicen a través del *marketplace*, sino que también actualizarás los precios, los productos y los puntos de recogida, además del stock, todo en un solo lugar.  
 Además de la integración básica y para que puedas aprovechar al máximo la integración, a continuación, incluimos cuáles son las funcionalidades y para qué se utiliza cada una.  
 

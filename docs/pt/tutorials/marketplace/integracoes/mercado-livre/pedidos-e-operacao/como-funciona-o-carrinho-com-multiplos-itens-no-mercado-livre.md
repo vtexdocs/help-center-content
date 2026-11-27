@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 O Mercado Livre realizou uma atualização que permite a inclusão de mais de um item diferente no carrinho. O chamado __carrinho com múltiplos itens__ trouxe uma nova lógica de tratamento da identificação de pedidos e produtos, o que fez com que fosse necessário mudar a forma como a VTEX trabalha com esses dados.
 
 ## Como funciona no Mercado Livre

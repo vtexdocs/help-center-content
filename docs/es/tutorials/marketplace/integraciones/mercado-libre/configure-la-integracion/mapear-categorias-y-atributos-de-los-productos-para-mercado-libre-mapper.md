@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 9
 ---
 
+> ℹ️ Prueba el nuevo agente de activación de canales para integrar tu tienda a Mercado Libre y empezar a vender más rápido, con un paso a paso guiado y respuestas a todas tus dudas. Para participar de las pruebas, ponte en contacto con el equipo de [soporte VTEX](https://supporticket.vtex.com/support).
+
 Después de realizar la configuración inicial de la integración, se puede enviar los productos al catálogo del marketplace. Para agilizar el proceso de catalogación de sus productos y permitir que estén disponibles para la venta en menos tiempo, deberá realizar el mapeo entre las características de los productos en su tienda VTEX y las características de los mismos productos en su tienda en el marketplace.
 
 Para enviar tus productos a Mercado Libre, debes:

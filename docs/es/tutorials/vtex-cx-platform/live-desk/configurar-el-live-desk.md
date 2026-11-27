@@ -136,7 +136,18 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
     | **Enviar mensaje automático a contactos en espera** | Envía un mensaje automático a contactos que esperan por un chat de soporte en la cola. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
     | **Enviar mensaje automático al iniciar el soporte** | Envía un mensaje automático cuando se asigna el chat a un representante. El mensaje se muestra como si hubiera sido enviado por el representante asignado. |
 
-3. En **Encuesta de satisfacción** activa **Enviar automáticamente una encuesta de satisfacción después de finalizar el chat de soporte en Live Desk** para recopilar feedback de los clientes al final de cada chat de soporte.
+3. En **Inactividad de la conversación** configura cómo Live Desk trata los chats en curso en los que el contacto dejó de responder:
+
+    | Opción | Descripción |
+    | --- | --- |
+    | **Mostrar aviso de inactividad al representante y notificar al contacto** | Muestra un aviso en la lista de chats y envía un mensaje automático al contacto cuando no responde dentro del tiempo definido. El aviso solo se muestra en chats en curso y considera el tiempo desde el último mensaje del representante. Al activarla define el tiempo en minutos y el mensaje que se envía al contacto. |
+    | **Finalizar chats inactivos automáticamente** | Finaliza el chat automáticamente si el contacto no envía ningún mensaje después del aviso de inactividad. Al activarlo, define el tiempo en minutos, contado a partir del aviso, y el mensaje de finalización que se envía al contacto. Esta funcionalidad está disponible solo cuando la opción **Mostrar aviso de inactividad al representante y notificar al contacto** esté activa. |
+
+    > ℹ️ Los mensajes automáticos de aviso y de finalización no reinician el recuento de inactividad, y los chats en la cola de **Esperando** no se ven afectados. Los chats finalizados automáticamente quedan registrados en el historial de Live Desk y en **Analytics**.
+
+    > ⚠️ Los mensajes de inactividad de conversación son obligatorios pero pueden editarse.
+
+4. En **Encuesta de satisfacción** activa **Enviar automáticamente una encuesta de satisfacción después de finalizar el chat de soporte en Live Desk** para recopilar feedback de los clientes al final de cada chat de soporte.
 
    Elige entre las opciones disponibles:
 
@@ -145,11 +156,11 @@ En el paso tres, configura las opciones de chats de soporte, mensajes automatiza
 
    > ⚠️ Para garantizar resultados precisos el flujo seleccionado debe utilizar una escala del 1 al 5.
 
-4. En **Tags** configura las tags del departamento:
+5. En **Tags** configura las tags del departamento:
    - En el campo **Nombre de la tag** busca una tag existente o ingresa un nuevo nombre para crearla. Haz clic en `Agregar` para incluirla en el departamento.
    - Activa **Exigir tags al final del soporte humano** para que sea obligatorio agregar al menos una tag al cerrar un chat de soporte.
 
-5. Después de completar los campos haz clic en `Continuar`.
+6. Después de completar los campos haz clic en `Continuar`.
 
 #### Paso 4: Configurar mensaje rápido (opcional)
 

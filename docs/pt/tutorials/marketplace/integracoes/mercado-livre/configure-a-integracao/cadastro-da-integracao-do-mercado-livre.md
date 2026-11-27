@@ -15,6 +15,8 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 order: 7
 ---
 
+> ℹ️ Teste o novo agente de ativação de canais para integrar sua loja ao Mercado Livre e começar a vender mais rápido, com um passo a passo guiado e respostas para todas as suas dúvidas. Para participar dos testes entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
+
 1. Acesse o Admin.
 2. No módulo **Marketplace**, clique em **Integrações**.
 3. Acesse a aba `Configurações`.

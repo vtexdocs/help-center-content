@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Channel Activation Assistant for Mercado Libre in Closed Beta",
+                    "es": "Asistente de activación Mercado Libre en closed beta",
+                    "pt": "Assistente de ativação Mercado Livre em closed beta"
+                  },
+                  "slug": {
+                    "en": "2026-11-19-channel-activation-assistant-for-mercado-libre-in-closed-beta",
+                    "es": "2026-11-19-asistente-de-activacion-mercado-libre-en-closed-beta",
+                    "pt": "2026-11-19-assistente-de-ativacao-mercado-livre-em-closed-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Desk Copilot: suggestions for human representatives in Live Desk",
                     "es": "Desk Copilot: sugerencias para representantes humanos en Live Desk",
                     "pt": "Desk Copilot: sugestões para atendentes humanos no Live Desk"
@@ -20470,6 +20485,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Scheduling features for special events",
+                "es": "Programar funcionalidades para eventos especiales",
+                "pt": "Agendar preços, promoções e taxas para eventos especiais"
+              },
+              "slug": {
+                "en": "scheduling-features-for-special-events",
+                "es": "programacion-de-funcionalidades-para-eventos-especiales",
+                "pt": "agendamento-para-eventos-especiais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -28365,6 +28395,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dimo",
+                        "es": "Configurar pago con Dimo",
+                        "pt": "Configurar pagamento com Dimo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dimo",
+                        "es": "configurar-pago-con-dimo",
+                        "pt": "configurar-pagamento-com-dimo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Dinelco",
                         "es": "Configurar pago con Dinelco",
                         "pt": "Configurar pagamento com Dinelco"
@@ -30242,6 +30287,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with QPayPro",
+                        "es": "Configurar pago con QPayPro",
+                        "pt": "Configurar pagamento com QPayPro"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-qpaypro",
+                        "es": "configurar-pago-con-qpaypro",
+                        "pt": "configurar-pagamento-com-qpaypro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with RedebanConnector",
                         "es": "Configurar pago con RedebanConnector",
                         "pt": "Configurar pagamento com RedebanConnector"
@@ -30596,6 +30656,21 @@
                         "en": "setting-up-payments-with-stripev2",
                         "es": "configurar-pago-con-stripev2",
                         "pt": "configurar-pagamento-com-stripev2"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with sumas",
+                        "es": "Configurar pago con sumas",
+                        "pt": "Configurar pagamento com sumas"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-sumas",
+                        "es": "configurar-pago-con-sumas",
+                        "pt": "configurar-pagamento-com-sumas"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -30971,6 +31046,21 @@
                         "en": "setting-up-payments-with-wompibancoltrans",
                         "es": "configurar-pago-con-wompibancoltrans",
                         "pt": "configurar-pagamento-com-wompibancoltrans"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with WompiCo",
+                        "es": "Configurar pago con WompiCo",
+                        "pt": "Configurar pagamento com WompiCo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-wompico",
+                        "es": "configurar-pago-con-wompico",
+                        "pt": "configurar-pagamento-com-wompico"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34537,12 +34627,12 @@
                     "pt": "Meus agentes"
                   },
                   "slug": {
-                    "en": "assigning-and-testing-agents-in-agent-builder",
-                    "es": "asignar-y-probar-agentes",
-                    "pt": "atribuir-e-testar-agentes"
+                    "en": "my-agents-subcategory",
+                    "es": "mis-agentes-subcategoria",
+                    "pt": "meus-agentes-subcategoria"
                   },
                   "origin": "",
-                  "type": "markdown",
+                  "type": "category",
                   "children": [
                     {
                       "name": {
@@ -34573,8 +34663,38 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "My agents",
+                        "es": "Mis agentes",
+                        "pt": "Meus agentes"
+                      },
+                      "slug": {
+                        "en": "assigning-and-testing-agents-in-agent-builder",
+                        "es": "asignar-y-probar-agentes",
+                        "pt": "atribuir-e-testar-agentes"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
                     }
                   ]
+                },
+                {
+                  "name": {
+                    "en": "Meus agentes",
+                    "es": "Meus agentes",
+                    "pt": "Meus agentes"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "agent-builder-meus-agentes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 },
                 {
                   "name": {
@@ -34926,6 +35046,21 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": {
+                    "en": "Base de conhecimento",
+                    "es": "Base de conhecimento",
+                    "pt": "Base de conhecimento"
+                  },
+                  "slug": {
+                    "en": "",
+                    "es": "",
+                    "pt": "base-de-conhecimento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -35006,8 +35141,8 @@
                 },
                 {
                   "name": {
-                    "en": "Using groups to organize human attendance",
-                    "es": "Usando grupos para controlar la atención humana",
+                    "en": "Using groups to control human support",
+                    "es": "Usar grupos para controlar el soporte humano",
                     "pt": "Usando grupos para controlar o atendimento humano"
                   },
                   "slug": {
@@ -36087,6 +36222,21 @@
           "children": [
             {
               "name": {
+                "en": "VTEX Academy",
+                "es": "VTEX Academy",
+                "pt": "VTEX Academy"
+              },
+              "slug": {
+                "en": "vtex-academy-overview",
+                "es": "vtex-academy-vision-geral",
+                "pt": "vtex-academy-visao-geral"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Opening tickets with VTEX Support",
                 "es": "Abrir tickets con el Soporte VTEX",
                 "pt": "Abrir chamados para o suporte VTEX"
@@ -36402,6 +36552,21 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Accessing the beta environment through the myvtex.com domain",
+                "es": "Accede al entorno beta a través del dominio myvtex.com",
+                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
+              },
+              "slug": {
+                "en": "accessing-the-beta-environment",
+                "es": "acceder-al-ambiente-beta",
+                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -37174,6 +37339,21 @@
                     "en": "product-recommendations-beta",
                     "es": "recomendaciones-de-productos-beta",
                     "pt": "recomendacoes-de-produtos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Recommendations reports (Beta)",
+                    "es": "Informes de recomendaciones (beta)",
+                    "pt": "Relatórios de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "recommendations-reports",
+                    "es": "informes-de-recomendaciones",
+                    "pt": "relatorios-de-recomendacoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39747,112 +39927,6 @@
                 "en": "zapier-suiteshare",
                 "es": "zapier-suiteshare",
                 "pt": "zapier-suiteshare"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Other",
-            "es": "Otros",
-            "pt": "Outros"
-          },
-          "slug": {
-            "en": "tutorials-other-category",
-            "es": "tutoriales-otros-categoria",
-            "pt": "tutoriais-outros-categoria"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "VTEX Academy - Overview",
-                "es": "VTEX Academy - Visión Geral",
-                "pt": "VTEX Academy - Visão geral"
-              },
-              "slug": {
-                "en": "vtex-academy-overview",
-                "es": "vtex-academy-vision-geral",
-                "pt": "vtex-academy-visao-geral"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Accessing the beta environment through the myvtex.com domain",
-                "es": "Accede al entorno beta a través del dominio myvtex.com",
-                "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
-              },
-              "slug": {
-                "en": "accessing-the-beta-environment",
-                "es": "acceder-al-ambiente-beta",
-                "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Scheduling features for special events",
-                "es": "Programación de funcionalidades para eventos especiales",
-                "pt": "Agendamento para eventos especiais"
-              },
-              "slug": {
-                "en": "scheduling-features-for-special-events",
-                "es": "programacion-de-funcionalidades-para-eventos-especiales",
-                "pt": "agendamento-para-eventos-especiais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Compatibility with browsers in VTEX Admin",
-                "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
-                "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
-              },
-              "slug": {
-                "en": "compatibility-with-browsers-in-the-admin-module",
-                "es": "compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex",
-                "pt": "compatibilidade-com-navegadores-no-modulo-administrativo-admin"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Partner Program - Intranet and VTEX Store Manual",
-                "es": "Programa Partner - Manual de Intranet y VTEX Store",
-                "pt": "Programa Partner - Manual da Intranet e VTEX Store"
-              },
-              "slug": {
-                "en": "partner-program-intranet-and-vtex-store-manual",
-                "es": "programa-partner-manual-de-intranet-y-vtex-store",
-                "pt": "programa-partner-manual-da-intranet-e-vtex-store"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "VTEX Network",
-                "es": "VTEX Network",
-                "pt": "VTEX Network"
-              },
-              "slug": {
-                "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
-                "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
-                "pt": "vtex-network"
               },
               "origin": "",
               "type": "markdown",
