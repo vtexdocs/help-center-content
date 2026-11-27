@@ -116,6 +116,14 @@ Después de confirmar, la conversación pasa al destinatario elegido. Para ver c
 
 Cada representante de la lista de transferencia muestra un estado: **En línea**, **En pausa** (con el nombre de la pausa personalizada) o **Fuera de línea**. La lista muestra primero los representantes en línea, luego los que están en pausa y después los que están fuera de línea. Dentro de cada estado, los nombres se ordenan alfabéticamente. Las pausas personalizadas y la opción **Bloquear transferencia de chats a representantes offline** se configuran en [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
+### Aviso y cierre automático de salas inactivas
+
+Cuando el contacto no responde al último mensaje del representante dentro del tiempo configurado para el departamento, el chat recibe un aviso de inactividad en la lista de Live Desk y el contacto recibe automáticamente una notificación. Si el departamento tiene activa la opción **Finalizar chats inactivos automáticamente** y el contacto sigue sin responder después del aviso, el chat se cierra automáticamente y se envía un mensaje de cierre.
+
+Puedes definir los tiempos y los mensajes por departamento, en la sección **Inactividad de la conversación**. Para configurarlos consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Al acceder al historial del contacto puedes consultar el inicio del soporte, el historial con el bot, los acontecimientos del chat y las tags usadas para clasificarlo. Los chats finalizados automáticamente por inactividad se identifican como tal en el historial.
+
 ## Redactar mensajes
 
 El campo de redacción de mensajes tiene una barra de acciones fija debajo del campo de mensaje. Desde esta barra, puedes abrir mensajes rápidos, adjuntar archivos, agregar una nota interna, insertar emojis o grabar audio.
