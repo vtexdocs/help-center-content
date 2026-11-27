@@ -1854,6 +1854,16 @@
       "countries": ["BO"]
     },
     {
+      "name": "QPayPro",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-qpaypro",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-qpaypro",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-qpaypro"
+      },
+      "countries": ["GT"]
+    },
+    {
       "name": "RedebanConnector",
       "payoutSplit": false,
       "docs": {
