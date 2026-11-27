@@ -35034,13 +35034,13 @@
                 },
                 {
                   "name": {
-                    "en": "Base de conhecimento",
-                    "es": "Base de conhecimento",
+                    "en": "Knowledge base",
+                    "es": "Base de conocimiento",
                     "pt": "Base de conhecimento"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "knowledge-base",
+                    "es": "base-de-conocimiento",
                     "pt": "base-de-conhecimento"
                   },
                   "origin": "",
