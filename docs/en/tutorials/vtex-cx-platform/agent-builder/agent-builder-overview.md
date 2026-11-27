@@ -17,7 +17,7 @@ The agents work based on a collaboration structure between two types of agents:
 - **Orchestrator agent (manager):** the customer's point of contact, responsible for leading the conversation, interpreting incoming requests, and triggering the collaborator agents appropriate to each situation.
 - **Collaborator agents:** agents specialized in certain tasks or knowledge domains, responsible for providing information or performing actions according to the requests forwarded by the orchestrator agent.
 
-VTEX CX Platform provides predefined collaborator agents for different service scenarios. You can select the agents that fit your operation's needs, configure them, and test them in Agent Builder. To learn about the available agents, see [Official VTEX CX Platform agents](https://help.vtex.com/en/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).
+VTEX CX Platform provides predefined collaborator agents for different service scenarios. You can select the agents that fit your operation's needs, configure them, and test them in Agent Builder. To learn about the available agents, see [Official VTEX CX Platform agents](https://help.vtex.com/en/docs/tutorials/official-agents-from-vtex-cx-platform).
 
 If your operation has specific needs that aren't covered by the official agents, you can also develop custom agents using the [VTEX CX Platform CLI](https://developers.vtex.com/docs/guides/using-the-weni-by-vtex-cli).
 
