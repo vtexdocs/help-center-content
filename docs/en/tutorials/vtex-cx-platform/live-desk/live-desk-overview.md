@@ -117,6 +117,14 @@ After you confirm, the conversation goes to the chosen recipient. To see how a t
 
 Each representative in the transfer list shows a status: **Online**, **Paused** (with the custom break name), or **Offline**. The list shows representatives in that order and sorts names alphabetically within each status. Custom breaks and the **Block chat transfers to offline representatives** option are set in [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
+### Alerting and automatically ending inactive chats
+
+If the contact doesn't respond to the representative's last message within the time limit configured for the department, an inactivity alert appears in the Live Desk chat list, and the contact automatically receives a notification message. If the department has the **Automatically end inactive chats** option activated and the contact still doesn't respond after the alert, the chat is automatically ended, and a closing message is sent.
+
+You can set the times and messages by department in the **Conversation inactivity** section. To configure them, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk#step-3-configure-options-and-messages).
+
+When you view a contact's history, you can see the start of the conversation, the history with the bot, the chat events, and the tags used to classify it. Chats ended automatically due to inactivity are identified as such in the history.
+
 ## Composing messages
 
 The message composer has a fixed action bar under the message field. From this bar, you can open quick messages, attach files, add an internal note, insert emojis, or record audio.

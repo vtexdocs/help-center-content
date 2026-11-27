@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-27",
   "providers": [
     {
       "name": "55Pay",
@@ -642,6 +642,16 @@
         "es": "https://help.vtex.com/es/tutorial/configurar-pago-con-digital-river-v2--5dlXHutd9Ik6vtN3WP7GRP"
       },
       "countries": ["US"]
+    },
+    {
+      "name": "Dimo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-dimo",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-dimo",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-dimo"
+      },
+      "countries": ["BR"]
     },
     {
       "name": "Dinelco",
@@ -1844,6 +1854,16 @@
       "countries": ["BO"]
     },
     {
+      "name": "QPayPro",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-qpaypro",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-qpaypro",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-qpaypro"
+      },
+      "countries": ["GT"]
+    },
+    {
       "name": "RedebanConnector",
       "payoutSplit": false,
       "docs": {
@@ -2052,6 +2072,16 @@
         "SV",
         "US"
       ]
+    },
+    {
+      "name": "sumas",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-sumas",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-sumas",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-sumas"
+      },
+      "countries": ["CO"]
     },
     {
       "name": "SumasPay",
@@ -2348,6 +2378,16 @@
         "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompibancoltrans",
         "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompibancoltrans",
         "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompibancoltrans"
+      },
+      "countries": ["CO"]
+    },
+    {
+      "name": "WompiCo",
+      "payoutSplit": false,
+      "docs": {
+        "pt": "https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-wompico",
+        "en": "https://help.vtex.com/docs/tutorials/setting-up-payments-with-wompico",
+        "es": "https://help.vtex.com/es/docs/tutorials/configurar-pago-con-wompico"
       },
       "countries": ["CO"]
     },

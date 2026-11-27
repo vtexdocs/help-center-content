@@ -136,7 +136,18 @@ In step 3, configure the support options, automated messages, and tags for the d
     | **Send automatic message to waiting contacts** | Sends an automated message to contacts awaiting support in the queue. The message appears as if sent by the assigned representative. |
     | **Send automatic message when support starts** | Sends an automated message when the chat is assigned to a representative. The message appears as if sent by that representative. |
 
-3. Under **Satisfaction survey**, enable **Automatically send a satisfaction survey after Live Desk support ends** to collect customer feedback at the end of each support chat.
+3. In **Conversation inactivity**, configure how Live Desk handles ongoing chats where the contact has stopped responding:
+
+    | Option | Description |
+    | --- | --- |
+    | **Show inactivity alert to the representative and notify the contact** | Displays an alert in the chat list and automatically sends a message to the contact if they don't respond within the configured time limit. The alert is displayed only in ongoing chats and considers the time since the representative's last message. When you activate this option, set the time in minutes and the message sent to the contact. |
+    | **Automatically end inactive chats** | Automatically ends the chat if the contact doesn't send any messages after the inactivity alert. When you activate this option, set the time in minutes, counted from the alert, and the closing message sent to the contact. This feature is available only when **Show inactivity alert to the representative and notify the contact** is active. |
+
+    > ℹ️ Automatic alert and closing messages don't restart the inactivity count, and chats in the **Waiting** queue aren't affected. Automatically closed chats are identified in the Live Desk history and in **Analytics**.
+
+    > ⚠️ Conversation inactivity messages are required, but can be edited.
+
+4. Under **Satisfaction survey**, enable **Automatically send a satisfaction survey after Live Desk support ends** to collect customer feedback at the end of each support chat.
 
     Choose from the available options:
 
@@ -145,11 +156,11 @@ In step 3, configure the support options, automated messages, and tags for the d
 
     > ⚠️ To ensure accurate results, the selected flow must use a scale from 1 to 5.
 
-4. In **Tags**, configure the department tags:
+5. In **Tags**, configure the department tags:
     - In the **Tag name** field, search for an existing tag or type a new name to create one. Click `Add` to include it in the department.
     - Enable **Require tags at the end of human support** to require at least one tag when closing a support chat.
 
-5. After completing the fields, click `Continue`.
+6. After completing the fields, click `Continue`.
 
 #### Step 4: Configure a quick message (optional)
 

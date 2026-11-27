@@ -36,7 +36,7 @@ Somente o usuário Titular pode realizar as seguintes ações essenciais de manu
 * Autenticar sua conta em nossos conectores nativos, incluindo:
     * [Facebook](/pt/docs/tracks/configuracao-do-conector-facebook)
     * [Google Shopping](/pt/docs/tracks/autenticacao-da-conta-google-shopping)
-    * [Mercado Livre](/pt/docs/tracks/autorizar-integracao-do-mercado-livre-no-painel-da-vtex)
+    * [Mercado Livre](/pt/docs/tutorials/autorizar-integracao-do-mercado-livre-no-painel-da-vtex)
 * [Aprovar solicitações de cancelamento de pedidos](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente)
 
 Além disso, quando a VTEX precisa comunicar informações sensíveis à loja, como mudanças em perfis de acesso, tal comunicação é feita direta e exclusivamente com o usuário Titular.
