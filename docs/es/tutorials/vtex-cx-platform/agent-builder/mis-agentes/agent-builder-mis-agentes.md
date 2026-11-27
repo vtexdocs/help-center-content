@@ -8,7 +8,7 @@ slugEN: agent-builder-my-agents
 locale: es
 ---
 
-En la sección **Mis agentes** de [Agent Builder](https://help.vtex.com/es/docs/tutorials/visao-geral-agent-builder), puedes editar el manager, que es el agente orquestador de tu operación, y las instrucciones que debe seguir. En esta página también puedes probar y asignar cada uno de los agentes colaboradores.
+En la sección **Mis agentes** de [Agent Builder](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder), puedes editar el manager, que es el agente orquestador de tu operación, y las instrucciones que debe seguir. En esta página también puedes probar y asignar cada uno de los agentes colaboradores.
 
 Aprende más consultando el artículo [Asignar y probar un agente](https://help.vtex.com/es/docs/tutorials/asignar-y-probar-agentes).
 

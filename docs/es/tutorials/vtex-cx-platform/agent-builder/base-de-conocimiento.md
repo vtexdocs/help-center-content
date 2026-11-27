@@ -8,7 +8,7 @@ slugEN: knowledge-base
 locale: es
 ---
 
-En la página de la **Base de conocimiento** de [Agent Builder](https://help.vtex.com/es/docs/tutorials/visao-geral-agent-builder), puedes agregar [archivos](#archivos), [sitios web](#sitios-web) y [textos](#textos) a la base de conocimiento de tu agente. Los agentes utilizarán los datos de estos documentos para responder a los usuarios.
+En la página de la **Base de conocimiento** de [Agent Builder](https://help.vtex.com/es/docs/tutorials/informacion-general-de-agent-builder), puedes agregar [archivos](#archivos), [sitios web](#sitios-web) y [textos](#textos) a la base de conocimiento de tu agente. Los agentes utilizarán los datos de estos documentos para responder a los usuarios.
 
 ## Archivos
 
