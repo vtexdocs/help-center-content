@@ -1,9 +1,9 @@
 ---
-title: 'Loja - Visão geral'
+title: 'Loja: visão geral'
 id: 3Eat287G6wUi6Mly5rW5Fs
 status: PUBLISHED
 createdAt: 2022-01-06T13:45:16.048Z
-updatedAt: 2025-09-02T18:14:11.909Z
+updatedAt: 2026-11-26T21:59:00.000Z
 publishedAt: 2025-09-02T18:14:11.909Z
 firstPublishedAt: 2022-01-06T14:09:01.062Z
 contentType: tutorial
@@ -16,25 +16,24 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 order: 1
 ---
 
-A página **Loja** permite que você realize configurações de SEO, habilite flags de otimização de desempenho e edite as configurações de PWA da sua loja.
+Na página **Loja**, você configura o SEO, habilita as flags de otimização de desempenho e edita as configurações do Aplicativo Web Progressivo (PWA) da sua loja.
 
-No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e descubra as principais ferramentas disponíveis na interface.
+No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e conheça as principais ferramentas disponíveis.
 
-![CMS Loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configurações-da-loja---storefront/cms-loja-visao-geral_1.png)
+![Página Loja no Admin VTEX, com as abas Geral, Avançado e PWA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configurações-da-loja---storefront/cms-loja-visao-geral_1.png)
 
-<div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
-  Antes de fazer alterações na aba **Avançado**, entre em contato com a sua equipe de desenvolvedores e consulte a nossa [documentação sobre a otimização de desempenho](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.
-</div>
+> ⚠️ Antes de fazer alterações na aba **Avançado**, entre em contato com sua equipe de desenvolvimento e consulte a nossa [documentação sobre a otimização de desempenho](https://developers.vtex.com/docs/guides/vtex-io-documentation-enabling-performance-settings) para mais informações.
+
+Confira as ferramentas disponíveis:
 
 | Ferramenta | Descrição |
 | -------------- | ------------- |
-| Geral          | Realize as configurações de SEO da sua loja. |
-| Avançado       | Habilite as flags de otimização de desempenho para melhorar o site da sua loja. |
-| PWA            | Configure o Aplicativo Web Progressivo (PWA) nativo da sua loja para oferecer funcionalidades úteis para seus clientes, como navegar na sua loja offline e baixar o site da sua loja como um aplicativo. |
+| Geral          | Permite configurar o SEO da sua loja. |
+| Avançado       | Permite habilitar as flags de otimização de desempenho para melhorar o desempenho da sua loja. |
+| PWA            | Permite configurar o PWA nativo da sua loja para oferecer funcionalidades úteis aos clientes, como navegar na loja offline e instalá-la como aplicativo. |
 
 ## Próximos passos
 
 Consulte o tutorial a seguir para começar a gerenciar o conteúdo do seu storefront:
 
 - [Habilitando notificações PWA na sua loja](/pt/docs/tutorials/habilitando-notificacoes-pwa-da-loja)
-
