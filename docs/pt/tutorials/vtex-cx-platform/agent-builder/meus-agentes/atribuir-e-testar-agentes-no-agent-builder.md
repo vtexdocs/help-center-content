@@ -1,18 +1,11 @@
 ---
-title: 'Meus agentes'
-id: 41beBpRcBouxMywt6dUW2z
-status: PUBLISHED
+title: 'Atribuir e testar agentes no Agent Builder'
 createdAt: 2025-07-09T18:14:18.864Z
 updatedAt: 2026-09-18T00:00:00.000Z
-publishedAt: 2025-09-11T13:21:03.550Z
-firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
-author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: assigning-and-testing-agents-in-agent-builder
-legacySlug: atribuir-e-testar-agentes-no-agent-builder
 locale: pt
-subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
 A seção **Meus agentes** permite atribuir agentes ao time e testar sua operação. Alguns agentes oficiais exigem credenciais para operar na plataforma. Para mais informações, acesse [Agentes oficiais do VTEX CX Platform e suas credenciais](https://help.vtex.com/pt/docs/tutorials/agentes-oficiais-da-vtex-cx-platform).

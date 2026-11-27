@@ -28395,6 +28395,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with Dimo",
+                        "es": "Configurar pago con Dimo",
+                        "pt": "Configurar pagamento com Dimo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-dimo",
+                        "es": "configurar-pago-con-dimo",
+                        "pt": "configurar-pagamento-com-dimo"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with Dinelco",
                         "es": "Configurar pago con Dinelco",
                         "pt": "Configurar pagamento com Dinelco"
@@ -30272,6 +30287,21 @@
                     },
                     {
                       "name": {
+                        "en": "Setting up payments with QPayPro",
+                        "es": "Configurar pago con QPayPro",
+                        "pt": "Configurar pagamento com QPayPro"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-qpaypro",
+                        "es": "configurar-pago-con-qpaypro",
+                        "pt": "configurar-pagamento-com-qpaypro"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Setting up payments with RedebanConnector",
                         "es": "Configurar pago con RedebanConnector",
                         "pt": "Configurar pagamento com RedebanConnector"
@@ -30626,6 +30656,21 @@
                         "en": "setting-up-payments-with-stripev2",
                         "es": "configurar-pago-con-stripev2",
                         "pt": "configurar-pagamento-com-stripev2"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with sumas",
+                        "es": "Configurar pago con sumas",
+                        "pt": "Configurar pagamento com sumas"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-sumas",
+                        "es": "configurar-pago-con-sumas",
+                        "pt": "configurar-pagamento-com-sumas"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -31001,6 +31046,21 @@
                         "en": "setting-up-payments-with-wompibancoltrans",
                         "es": "configurar-pago-con-wompibancoltrans",
                         "pt": "configurar-pagamento-com-wompibancoltrans"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Setting up payments with WompiCo",
+                        "es": "Configurar pago con WompiCo",
+                        "pt": "Configurar pagamento com WompiCo"
+                      },
+                      "slug": {
+                        "en": "setting-up-payments-with-wompico",
+                        "es": "configurar-pago-con-wompico",
+                        "pt": "configurar-pagamento-com-wompico"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34531,6 +34591,21 @@
                 },
                 {
                   "name": {
+                    "en": "Analytics: Configuring Handled by AI criteria",
+                    "es": "Analytics: Configurar criterios de Atendido por IA",
+                    "pt": "Analytics: Configurar critérios de Atendido por IA"
+                  },
+                  "slug": {
+                    "en": "analytics-configuring-handled-by-ai-criteria",
+                    "es": "analytics-configurar-criterios-de-atendido-por-ia",
+                    "pt": "analytics-configurar-criterios-de-atendido-por-ia"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Analytics: Create custom dashboard",
                     "es": "Analytics: Crear dashboard personalizado",
                     "pt": "Analytics: Criar dashboard personalizado"
@@ -34567,12 +34642,12 @@
                     "pt": "Meus agentes"
                   },
                   "slug": {
-                    "en": "my-agents-subcategory",
-                    "es": "mis-agentes-subcategoria",
-                    "pt": "meus-agentes-subcategoria"
+                    "en": "agent-builder-my-agents",
+                    "es": "agent-builder-mis-agentes",
+                    "pt": "agent-builder-meus-agentes"
                   },
                   "origin": "",
-                  "type": "category",
+                  "type": "markdown",
                   "children": [
                     {
                       "name": {
@@ -34584,6 +34659,21 @@
                         "en": "official-agents-from-vtex-cx-platform",
                         "es": "agentes-oficiales-de-vtex-cx-platform",
                         "pt": "agentes-oficiais-da-vtex-cx-platform"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Assigning and testing agents in Agent Builder",
+                        "es": "Asignar y probar agentes en Agent Builder",
+                        "pt": "Atribuir e testar agentes no Agent Builder"
+                      },
+                      "slug": {
+                        "en": "assigning-and-testing-agents-in-agent-builder",
+                        "es": "asignar-y-probar-agentes",
+                        "pt": "atribuir-e-testar-agentes-no-agent-builder"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -34603,38 +34693,8 @@
                       "origin": "",
                       "type": "markdown",
                       "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "My agents",
-                        "es": "Mis agentes",
-                        "pt": "Meus agentes"
-                      },
-                      "slug": {
-                        "en": "assigning-and-testing-agents-in-agent-builder",
-                        "es": "asignar-y-probar-agentes",
-                        "pt": "atribuir-e-testar-agentes"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
                     }
                   ]
-                },
-                {
-                  "name": {
-                    "en": "Meus agentes",
-                    "es": "Meus agentes",
-                    "pt": "Meus agentes"
-                  },
-                  "slug": {
-                    "en": "",
-                    "es": "",
-                    "pt": "agent-builder-meus-agentes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 },
                 {
                   "name": {
@@ -34989,13 +35049,13 @@
                 },
                 {
                   "name": {
-                    "en": "Base de conhecimento",
-                    "es": "Base de conhecimento",
+                    "en": "Knowledge base",
+                    "es": "Base de conocimiento",
                     "pt": "Base de conhecimento"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "knowledge-base",
+                    "es": "base-de-conocimiento",
                     "pt": "base-de-conhecimento"
                   },
                   "origin": "",
