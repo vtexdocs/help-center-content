@@ -24,6 +24,6 @@ Caso sua operação tenha necessidades específicas que não sejam contempladas 
 
 Para acessar o Agent Builder, selecione a organização e o projeto que deseja gerenciar na página inicial do VTEX CX Platform. O Agent Builder é composto pelas seguintes páginas:
 
-- [Meus agentes](https://help.vtex.com/pt/docs/tutorials/meus-agentes): área de gerenciamento e teste dos agentes colaboradores e de configuração do agente orquestrador.
+- [Meus agentes](https://help.vtex.com/pt/docs/tutorials/agent-builder-meus-agentes): área de gerenciamento e teste dos agentes colaboradores e de configuração do agente orquestrador.
 - [Base de conhecimento](https://help.vtex.com/pt/docs/tutorials/base-de-conhecimento): conjunto de arquivos, sites e textos que servem como fontes de informação para os agentes responderem aos clientes.
 - [Fluxo de automação](https://help.vtex.com/pt/docs/tutorials/visao-geral-fluxo-de-automacao): área de configuração de fluxos automatizados que determinam as interações e respostas dos agentes com base nas mensagens dos clientes.
