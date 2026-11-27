@@ -8,7 +8,9 @@ slugEN: analytics-configuring-handled-by-ai-criteria
 locale: pt
 ---
 
-Os atendimentos são classificados como **Atendido por IA** ou **Não atendido por IA**, com base em uma série de critérios. Você pode visualizar, adicionar, editar e excluir esses critérios pelo dashboard **Conversacional**.
+Na seção **Conversas** do dashboard **Conversacional**, você pode acompanhar quantas conversas foram classificadas como **Atendido por IA** ou **Não atendido por IA**.
+
+Essa classificação é realizada diariamente, com base em critérios que avaliam os atendimentos realizados pelos agentes de IA. Além dos critérios padrão, você pode configurar critérios personalizados para adaptar a avaliação às necessidades da sua operação.
 
 Para visualizar e gerenciar os critérios, clique no ícone de três pontos (<i class="fas fa-ellipsis-v" aria-hidden="true"></i>). O painel lateral **Critérios de Atendido por IA** apresenta duas seções:
 
