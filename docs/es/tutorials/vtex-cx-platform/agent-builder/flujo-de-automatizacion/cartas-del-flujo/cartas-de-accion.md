@@ -3,7 +3,7 @@ title: "Cartas de acción"
 id: 5TQ44l4pp84PPWdnWdg3JN
 status: PUBLISHED
 createdAt: 2025-09-16T16:43:29.253Z
-updatedAt: 2026-11-12T12:20:00.000Z
+updatedAt: 2026-11-13T14:00:00.000Z
 publishedAt: 2025-10-03T14:20:03.887Z
 firstPublishedAt: 2025-10-03T14:20:03.887Z
 contentType: tutorial
@@ -15,141 +15,146 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Cada carta de acción ejecuta un comando en la conversación. Usa la lista de abajo para ir directo a la carta.
+Una carta de acción ejecuta un comando en un [flujo de automatización](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos), como enviar un mensaje, actualizar un contacto o abrir un ticket. Usa la lista de abajo para abrir la descripción de una carta mientras armas un flujo.
 
-- **Enviar un mensaje al contacto**
-- **Enviar un mensaje a alguien m ás**
-- **Etiquetar el mensaje entrante**
-- **A ñadir una URN al contacto**
-- **A ñadir el contacto a un grupo**
-- **Eliminar el contacto de un grupo**
-- **Actualizar el contacto**
-- **Enviar un correo electr ónico**
-- **Guarda un resultado para este flujo**
-- **Entrar en otro flujo**
-- **Iniciar a otra persona en un flujo**
-- **Enviar un mensaje de WhatsApp**
-- **Abrir un ticket con un agente humano**
-- **Llamar a un webhook**
+- [Enviar un mensaje al contacto](#enviar-un-mensaje-al-contacto)
+- [Enviar un mensaje a otra persona](#enviar-un-mensaje-a-otra-persona)
+- [Etiquetar el mensaje entrante](#etiquetar-el-mensaje-entrante)
+- [Añadir una URN al contacto](#añadir-una-urn-al-contacto)
+- [Añadir el contacto a un grupo](#añadir-el-contacto-a-un-grupo)
+- [Eliminar el contacto de un grupo](#eliminar-el-contacto-de-un-grupo)
+- [Actualizar el contacto](#actualizar-el-contacto)
+- [Enviar un correo electrónico](#enviar-un-correo-electrónico)
+- [Guardar un resultado para este flujo](#guardar-un-resultado-para-este-flujo)
+- [Entrar en otro flujo](#entrar-en-otro-flujo)
+- [Iniciar a otra persona en un flujo](#iniciar-a-otra-persona-en-un-flujo)
+- [Enviar un mensaje de WhatsApp](#enviar-un-mensaje-de-whatsapp)
+- [Abrir un ticket con un agente humano](#abrir-un-ticket-con-un-agente-humano)
+- [Llamar a un webhook](#llamar-a-un-webhook)
 
-## Envía un mensaje al contacto
+## Enviar un mensaje al contacto
 
-La carta de acción más conocida y utilizada de la plataforma. Su función es enviar un mensaje al contacto. Este mensaje será recibido independientemente del canal en el que el usuario esté conversando, escríbelo en el cuadro de texto.
+Esta carta envía un mensaje al contacto en la conversación actual. El contacto recibe el mensaje en el canal que está usando. Escribe el mensaje en el cuadro de texto.
 
-1. **Facebook**
-   El envío de mensajes masivos por un canal de Facebook requiere que se especifique un tema si el usuario no ha enviado un mensaje en las últimas 24 horas. Definir un tema para usar en Facebook es especialmente importante para el primer mensaje en su flujo.
-2. **WhatsApp**
+### Facebook
 
-El envío de mensajes por un canal de WhatsApp requiere usar una plantilla si no ha recibido un mensaje de un contacto en las últimas 24 horas. Configurar una plantilla para usar en WhatsApp es especialmente importante para el primer mensaje en su flujo. Lea el artículo sobre el [envío activo en WhatsApp](https://help.vtex.com/es/docs/tutorials/envio-activo-de-mensajes-en-whatsapp).
+Un mensaje masivo en un canal de Facebook necesita un tema cuando el contacto no ha enviado un mensaje en las últimas 24 horas. Define un tema para el primer mensaje del flujo.
 
-1. Respuestas rápidas
+### WhatsApp
 
-Puedes enviar respuestas rápidas (botones de texto) a los usuarios. Orientan la conversación. Actualmente, puedes agregar hasta 10 botones de texto por carta.
+Un mensaje en un canal de WhatsApp necesita una plantilla cuando no has recibido un mensaje del contacto en las últimas 24 horas. Define una plantilla para el primer mensaje del flujo. Para más información, consulta [Envío activo de mensajes en WhatsApp](https://help.vtex.com/es/docs/tutorials/envio-activo-de-mensajes-en-whatsapp).
 
-No todos los canales soportan botones de texto. Actualmente, los canales que tienen soporte para botones son: Telegram, Web y Facebook Messenger.
+### Respuestas rápidas
 
-1. Archivos
+Las respuestas rápidas son botones de texto que orientan el siguiente paso de la conversación. Puedes añadir hasta 10 botones de texto en esta carta.
 
-También es posible enviar archivos (adjuntos) a un usuario. Estos adjuntos pueden ser fotos, videos, audios y documentos. Para enviar estos adjuntos, coloca el enlace de los medios o elegir el archivo mediante el selector de archivos de tu computadora. Actualmente, puedes añadir hasta 3 adjuntos por carta.
+> ⚠️ Los botones de texto están disponibles en Telegram, en el canal Web, en Facebook Messenger y en WhatsApp.
 
-Siempre verifica si el canal en el que tu público está trabajando es compatible con el tipo de medios que deseas enviar.
+### Archivos adjuntos
 
-1. Avanzado
+Puedes enviar hasta 3 archivos adjuntos en esta carta: fotos, videos, audios o documentos. Ingresa el enlace del archivo o selecciona el archivo en tu computadora. Para consultar los pasos de carga y los límites de tamaño, consulta [Agregar mídias a su mensaje](https://help.vtex.com/es/docs/tutorials/agregar-midias-a-su-mensaje).
 
-La opción Avanzado (Configuración avanzada) permite activar el envío de mensajes a todos los destinos, es decir, enviar mensajes a todos los canales a los que el contacto esté vinculado, y no solo al canal preferido. Después de esto, el canal elegido por el usuario para responder se convertirá en el canal preferido para esa conversación.
+> ⚠️ Confirma que el canal del contacto admite el archivo antes de enviarlo.
 
-Es decir, si tu canal preferido es WhatsApp, al marcar la opción de todos los destinos, el contacto recibirá el mensaje en todos los canales que tenga, y si responde por SMS, el SMS se convertirá en el nuevo canal preferido del contacto y el flujo continuará allí.
+### Todos los destinos
 
-Usa esta configuración solo en casos específicos. Si tienes dudas, deja la opción desmarcada.
+En **Avanzado**, puedes enviar el mensaje a todos los canales vinculados al contacto, y no solo al canal preferido. El canal que el contacto use para responder pasa a ser el canal preferido, y el flujo continúa en ese canal.
 
-## Enviar un mensaje a alguien más
+Por ejemplo, si el canal preferido es WhatsApp y envías el mensaje a todos los destinos, el contacto lo recibe en todos los canales vinculados. Si el contacto responde por SMS, SMS pasa a ser el canal preferido.
 
-Podemos enviar un mensaje a un contacto o grupo diferente al que está ejecutando el flujo. Este mensaje se mostrará al contacto/grupo sin afectar ningún flujo o conversación que pueda estar en ejecución para él en ese momento.
+> ⚠️ Envía el mensaje a todos los destinos solo cuando el contacto deba recibirlo en todos los canales vinculados. De lo contrario, deja la opción desmarcada.
 
-Con esto, usted o un grupo de personas de su elección podrán recibir notificaciones de los usuarios que pasen por puntos específicos de sus flujos.
+## Enviar un mensaje a otra persona
+
+Esta carta envía un mensaje a un contacto o grupo distinto del que ejecuta el flujo. El destinatario ve el mensaje. La carta no cambia un flujo ni una conversación que ya esté en ejecución para ese destinatario.
+
+Úsala cuando tú o un grupo necesiten un aviso de que un contacto llegó a un punto específico del flujo.
 
 ## Etiquetar el mensaje entrante
 
-Puedes marcar el último mensaje enviado por el contacto con una etiqueta (rótulo). Todos los mensajes etiquetados se agrupan bajo el mismo nombre del rótulo. Para saber más sobre mensajes y etiquetas, consulta el artículo de [mensajes](https://help.vtex.com/es/docs/tutorials/mensajes-de-contacto).
+Esta carta aplica una etiqueta al último mensaje que envió el contacto. Los mensajes etiquetados se reúnen en un grupo de mensajes con el mismo nombre de la etiqueta.
 
-Por ejemplo, usa una etiqueta para marcar el interés del contacto en un producto.
+Por ejemplo, etiqueta un mensaje cuando el contacto muestra interés en un producto.
 
-## Añadir una URN para al contacto
+## Añadir una URN al contacto
 
-Es posible añadir nuevos URNs para tu contacto. Puedes seleccionar el tipo de URN que se añadirá (Número de teléfono, Whatsapp, SMS, Telegram, etc.) e ingresar el nuevo valor, utilizando un valor fijo o una variable de flujo.
+Esta carta añade una URN al contacto. Una URN identifica al contacto en un canal, como un número de teléfono o un número de WhatsApp. Selecciona el tipo de URN, como teléfono, WhatsApp, SMS o Telegram, e ingresa un valor fijo o una variable de flujo.
 
-¿Tu lead llegó a través de tu sitio web? ¡Pregunta su número de WhatsApp y envíale un mensaje por allí! Recuerde que es necesario agregar el código identificador del país al modificar el número de teléfono o WhatsApp.
+> ⚠️ Incluye el código de país cuando añadas o cambies un número de teléfono o de WhatsApp.
+
+Si el contacto inició la conversación en el sitio, pídele el número de WhatsApp, añádelo como URN y continúa la conversación en WhatsApp.
 
 ## Añadir el contacto a un grupo
 
-Puedes agregar el contacto a un grupo estático. Si el grupo no existe en la pestaña de contactos, puedes crear uno nuevo escribiendo el nombre deseado para el grupo en el campo de selección.
+Esta carta añade el contacto a un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos). Si el grupo todavía no existe en la página Contactos, ingresa el nombre del grupo en el campo de selección para crearlo.
 
-Para entender un poco más sobre grupos estáticos, haz [clic aquí](https://help.vtex.com/es/docs/tutorials/grupos-estaticos).
-
-¿El contacto respondió a una encuesta de satisfacción? Puedes agruparlo con todos los que respondieron a la encuesta.
+Por ejemplo, después de que un contacto complete una encuesta de satisfacción, añádelo a un grupo con los demás contactos que respondieron.
 
 ## Eliminar el contacto de un grupo
 
-Puedes eliminar el contacto de algún [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos). Además, tienes la opción de marcar para eliminar el contacto de todos los grupos a los que pertenece, sin distinción.
+Esta carta quita al contacto de un [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos). Puedes quitar al contacto de un grupo o de todos los grupos a los que pertenece.
 
-¿El contacto ya no es tu cliente? Puedes eliminarlo del grupo y así bloquear las acciones exclusivas para clientes.
+Por ejemplo, cuando un contacto deja de ser cliente, quítalo de ese grupo para que las acciones limitadas al grupo ya no lo incluyan.
 
 ## Actualizar el contacto
 
-Para completar los campos del contacto, utiliza la opción **Actualizar Contacto**. En ella, seleccionas el campo del contacto que deseas actualizar, y después puedes insertar un valor fijo o un resultado de flujo. Si el campo del contacto aún no existe, escribe el nombre que deseas para él.
+Esta carta actualiza un campo de contacto. Selecciona el campo e ingresa un valor fijo o un resultado de flujo. Si el campo todavía no existe, ingresa un nombre para crearlo. Para más información, consulta [Campo de contactos](https://help.vtex.com/es/docs/tutorials/campo-de-contactos).
 
-¿Preguntaste la edad de tu contacto? Puedes guardar el valor para consultarlo más tarde.
+Por ejemplo, cuando preguntes la edad del contacto, guarda la respuesta en un campo de contacto para que un flujo posterior pueda usarla.
 
-## Envía un correo electrónico
+## Enviar un correo electrónico
 
-Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la VTEX CX Platform, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para saber más, consulta el artículo de [configuración de la organización](/es/docs/tutorials/configuraciones-generales-de-proyecto).
+Esta carta envía un correo electrónico al contacto que ejecuta el flujo o a otro destinatario. Ingresa el destinatario, el asunto y el cuerpo del mensaje.
 
-Para enviar el correo electrónico, ingresa el destinatario, el asunto y el cuerpo del mensaje en los campos correspondientes.
+El correo electrónico no es un canal de conversación en VTEX CX Platform. Si el destinatario responde, la respuesta llega a la bandeja de entrada del correo configurado en la organización.
 
-Puedes usar esta tarjeta para enviar recordatorios a un contacto sin gastar en SMS o llamadas.
+Usa esta carta para enviar un recordatorio por correo electrónico, en lugar de SMS o llamada.
 
-## Guarda un resultado para este flujo
+## Guardar un resultado para este flujo
 
-Esta carta de acción simula un resultado de flujo. Lo crea desde cero, sin necesidad de un input ni de una carta de decisión. Así, elige el nombre del resultado del flujo, asignar su valor y, si lo deseas, una categoría. Además, podemos actualizar el valor de algunos resultados de flujo ya existentes.
+Esta carta crea un [resultado de flujo](https://help.vtex.com/es/docs/tutorials/cartas-de-decision#resultados-de-flujo) sin esperar un input ni una carta de decisión. Ingresa el nombre y el valor del resultado. También puedes ingresar una categoría o actualizar el valor de un resultado que ya existe.
 
-¿Deseas guardar la cantidad de preguntas que un contacto hizo, pero no quieres vincularlo directamente a un campo de contacto? La mejor forma es creando una variable de flujo.
+Por ejemplo, guarda cuántas preguntas hizo un contacto sin almacenar ese recuento en un campo de contacto.
 
-## Ingresar en otro flujo
+## Entrar en otro flujo
 
-Aquí podemos iniciar un nuevo flujo para el usuario. Cuando el usuario entra en un nuevo flujo, el flujo en el que estaba antes (que ahora puede llamarse flujo padre) queda en espera hasta su finalización. Mientras tanto, el usuario ejecutará el nuevo flujo (que ahora puede llamarse flujo hijo) y al finalizar, regresará al punto donde se detuvo en el flujo padre. Para que funcione, elige el nombre del flujo que deseas entre las opciones existentes.
+Esta carta inicia otro flujo para el contacto en la conversación actual. El flujo actual, el flujo padre, espera mientras el contacto ejecuta el nuevo flujo, el flujo hijo. Cuando el flujo hijo termina, el contacto vuelve al mismo punto del flujo padre. Selecciona el flujo en la lista.
 
-Cuando se termina la ejecución del flujo hijo, la carta **Ingresar en otro flujo** ofrece dos rutas, y es la única carta de acción que utiliza este concepto (para entender el concepto de ruta, consulta el artículo de cartas de decisión). Estas dos rutas se basan en cómo terminó el flujo hijo. Si se completó sin problemas, el flujo tomará la ruta de **Complete**, y si el flujo hijo expiró, el flujo padre utilizará la ruta de **Caducado**.
+Esta es la única carta de acción que crea [rutas](https://help.vtex.com/es/docs/tutorials/cartas-de-decision). La ruta depende de cómo termina el flujo hijo:
+
+- **Completado:** El flujo hijo terminó.
+- **Caducado:** El flujo hijo caducó.
 
 ## Iniciar a otra persona en un flujo
 
-De la misma manera que podemos enviar un mensaje a un contacto/grupo que no es el actual, también podemos iniciar un nuevo flujo.
-Para decidir quién será iniciado en el flujo, podemos elegir entre tres opciones:
+Esta carta inicia un flujo para un contacto o grupo que no está ejecutando el flujo actual. El flujo actual no espera a que ese flujo termine, y esta carta no crea rutas.
 
-1. Definir manualmente los contactos/grupos que serán iniciados en el nuevo flujo;
-2. Crear una regla lógica (normalmente basada en campos de contacto) para filtrar los contactos que deben entrar en el flujo;
-3. Crear un nuevo contacto e iniciarlo en el flujo.
+Elige quién entra en el flujo:
 
-Después de decidir entre estas opciones, selecciona un flujo para ser iniciado. A diferencia de **Entrar en otro flujo** , esta carta no crea opciones de ruta, ya que no espera el fin de los flujos hijos para continuar con la ejecución del flujo padre.
+- Selecciona los contactos o los grupos.
+- Crea una regla, por lo general basada en campos de contacto, que filtre qué contactos entran.
+- Crea un contacto e inicia ese contacto en el flujo.
 
-Esta carta puede utilizarse para crear campañas reactivas, como notificar a un grupo sobre la llegada de un nuevo integrante.
+Después de elegir quién entra, selecciona el flujo que se inicia.
+
+Por ejemplo, usa esta carta para avisar a un grupo cuando se incorpora un nuevo integrante.
 
 ## Enviar un mensaje de WhatsApp
 
-La tarjeta de mensaje de WhatsApp envía mensajes interactivos en el canal.
+Esta carta envía un mensaje interactivo en WhatsApp. No sustituye una plantilla aprobada por Meta cuando tu empresa inicia la conversación. Para configurar la carta, consulta [Tarjeta de mensaje de WhatsApp](https://help.vtex.com/es/docs/tutorials/tarjeta-de-mensaje-de-whatsapp).
 
-Ofrece tres tipos de mensajes interactivos:
+La carta ofrece estos mensajes interactivos:
 
-- **Respuestas r ápidas**: Permite crear hasta 3 respuestas predefinidas que los destinatarios pueden seleccionar.
-- **Lista de opciones** : Ofrece un menú interactivo con hasta 10 elementos, cada uno con título y descripción.
-- **Solicitar ubicaci ón**: Posibilita solicitar la ubicación del cliente final, facilitando la atención.
+- **Respuestas rápidas:** Hasta 3 respuestas predefinidas que el contacto puede seleccionar.
+- **Lista de opciones:** Un menú de hasta 10 elementos. Cada elemento tiene un título y una descripción.
+- **Solicitar ubicación:** Una solicitud de la ubicación del contacto.
 
-Además de estas interacciones, es posible incluir encabezados (con medios o texto) y pies de página en los mensajes. La disponibilidad de estos elementos varía según el tipo de mensaje interactivo elegido.
-El uso de esta carta no reemplaza el uso de plantillas (mensajes preaprobados por Meta) para envíos activos.
+Según el tipo de mensaje, también puedes añadir un encabezado, con un archivo o texto, y un pie de página.
 
 ## Abrir un ticket con un agente humano
 
-Esta carta se utiliza para abrir tickets de atención humana. Para que las atenciones se dirijan al módulo de Live Desk, es necesario seleccionar el sector (1) y la fila (2). Obtenga más información sobre cómo configurar la [atención humana en el módulo de Live Desk](https://help.vtex.com/es/docs/tutorials/weni-chats-configurando-el-atencion-humana).
+Esta carta abre un ticket para que un agente humano continúe la conversación en Live Desk. Selecciona el departamento y la cola que reciben el ticket. Para configurar departamentos y colas, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
-## Llamar un webhook
+## Llamar a un webhook
 
-Esta carta permite hacer solicitudes a APIs, almacenando el retorno de esas solicitudes en una variable que se puede utilizar en el flujo. Esto facilita la conexión con otros sistemas externos. Aprende cómo hacer [llamadas a sistemas externos](https://help.vtex.com/es/docs/tutorials/call-webhook-como-hacer-llamadas-a-sistemas-externos).
+Esta carta envía una solicitud de API y guarda la respuesta en una variable que puedes usar después en el flujo. Úsala para conectar el flujo con un sistema externo. Para más información, consulta [Call webhook: Cómo hacer llamadas a sistemas externos](https://help.vtex.com/es/docs/tutorials/call-webhook-como-hacer-llamadas-a-sistemas-externos).

@@ -1,7 +1,7 @@
 ---
 title: "Live Desk"
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T23:50:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -42,7 +42,7 @@ The conversation list shows who sent the last message in each room, so you can s
 - A number shows how many messages from the contact are unread.
 - A blue arrow shows that the contact's last message has been read and still needs a reply.
 - A `You:` prefix shows that you sent the last message. It applies to text and media messages.
-- A blue dot shows that the room was transferred, returned to a queue, picked up from the queue, or assigned automatically. The dot appears regardless of who sent the last message.
+- A blue dot shows that a room requires attention after it's transferred, returned to a queue, picked up from the queue, or assigned automatically. The dot appears regardless of who sent the last message.
 
 When a previous representative sent the last message in a transferred room, the preview doesn't start with `You:`. When you open a representative's conversations from the dashboard, a room waiting for a reply shows the blue arrow, and the preview doesn't include the `You:` prefix.
 
@@ -81,6 +81,27 @@ To edit a field, follow these steps:
 2. Click the field you want to change.
 3. Enter the new value.
 
+#### Sending quick messages in bulk
+
+You can also send a saved quick message to multiple conversations at once. To do this, follow these steps:
+
+1. In **Live Desk**, click `View options`.
+2. From the options, select `Quick messages`.
+3. In the options menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> of the message you want, click `Send in bulk`.
+4. Select the contacts who will receive the message.
+
+> ℹ️ By default, all contacts are selected.
+
+5. Select the **I've checked all the fields and I'm ready to send it** checkbox to confirm you've reviewed the bulk send.
+
+> ⚠️ The confirmation checklist is required and helps prevent accidental bulk sends. Review the selected contacts before confirming.
+
+6. Click `Send to all`.
+
+While the message is being sent, a progress bar shows the status in real time. When it's done, a notification confirms how many conversations received the message.
+
+You can also set up department-specific quick messages while you create the department. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
 ### Downloading audio from the contact
 
 You can play an audio message from the contact in the conversation and download the original file. Download the audio when you need to share it with another team, such as logistics or operations, while you escalate a case internally.
@@ -96,7 +117,17 @@ After you confirm, the conversation goes to the chosen recipient. To see how a t
 
 Each representative in the transfer list shows a status: **Online**, **Paused** (with the custom break name), or **Offline**. The list shows representatives in that order and sorts names alphabetically within each status. Custom breaks and the **Block chat transfers to offline representatives** option are set in [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
 
+### Alerting and automatically ending inactive chats
+
+If the contact doesn't respond to the representative's last message within the time limit configured for the department, an inactivity alert appears in the Live Desk chat list, and the contact automatically receives a notification message. If the department has the **Automatically end inactive chats** option activated and the contact still doesn't respond after the alert, the chat is automatically ended, and a closing message is sent.
+
+You can set the times and messages by department in the **Conversation inactivity** section. To configure them, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk#step-3-configure-options-and-messages).
+
+When you view a contact's history, you can see the start of the conversation, the history with the bot, the chat events, and the tags used to classify it. Chats ended automatically due to inactivity are identified as such in the history.
+
 ## Composing messages
+
+The message composer has a fixed action bar under the message field. From this bar, you can open quick messages, attach files, add an internal note, insert emojis, or record audio.
 
 ### Copying and clearing the message
 
@@ -129,6 +160,8 @@ You can insert a quick message in two ways:
 - **Using a shortcut:** Type `/` followed by the shortcut assigned to the message.
 
 In the list, you can move between messages with the arrow keys and press `Enter` to insert the selected message. You can also set up department-specific quick messages while you create the department. For more information, see [Configuring Live Desk](https://help.vtex.com/en/docs/tutorials/configure-live-desk).
+
+To send a saved quick message to multiple conversations, open the message's actions menu and click `Send in bulk`. The review checklist shows contacts currently in service and selects all of them by default. Clear the checkbox for any contact you don't want to include, then confirm the send. A progress bar shows the sending status in real time. When the process finishes, a confirmation notification shows how many messages were sent.
 
 ### Improving a response with AI
 
@@ -171,8 +204,8 @@ When **Use signature** is enabled for the department, the representative's name 
 
 Human support is tracked on the **Live Desk** dashboard in the **Analytics** module. The dashboard has two tabs:
 
-- **Monitoring:** Shows real-time data for ongoing support chats, such as status, average times, volume by queue, tag, and channel, and customer satisfaction (CSAT). Project moderators can set time goals so the dashboard highlights chats that exceed them. See [Analytics: Configuring risk alerts](https://help.vtex.com/en/docs/tutorials/configuring-risk-alerts).
-- **Analysis:** Shows historical data for support chats closed in the selected period.
+- **Live:** Shows real-time data for ongoing support chats, such as status, average times, volume by queue, tag, and channel, and customer satisfaction (CSAT). Project moderators can set time goals so the dashboard highlights chats that exceed them. See [Analytics: Configuring operational alerts](https://help.vtex.com/en/docs/tutorials/configuring-operational-alerts).
+- **Historical data:** Shows historical data for support chats closed in the selected period.
 
 You can filter the data by department, queue, representative, tag, channel, and period. To download the data displayed on the dashboard, click `Export data`.
 

@@ -21,7 +21,7 @@ With **Delivery Promise**, your store can make a delivery promise to customers f
 
 ## Available features
 
-When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#campos-de-cadastro) or [up tothe default limit of 50 km from the locale](https://help.vtex.com/en/docs/tutorials/pickup-points?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
+When customers enter their address, an initial selection is shown with only the products available for delivery to that locale or pickup at eligible points within the [Checkout pickup radius](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work). This radius is configurable by the merchant up to a maximum of 50 km (default: 50 km).
 
 In addition to viewing available products, customers can use filters on the product listing page to view only those that meet specific criteria. This allows customers to tailor their navigation experience to meet their needs:
 
@@ -38,8 +38,8 @@ Filtering by postal code, shipping method, delivery target, pickup point, and ta
 **Delivery Promise** allows your customers to filter the products displayed during navigation using the following filters:
 
 - **Ship to:** Products available for delivery at the provided address.  
-- **Pickup:** Products available at pickup points within a [configured radius](https://help.vtex.com/en/docs/tutorials/creating-pickup-points#fields) or up to the default distance of [50 km](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work) from the address.  
-- **Pickup nearby:** Products available for pickup at pickup points within up to 10 km from the provided address.  
+- **Pickup:** Products available at pickup points within the [same Checkout pickup radius](https://help.vtex.com/en/docs/tutorials/pickup-points#how-pickup-points-work), which is configurable by the merchant up to a maximum of 50 km (default: 50 km).  
+- **Pickup nearby:** Products available for pickup at pickup points within a fixed radius of up to 10 km from the provided address. This filter does not use the Checkout pickup radius.  
 - **Pickup at {{nome}}:** Products available at the selected [pickup point](https://help.vtex.com/en/docs/tutorials/creating-pickup-points).  
 - **Shipping time ([Delivery options](https://help.vtex.com/en/docs/tutorials/delivery-options))**: Products available based on the deadline, shipping method, and geographic zones configured by the merchant in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) module.  
 - **Dynamic shipping time**: Products available based on dynamic timeframes (**Same day** and **Next day**), which consider the customer browsing time and the timeframes configured in the [**Delivery options**](https://help.vtex.com/en/docs/tutorials/delivery-options) of the store's main account for delivery and pickup.

@@ -45,7 +45,7 @@ O acesso e os recursos são organizados em dois níveis:
 Depois de abrir um projeto, use o menu principal para acessar os seguintes módulos:
 
 - **Agent Builder:** Configure e teste agentes de IA, adicione fontes de conhecimento, defina instruções e crie fluxos de automação. Consulte [Agent Builder](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder).
-- **Studio:** Gerencie contatos, mensagens, campanhas e gatilhos de conversas.
+- **Contatos:** Gerencie contatos, mensagens, campanhas e gatilhos de conversas.
 - **Live Desk:** Atenda conversas que exigem suporte humano e consulte o histórico de atendimento. Consulte [Live Desk](https://help.vtex.com/pt/docs/tutorials/visao-geral-do-live-desk).
 - **Analytics:** Monitore atendimentos ativos e analise métricas de conversas, entrega de mensagens, equipe e operação. Consulte [Analytics: Métricas de atendimento](https://help.vtex.com/pt/docs/tutorials/analytics-metricas-de-atendimento).
 - **Auditoria:** Revise conversas atendidas por agentes de IA, investigue resultados e identifique oportunidades de melhoria. Consulte [Auditoria](https://help.vtex.com/pt/docs/tutorials/auditoria-overview).
@@ -59,6 +59,14 @@ Depois de abrir um projeto, use o menu principal para acessar os seguintes módu
 Acesse o [painel do VTEX CX Platform](https://dash.weni.ai/). Você pode criar uma conta com email e senha ou continuar com GitHub, Google ou Microsoft. Use o mesmo método nos próximos acessos.
 
 Se você recebeu um convite, crie ou acesse a conta associada ao email convidado. Depois de entrar, selecione a organização e o projeto incluídos no convite.
+
+### Login com Okta
+
+Clientes enterprise podem fazer login no VTEX CX Platform com o próprio tenant Okta. Nesse caso, após inserir o email, você é redirecionado automaticamente para o Okta, com a autenticação multifator configurada, e o campo de senha da plataforma não é exibido.
+
+O acesso às organizações continua sendo feito apenas por convite, e o mapeamento de domínio vale somente para a empresa que o configurou.
+
+> ⚠️ Para utilizar o login com o Okta, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support) e solicite a configuração do mapeamento do domínio de email e da política da sua organização.
 
 ### Criar uma organização e um projeto
 
@@ -78,6 +86,16 @@ Adicionar conteúdo durante a configuração é opcional. Você pode atualizar o
 > ℹ️ Defina um objetivo específico para o agente, como "Ajudar clientes a encontrar produtos adequados às suas necessidades" ou "Responder a perguntas sobre pedidos". Um objetivo claro ajuda a determinar o comportamento esperado do agente e o conteúdo necessário.
 
 Depois de criar o projeto, convide sua equipe e atribua somente as permissões necessárias. Para ver as instruções, consulte [Gerenciar membros do VTEX CX Platform](https://help.vtex.com/pt/docs/tutorials/gerenciar-membros-do-vtex-cx-platform).
+
+### Conectar um projeto existente
+
+Se você já tem projetos no VTEX CX Platform, pode conectá-los ao VTEX Admin.
+
+1. No Admin VTEX, acesse **Storefront > VTEX CX Platform > Dashboard**.
+2. Clique em `Selecionar projeto existente`, no card **Conectar projeto existente**.
+3. Escolha a organização que contém o projeto. Você será redirecionado ao Dashboard do Admin VTEX.
+
+> ℹ️ Alguns recursos avançados podem ter limitações no Dashboard do Admin VTEX. Para configurações avançadas, use o [VTEX CX Platform](https://dash.weni.ai).
 
 ## Funções e permissões
 

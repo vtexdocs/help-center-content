@@ -1,7 +1,7 @@
 ---
 title: "Analytics"
 createdAt: 2026-07-02T16:25:21.244Z
-updatedAt: 2026-11-10T19:45:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -12,7 +12,7 @@ La página **Analytics** presenta métricas sobre chats de soporte, conversacion
 
 ## Live Desk
 
-**Live Desk** es el dashboard de chats de soporte humano de Analytics. Está dividido en dos pestañas: **Monitoreo** y **Análisis**.
+**Live Desk** es el dashboard de chats de soporte humano de Analytics. Está dividido en dos pestañas: **En tiempo real** y **Datos históricos**.
 
 Se muestran los siguientes controles:
 
@@ -26,9 +26,9 @@ Los datos se actualizan automáticamente y puedes ver la hora de la última actu
 
 Para configurar las preferencias de Live Desk, accede a **Configuración > Live Desk**. Más información en el artículo [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
-### Monitoreo
+### En tiempo real
 
-La pestaña **Monitoreo** muestra información en tiempo real sobre los chats de soporte en curso en tu operación.
+La pestaña **En tiempo real** muestra información en tiempo real sobre los chats de soporte en curso en tu operación.
 
 Contiene las siguientes secciones:
 
@@ -56,8 +56,8 @@ Los moderadores del proyecto pueden definir una meta de tiempo opcional para cua
 
 Las mismas metas también pueden notificar a la operación fuera del widget:
 
-- Aparece un toast en **Analytics**, en cualquier dashboard abierto, cuando la cantidad de chats de soporte por encima del límite alcanza el número que configuraste. El valor predeterminado es 5. El toast vuelve a aparecer solo después de que esa cantidad baja del límite y lo alcanza otra vez. Mientras la cantidad se mantiene en el límite o por encima, no vuelve a aparecer.
-- Se puede enviar un correo electrónico a los moderadores y gerentes seleccionados, con un mensaje por meta (tiempo de espera, tiempo hasta la primera respuesta o duración del chat), usando la misma regla de conteo del toast.
+- Cuando el número de atenciones por encima del límite alcanza el valor configurado, aparece una notificación en la pantalla. La notificación solo reaparece después de que el recuento caiga por debajo del límite y alcance el valor configurado nuevamente.
+- Se puede enviar un correo electrónico a los moderadores y gerentes seleccionados, con un mensaje por meta (tiempo de espera, tiempo para la 1ª respuesta o duración de la conversación), siguiendo la misma regla que la notificación.
 
 Para definir las metas, la cantidad de chats de soporte que deben superarlas y los destinatarios de correo electrónico, consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
 
@@ -81,7 +81,7 @@ Para expandir y ver la lista completa de tags, haz clic en `Ver todo`.
 
 #### 6. Volumen por canal
 
-Muestra cómo se distribuyen los chats de soporte entre los canales usados en el proyecto. Selecciona **Esperando** o **En curso** para ver la cantidad de ese estado. Cada canal muestra su ícono y el número de chats de soporte. Con **En curso** seleccionado, el pie de página muestra cuántos canales tienen chats en curso.
+Muestra cómo se distribuyen los chats de soporte entre los canales usados en el proyecto, como Facebook, Instagram, WhatsApp, entre otros. Selecciona **Esperando** o **En curso** para ver la cantidad de ese estado. Cada canal muestra su ícono y el número de chats de soporte. Con **En curso** seleccionado, el pie de página muestra cuántos canales tienen chats en curso.
 
 #### 7. CSAT
 
@@ -109,13 +109,13 @@ Cuando hay una meta de tiempo configurada, la tabla destaca los chats de soporte
 - **Esperando:** destaca los chats cuyo tiempo de espera supera la meta de tiempo de espera promedio.
 - **En curso:** destaca los chats que superan la meta de tiempo hasta la primera respuesta o la meta de duración del chat. Si un chat supera ambas, la fila muestra la alerta de primera respuesta.
 
-Las columnas muestran información como contacto, tiempo de espera, tiempo hasta la primera respuesta, representante responsable, departamento y cola.
+Las columnas muestran información como contacto, tiempo de espera, tiempo hasta la primera respuesta, representante responsable, departamento, cola y canal.
 
 Al hacer clic en uno de los chats de soporte, se te redirigirá a la página de Live Desk en la sección **Operaciones**.
 
-### Analytics
+### Datos históricos
 
-La pestaña **Analytics** muestra datos históricos sobre los chats de soporte finalizados. Utiliza el selector de periodo para definir el intervalo de fechas que deseas consultar.
+La pestaña **Datos históricos** muestra datos históricos sobre los chats de soporte finalizados. Utiliza el selector de periodo para definir el intervalo de fechas que deseas consultar.
 
 Esta pestaña contiene las siguientes secciones:
 
@@ -172,8 +172,9 @@ Esta pestaña contiene información sobre los chats de soporte finalizados. Incl
 | **Tiempo hasta la primera respuesta** | Intervalo promedio entre el momento en que el contacto entra en el chat de soporte y el primer mensaje del representante. |
 | **Duración** | Tiempo que duró el chat de soporte del inicio al fin. |
 | **Contacto** | Nombre del cliente que se puso en contacto con el chat de soporte. |
+| **Canal** | Canal donde ocurrió el chat de soporte (como **WhatsApp** o **Shopping Assistant**). |
 | **Protocolo** | Número del protocolo del chat de soporte. |
-| **Puntuación CSAT** | Puntuación de satisfacción del cliente a partir de la respuesta nativa de CSAT de ese chat de soporte finalizado, cuando el contacto respondió la encuesta. |
+| **Puntuación CSAT** | Puntuación de satisfacción del cliente a partir de la respuesta nativa de CSAT de ese chat de soporte cerrado, en caso de que el contacto haya respondido la encuesta. |
 
 ##### Representante
 

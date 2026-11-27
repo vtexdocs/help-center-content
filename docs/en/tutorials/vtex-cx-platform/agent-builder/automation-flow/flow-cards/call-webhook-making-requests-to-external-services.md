@@ -1,9 +1,9 @@
 ---
-title: "Call webhook: Making requests to external services"
+title: "Call webhooks"
 id: 2KRA2c41CskapG2IrqMhnO
 status: PUBLISHED
 createdAt: 2025-09-17T14:00:42.361Z
-updatedAt: 2025-10-03T14:20:03.772Z
+updatedAt: 2026-11-13T14:20:00.000Z
 publishedAt: 2025-10-03T14:20:03.772Z
 firstPublishedAt: 2025-10-03T14:20:03.772Z
 contentType: tutorial
@@ -15,11 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-The acronym API corresponds to “Application Programming Interface“. They are a way of integrating systems, enabling benefits such as data security and ease of exchanging information
-
-Today, the ability to connect and integrate with other systems is an essential feature for most solutions today. For this reason, we have an action card to use in flows precisely for this function: Call Webhook
-
-## Call webhook
+The Call Webhook card sends an HTTP request from a flow to an external service. Use it to read or update data in a system that exposes an API.
 
 The Call Webhook card is responsible for the connection between the platform and other external systems, below, we have a little about her anatomy:
 
@@ -28,7 +24,7 @@ The Call Webhook card is responsible for the connection between the platform and
 3. Request header: Where you place the request header along with information such as authorization tokens and content types;
 4. Request body: Where you add a body for your request (used for `POST` and `PUT`);
 
-## How to format the request body correctly
+## How to format the request body
 
 Normally, for the `POST` and `PUT` requests body we use JSON notation to send the information requested by the API. Below is an example of a JSON body:
 `{"platform": "push", "author": "john"}`

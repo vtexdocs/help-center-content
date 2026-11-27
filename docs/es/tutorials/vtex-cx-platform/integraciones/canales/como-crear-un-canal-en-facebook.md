@@ -3,7 +3,7 @@ title: "Crear un canal en Facebook"
 id: 5ImudpMfcQjuyVOIgPyNxr
 status: PUBLISHED
 createdAt: 2025-09-15T14:03:58.606Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:33.830Z
 firstPublishedAt: 2025-10-03T14:20:33.830Z
 contentType: tutorial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7e9LaCixVcvflzgWkxlftd
 ---
 
-Facebook ha actualizado sus políticas de integración, por lo que ahora puedes conectar una página de Facebook para crear un canal de Messenger.
+Un canal de Messenger usa una página de Facebook.
 
 Si ya integraste un bot de acuerdo con las políticas antiguas de Facebook, no necesitas hacer nada más. Tu canal seguirá funcionando como siempre.
 

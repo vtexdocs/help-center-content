@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ La Búsqueda semántica está disponible exclusivamente como parte de Search Optimizer Agent, servicio adicional de optimización de la búsqueda.
-> 
-> Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa ponte en contacto con nuestro equipo de [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que, por el momento, solo algunos clientes seleccionados tienen acceso a ella. Si ya eres cliente VTEX y deseas adoptar la Búsqueda semántica en tu empresa, ponte en contacto con nuestro equipo de [Soporte comercial](https://help.vtex.com/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://www.vtex.com/es-mx/empezar/).
 
 Intelligent Search combina la precisión de la búsqueda léxica con la inteligencia de los modelos semánticos de búsqueda para ofrecer una experiencia relevante, fluida y adaptada a la intención del usuario.
 

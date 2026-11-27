@@ -1,7 +1,7 @@
 ---
 title: 'Live Desk'
 createdAt: 2025-09-12T16:29:16.322Z
-updatedAt: 2026-11-10T21:45:00.000Z
+updatedAt: 2026-11-12T23:30:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: live-desk-overview
@@ -41,7 +41,7 @@ La lista de conversaciones muestra quién envió el último mensaje de cada sala
 - Un número indica cuántos mensajes del contacto no has leído.
 - Una flecha azul indica que el último mensaje del contacto ya fue leído y todavía necesita respuesta.
 - El prefijo `Tú:` indica que tú enviaste el último mensaje. Se aplica a mensajes de texto y multimedia.
-- Un punto azul indica que la sala fue transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
+- Un punto azul indica que una sala requiere atención después de ser transferida, devuelta a una cola, tomada de la cola o asignada automáticamente. El punto aparece sin importar quién envió el último mensaje.
 
 Cuando un representante anterior envió el último mensaje de una sala transferida, la vista previa no comienza con `Tú:`. Cuando abres las conversaciones de un representante desde el dashboard, una sala que espera respuesta muestra la flecha azul y la vista previa no incluye el prefijo `Tú:`.
 
@@ -80,6 +80,27 @@ Para editar un campo, sigue estos pasos:
 2. Haz clic en el campo que quieres cambiar.
 3. Escribe el nuevo valor.
 
+#### Enviar mensajes rápidos en masa
+
+También puedes enviar un mensaje rápido guardado a varias conversaciones a la vez. Para hacerlo, sigue estos pasos:
+
+1. En **Live Desk**, haz clic en `Ver opciones`.
+2. Selecciona `Mensajes rápidos`.
+3. En el menú de opciones <i class="fas fa-ellipsis-v" aria-hidden="true"></i> del mensaje deseado, haz clic en `Enviar en masa`.
+4. Selecciona los contactos que recibirán el mensaje.
+
+> ℹ️ Todos los contactos están seleccionados de forma predeterminada.
+
+5. Haz clic en la casilla de selección de **He revisado todos los campos y quiero enviar el mensaje** para confirmar la revisión del envío en masa.
+
+> ⚠️ La lista de verificación de confirmación es obligatoria y ayuda a evitar envíos en masa accidentales. Revisa los contactos seleccionados antes de confirmar.
+
+6. Haz clic en `Enviar a todos`.
+
+Durante el envío, una barra de progreso muestra el avance en tiempo real. Al final, una notificación confirma cuántas conversaciones recibieron el mensaje.
+
+También puedes configurar mensajes rápidos específicos por departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
 ### Descargar audio del contacto
 
 Puedes reproducir un mensaje de audio del contacto en la conversación y descargar el archivo original. Descarga el audio cuando necesites compartirlo con otro equipo, como logística u operaciones, mientras escalas un caso internamente.
@@ -95,7 +116,17 @@ Después de confirmar, la conversación pasa al destinatario elegido. Para ver c
 
 Cada representante de la lista de transferencia muestra un estado: **En línea**, **En pausa** (con el nombre de la pausa personalizada) o **Fuera de línea**. La lista muestra primero los representantes en línea, luego los que están en pausa y después los que están fuera de línea. Dentro de cada estado, los nombres se ordenan alfabéticamente. Las pausas personalizadas y la opción **Bloquear transferencia de chats a representantes offline** se configuran en [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
 
+### Aviso y cierre automático de salas inactivas
+
+Cuando el contacto no responde al último mensaje del representante dentro del tiempo configurado para el departamento, el chat recibe un aviso de inactividad en la lista de Live Desk y el contacto recibe automáticamente una notificación. Si el departamento tiene activa la opción **Finalizar chats inactivos automáticamente** y el contacto sigue sin responder después del aviso, el chat se cierra automáticamente y se envía un mensaje de cierre.
+
+Puedes definir los tiempos y los mensajes por departamento, en la sección **Inactividad de la conversación**. Para configurarlos consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Al acceder al historial del contacto puedes consultar el inicio del soporte, el historial con el bot, los acontecimientos del chat y las tags usadas para clasificarlo. Los chats finalizados automáticamente por inactividad se identifican como tal en el historial.
+
 ## Redactar mensajes
+
+El campo de redacción de mensajes tiene una barra de acciones fija debajo del campo de mensaje. Desde esta barra, puedes abrir mensajes rápidos, adjuntar archivos, agregar una nota interna, insertar emojis o grabar audio.
 
 ### Copiar y borrar el mensaje
 
@@ -128,6 +159,8 @@ Puedes insertar un mensaje rápido de dos formas:
 - **Usando un atajo:** escribe `/` seguido del atajo asignado al mensaje.
 
 En la lista, puedes moverte entre los mensajes con las flechas del teclado y presionar `Enter` para insertar el mensaje seleccionado. También puedes configurar mensajes rápidos específicos de cada departamento al crearlo. Para más información, consulta [Configurar Live Desk](https://help.vtex.com/es/docs/tutorials/configurar-el-live-desk).
+
+Para enviar un mensaje rápido guardado a varias conversaciones, abre el menú de acciones del mensaje y haz clic en `Enviar en masa`. La lista de revisión muestra los contactos que están recibiendo soporte y los selecciona a todos de forma predeterminada. Desmarca la casilla de los contactos que no quieras incluir y confirma el envío. Una barra de progreso muestra el estado del envío en tiempo real. Cuando finaliza el proceso, una notificación de confirmación muestra cuántos mensajes se enviaron.
 
 ### Mejorar una respuesta con IA
 
@@ -170,8 +203,8 @@ Cuando **Usar firma** está activada para el departamento, el nombre del represe
 
 El soporte humano se monitorea en el dashboard de **Live Desk** dentro del módulo **Analytics**. El dashboard tiene dos pestañas:
 
-- **Monitoreo:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
-- **Análisis:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
+- **En tiempo real:** muestra datos en tiempo real de los chats de soporte en curso, como estado, tiempos promedio, volumen por cola, tag y canal, y satisfacción del cliente (CSAT). Los moderadores del proyecto pueden definir metas de tiempo para que el dashboard resalte los chats que las superan. Consulta [Analytics: Configurar alertas operativas](https://help.vtex.com/es/docs/tutorials/analytics-configurar-alertas-operativas).
+- **Datos históricos:** muestra datos históricos de los chats de soporte cerrados en el periodo seleccionado.
 
 Puedes filtrar los datos por departamento, cola, representante, tag, canal y periodo. Para descargar los datos que se muestran en el dashboard, haz clic en `Exportar datos`.
 

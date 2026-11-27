@@ -3,7 +3,7 @@ title: 'Boas práticas: Opt-Out'
 id: 1jxivj0ahiEpDwWcfYScGk
 status: PUBLISHED
 createdAt: 2025-09-15T15:37:10.459Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:30:00.000Z
 publishedAt: 2025-10-03T14:20:32.275Z
 firstPublishedAt: 2025-10-03T14:20:32.275Z
 contentType: tutorial
@@ -26,8 +26,6 @@ Essa prática envolve a disponibilização de métodos para que os usuários pos
 3. **Imediato**: As empresas devem garantir que o cancelamento seja processado sem demora.
 4. **Transparente**: Desde o início das interações, as empresas precisam informar como os clientes podem cancelar o recebimento de mensagens.
 
-A prática de opt-out é fundamental para garantir o respeito à privacidade e às preferências dos usuários, promovendo uma experiência de comunicação transparente e confiável.
-
 O motivo que faz com que o cliente peça o Opt-Out pode ser o mais variado, como:
 
 - Desinteresse pelo conteúdo divulgado;
@@ -35,11 +33,7 @@ O motivo que faz com que o cliente peça o Opt-Out pode ser o mais variado, como
 - Insatisfação com o material oferecido;
 - Cadastro feito sem o consentimento do usuário.
 
-Caso o cliente perca o interesse e a empresa não retire as mensagens da lista de envios, isso pode gerar uma frustração ainda pior.
-
-E isso se dá tendo em vista que a imagem da empresa ficará manchada para aquele cliente.
-
-Assim, caso ele precise futuramente de novas resoluções ou serviços da instituição, ele não ficará à vontade, sendo suficiente para impedir que novos negócios sejam fechados.
+Se o contato pede para parar de receber mensagens e a empresa continua enviando, o contato pode bloquear ou denunciar o número. Bloqueios e denúncias afetam a classificação de qualidade da conta.
 
 ## Melhorar a classificação por qualidade
 

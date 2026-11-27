@@ -3,7 +3,7 @@ title: "Crear un canal en Twitter"
 id: 105ZDpGE4db4bOwN4IGjEL
 status: PUBLISHED
 createdAt: 2025-09-15T14:14:31.530Z
-updatedAt: 2026-11-12T12:00:00.000Z
+updatedAt: 2026-11-13T14:40:00.000Z
 publishedAt: 2025-10-03T14:20:33.673Z
 firstPublishedAt: 2025-10-03T14:20:33.673Z
 contentType: tutorial
@@ -34,6 +34,6 @@ Asegúrate de que tu cuenta esté habilitada para recibir mensajes directos de c
 ## Conectar el canal en la plataforma
 
 5. Para crear el canal en la plataforma, dentro de tu proyecto ve a **Aplicaciones > Descubrimiento** en la sección de **Canales de Comunicación** y agrégalo haciendo clic en el `+`.
-6. Luego, haz clic en la pestaña **Mis Aplicaciones**; la aplicación estará en la sección de **Aplicaciones Instaladas**. Completa la página con los datos recopilados anteriormente, y no olvides ingresar el Environment Name tal como fue configurado en el paso 2. Al terminar, haz clic en **Enviar**, y tu canal estará conectado.
+6. Luego, haz clic en la pestaña **Mis Aplicaciones**; la aplicación estará en la sección de **Aplicaciones Instaladas**. Completa la página con los datos recopilados anteriormente e ingresa el Environment Name tal como fue configurado en el paso 2. Al terminar, haz clic en **Enviar**, y tu canal estará conectado.
 
 Tu canal ahora está conectado, y puedes probar el envío y recepción de mensajes directos.

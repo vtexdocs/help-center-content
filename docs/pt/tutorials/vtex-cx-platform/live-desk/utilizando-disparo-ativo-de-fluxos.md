@@ -56,7 +56,7 @@ Antes de configurar o fluxo, verifique se o modelo de mensagem já está cadastr
 8. Clique em `Confirmar`.
 9. Continue criando a quantidade de blocos conforme as características do fluxo que deseja disponibilizar na loja.
 
-Para o agente editar uma variável do modelo no Live Desk, preencha essa variável na aba **WhatsApp** do cartão de enviar mensagem com `@trigger.params.variable_name`. Substitua `variable_name` pelo nome que deve aparecer em **Mapeamento de variáveis**. Uma variável preenchida com outra expressão, como `@contact.name`, é aplicada automaticamente e não aparece para edição. Para saber como preencher esses campos, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
+Para o agente editar uma variável do modelo no Live Desk, preencha essa variável na aba **WhatsApp** do cartão de enviar mensagem com `@trigger.params.variable_name`. Substitua `variable_name` pelo nome que deve aparecer em **Mapeamento de variáveis**. Uma variável preenchida com outra expressão, como `@contact.name`, é aplicada automaticamente e não aparece para edição. Para saber como preencher esses campos, consulte [Disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
 
 ## Ativar o disparo de fluxos no Live Desk
 
@@ -93,7 +93,7 @@ Os contatos selecionados receberão o fluxo. Quando um contato responder, a conv
 
 ## Mapear variáveis do modelo
 
-Se os modelos de WhatsApp do fluxo incluírem variáveis definidas como `@trigger.params.variable_name`, o Live Desk abre **Mapeamento de variáveis** depois que você seleciona o fluxo. O nome depois de `params.` é o rótulo de cada campo. Para saber como configurar essas variáveis, consulte [Disparo Ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
+Se os modelos de WhatsApp do fluxo incluírem variáveis definidas como `@trigger.params.variable_name`, o Live Desk abre **Mapeamento de variáveis** depois que você seleciona o fluxo. O nome depois de `params.` é o rótulo de cada campo. Para saber como configurar essas variáveis, consulte [Disparo ativo no WhatsApp](https://help.vtex.com/pt/docs/tutorials/disparo-ativo-no-whatsapp).
 
 1. Para cada variável, selecione um campo de contato ou digite um valor de texto. O campo exibe `Selecione um campo correspondente ou digite um texto`.
 2. Revise **Pré-visualização do 1º modelo**. As variáveis que referenciam campos de contato são exibidas com valores de exemplo dos contatos selecionados.

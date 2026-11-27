@@ -1,7 +1,7 @@
 ---
 title: "Analytics"
 createdAt: 2025-09-12T16:25:21.244Z
-updatedAt: 2026-11-10T19:45:00.000Z
+updatedAt: 2026-11-12T23:50:00.000Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: analytics-support-metrics
@@ -20,7 +20,7 @@ Nessa página, você encontra os seguintes controles:
 ![Botões de atualização, filtros e exportação de dados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-cx-platform/analytics/live-desk-controle-de-dados-e-filtros.png)
 
 - `Atualizar`: Recarrega os dados do painel manualmente.
-- `Filtros`: Abre as opções de filtragem por setor, fila, agente, tags, canal e período. Em **Canal**, pesquise e selecione um ou mais canais usados no projeto, como **Instagram**, **Facebook**, **WhatsApp**, **Teams** e **Email**. A seleção se aplica às métricas do painel.
+- `Filtros`: Abre as opções de filtragem por setor, fila, agente, tags, canal e período. Em **Canal**, pesquise e selecione um ou mais canais usados no projeto, como **WhatsApp**, **Shopping Assistant**, **Email**, **Instagram**, **Facebook**, **Telegram**, **Teams** e outros canais conectados. A seleção se aplica a todas as métricas do dashboard do Live Desk. O filtro de canal fica disponível automaticamente e não requer configuração.
 - `Exportar dados`: Permite baixar os dados exibidos no painel.
 
 Esses dados são atualizados automaticamente e você consegue visualizar a hora da última atualização ao lado do botão **Atualizar**.
@@ -57,8 +57,8 @@ Moderadores do projeto podem definir uma meta de tempo opcional para qualquer um
 
 As mesmas metas também podem notificar a operação fora do widget:
 
-- Um toast aparece em **Analytics**, em qualquer dashboard aberto, quando o número de atendimentos acima do limite atinge o número configurado. O padrão é 5. O toast volta a aparecer somente depois que essa contagem fica abaixo do limite e o atinge de novo. Enquanto a contagem permanece no limite ou acima dele, o toast não aparece outra vez.
-- Um e-mail pode ser enviado aos moderadores e gerentes selecionados, com uma mensagem por meta (tempo de espera, tempo para a 1ª resposta ou duração da conversa), usando a mesma regra de contagem do toast.
+- Quando o número de atendimentos acima do limite atinge o valor configurado, um aviso aparece na tela. O aviso só reaparece depois que a contagem cair abaixo do limite e atingir o valor configurado novamente.
+- Um e-mail pode ser enviado aos moderadores e gerentes selecionados, com uma mensagem por meta (tempo de espera, tempo para a 1ª resposta ou duração da conversa), seguindo a mesma regra do aviso.
 
 Para definir as metas, o número de atendimentos que devem ultrapassá-las e os destinatários de e-mail, consulte [Analytics: Configurar alertas operacionais](https://help.vtex.com/pt/docs/tutorials/analytics-configurar-alertas-operacionais).
 
@@ -82,7 +82,7 @@ Para expandir e visualizar a lista completa de tags, clique em `Ver todos`.
 
 #### 6. Volume por canal
 
-Mostra como os atendimentos se distribuem entre os canais usados no projeto. Selecione **Em espera** ou **Em andamento** para ver a quantidade desse status. Cada canal exibe o ícone e o número de atendimentos. Com **Em andamento** selecionado, o rodapé mostra quantos canais têm atendimentos em andamento.
+Mostra como os atendimentos se distribuem entre os canais usados no projeto, como Facebook, Instagram, WhatsApp, entre outros. Selecione **Em espera** ou **Em andamento** para ver a quantidade desse status. Cada canal exibe o ícone e o número de atendimentos. Com **Em andamento** selecionado, o rodapé mostra quantos canais têm atendimentos em andamento.
 
 #### 7. CSAT
 
@@ -110,13 +110,13 @@ Quando uma meta de tempo está configurada, a tabela destaca os atendimentos que
 - **Em espera:** Destaca os atendimentos cujo tempo de espera ultrapassa a meta de tempo médio de espera.
 - **Em andamento:** Destaca os atendimentos que ultrapassam a meta de tempo para a 1ª resposta ou a meta de duração da conversa. Se um atendimento ultrapassa as duas, a linha exibe o alerta de primeira resposta.
 
-As colunas exibem informações como contato, tempo de espera, tempo para a primeira resposta, agente responsável, setor e fila.
+As colunas exibem informações como contato, tempo de espera, tempo para a primeira resposta, agente responsável, setor, fila e canal.
 
 Ao clicar em um dos atendimentos, você será redirecionado à página do Live Desk dentro de **Operações**.
 
-### Análise
+### Dados históricos
 
-A aba **Análise** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
+A aba **Dados históricos** exibe dados históricos sobre atendimentos finalizados. Use o seletor de período para definir o intervalo de datas que deseja consultar.
 
 Essa aba contém as seguintes seções:
 
@@ -173,8 +173,9 @@ Essa aba contém informações sobre os atendimentos encerrados, com dados de at
 | **Tempo para a 1ª resposta** | Intervalo médio entre o contato entrar no atendimento e receber a primeira mensagem do agente. |
 | **Duração** | Tempo que durou o atendimento do início ao fim. |
 | **Contato** | Nome do cliente que entrou em contato com o atendimento. |
+| **Canal** | Canal onde ocorreu o atendimento (como **WhatsApp** ou **Shopping Assistant**). |
 | **Protocolo** | Número do protocolo do atendimento. |
-| **Nota de CSAT** | Nota de satisfação do cliente a partir da resposta nativa de CSAT daquele atendimento encerrado, quando o contato respondeu à pesquisa. |
+| **Nota de CSAT** | Nota de satisfação do cliente a partir da resposta nativa de CSAT daquele atendimento encerrado, caso o contato tenha respondido à pesquisa. |
 
 ##### Atendente
 
@@ -203,7 +204,7 @@ O dashboard **Conversacional** oferece dados sobre as conversas gerenciadas por 
 
 O dashboard oferece os seguintes controles:
 
-- `Seletor de período:` Define o intervalo de datas para a exibição dos dados.
+- `Seletor de período`: define o intervalo de datas para a exibição dos dados.
 - `Atualizar`: recarrega os dados do painel manualmente.
 - `Exportar dados`: permite baixar os dados exibidos no painel.
 

@@ -19,6 +19,8 @@ tags:
   - Integrations
 ---
 
+> ℹ️ **Amazon Listing** has been replaced by [Amazon Product Publishing](/en/docs/tutorials/amazon-product-publishing).
+
 **Amazon Listing** is a new VTEX Admin module designed to make the process of listing products to Amazon more agile and efficient. It allows sellers to send new products efficiently and with a low error rate, guaranteeing smooth integration between VTEX and Amazon.
 
 ## What has changed?
