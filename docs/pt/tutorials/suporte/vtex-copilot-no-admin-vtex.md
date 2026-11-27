@@ -44,7 +44,7 @@ Para abrir o VTEX Copilot, siga as instruções a seguir:
 2. Escreva sua pergunta no campo **Pergunte ao VTEX Copilot...**.
 3. Clique em `Enviar`.
 
-![Tela inicial do VTEX Copilot no Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_1.png)
+![Tela inicial do VTEX Copilot no Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/copilot-admin-1-pt.png)
 
 Como você já tem a sessão iniciada no Admin VTEX, não é necessário fazer login novamente: o Copilot usa seu usuário e suas permissões. Como o painel permanece aberto enquanto você navega, é possível conferir no Admin VTEX o que o Copilot respondeu sem fechar a conversa.
 
@@ -84,7 +84,7 @@ O Copilot reúne especialistas em cada área da VTEX. Você não precisa escolhe
 | **Documentação** | Perguntas do tipo "como faço..." sobre qualquer funcionalidade da VTEX. | "Como crio uma promoção Leve 3 Pague 2?" |
 | **Tickets** | Abertura de tickets técnicos para o Suporte VTEX. | "Abra um ticket sobre este problema." |
 
-![VTEX Copilot respondendo sobre o status de um pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_2.png)
+![VTEX Copilot respondendo sobre o status de um pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/copilot-admin-2-pt.png)
 
 Enquanto trabalha, o Copilot mostra cada consulta que está fazendo na sua loja e, ao final da resposta, informa a conta em que trabalhou.
 
@@ -119,7 +119,7 @@ Para anexar arquivos, siga as instruções abaixo:
 
 O Copilot lê os arquivos durante a investigação e pode anexá-los a um ticket para o Suporte VTEX, se for necessário.
 
-![Anexando um arquivo no VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_3.png)
+![Anexando um arquivo no VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/copilot-admin-3-pt.png)
 
 ## Alterações na loja com segurança
 
@@ -130,7 +130,7 @@ O Copilot lê os arquivos durante a investigação e pode anexá-los a um ticket
 3. **Pede sua confirmação** antes de alterar qualquer valor, a menos que você já tenha autorizado a correção na sua mensagem. Por exemplo: "Corrija o estoque do SKU 4521 no armazém principal para 10 unidades".
 4. **Age com seu usuário:** a alteração fica registrada em seu nome, da mesma forma que se você a fizesse no Admin VTEX.
 
-![VTEX Copilot pedindo confirmação antes de alterar a loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_4.png)
+![VTEX Copilot pedindo confirmação antes de alterar a loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/copilot-admin-4-pt.png)
 
 Se quiser manter a etapa de confirmação, descreva o problema e pergunte o que fazer, em vez de pedir diretamente a correção.
 
@@ -143,7 +143,7 @@ O Copilot guarda suas conversas para você retomar de onde parou.
 - Para ver conversas anteriores, clique no ícone de relógio no topo do painel para abrir o **Histórico de chat**. As conversas são agrupadas por data e você pode procurar uma conversa específica em **Buscar conversas…**.
 - Para começar um novo assunto, clique no ícone `+` (`Novo chat`) no topo do painel.
 
-![Histórico de conversas do VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_5.png)
+![Histórico de conversas do VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/copilot-admin-5-pt.png)
 
 Dentro de uma conversa, o Copilot lembra o contexto recente. Perguntas como "e o segundo SKU?" funcionam logo depois de uma resposta relacionada.
 

@@ -44,7 +44,7 @@ Para abrir VTEX Copilot, sigue las instrucciones a continuación:
 2. Ingresa tu pregunta en el campo **Pregúntale a VTEX Copilot...**.
 3. Haz clic en el ícono de la flecha para `enviar`.
 
-![Pantalla inicial de VTEX Copilot en el Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_1.png)
+![Pantalla inicial de VTEX Copilot en el Admin VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apoyo/copilot-admin-1-es.png)
 
 Como ya tienes la sesión iniciada en el Admin VTEX, no es necesario iniciar sesión de nuevo: Copilot usa tu usuario y tus permisos. Como el panel permanece abierto mientras navegas, puedes ver en el Admin VTEX lo que Copilot respondió sin cerrar la conversación.
 
@@ -84,7 +84,7 @@ Copilot reúne especialistas de cada área de VTEX. No necesitas elegir al espec
 | **Documentación** | Preguntas de tipo "cómo puedo..." sobre cualquier funcionalidad de VTEX. | "¿Cómo creo una promoción Lleva 3 Paga 2?" |
 | **Tickets** | Apertura de tickets técnicos con el Soporte VTEX. | "Abre un ticket sobre este problema." |
 
-![VTEX Copilot respondiendo sobre el status de un pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_2.png)
+![VTEX Copilot respondiendo sobre el status de un pedido](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apoyo/copilot-admin-2-es.png)
 
 Mientras trabaja, Copilot muestra cada consulta que está haciendo en tu tienda y al final de la respuesta indica la cuenta en la que trabajó.
 
@@ -119,7 +119,7 @@ Para adjuntar archivos sigue las instrucciones a continuación:
 
 Copilot lee los archivos durante la investigación y puede adjuntarlos a un ticket con el Soporte VTEX, si es necesario.
 
-![Adjuntando un archivo en VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_3.png)
+![Adjuntando un archivo en VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apoyo/copilot-admin-3-es.png)
 
 ## Cambios en la tienda con seguridad
 
@@ -130,7 +130,7 @@ A veces la solución exige cambiar algo en la tienda, como actualizar un precio,
 3. **Pide tu confirmación:** antes de cambiar cualquier valor pide que confirmes, a menos que ya hayas autorizado la corrección en tu mensaje. Por ejemplo: "Corrige el stock del SKU 4521 en el almacén principal a 10 unidades".
 4. **Actúa con tu usuario:** el cambio queda registrado a tu nombre, igual que si lo hubieras realizado tú mismo en el Admin VTEX.
 
-![VTEX Copilot pidiendo confirmación antes de cambiar la tienda](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_4.png)
+![VTEX Copilot pidiendo confirmación antes de cambiar la tienda](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apoyo/copilot-admin-4-es.png)
 
 Si deseas mantener la etapa de confirmación, describe el problema y pregunta qué hacer en vez de pedir directamente la corrección.
 
@@ -143,7 +143,7 @@ Copilot guarda tus conversaciones para que las retomes donde las dejaste.
 - Para ver conversaciones anteriores, haz clic en el ícono de reloj en la parte superior del panel para abrir el **Historial de chats**. Las conversaciones se agrupan por fecha y puedes buscar una conversación específica en **Buscar conversaciones…**.
 - Para iniciar un nuevo tema, haz clic en el ícono `+` (`Nuevo chat`) en la parte superior del panel.
 
-![Historial de conversaciones de VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_5.png)
+![Historial de conversaciones de VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apoyo/copilot-admin-5-es.png)
 
 Dentro de una conversación, Copilot recuerda el contexto reciente. Preguntas como "¿y el segundo SKU?" funcionan justo después de una respuesta relacionada.
 

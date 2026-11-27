@@ -44,7 +44,7 @@ To open VTEX Copilot, follow the instructions below:
 2. Type your question in the **Ask VTEX Copilot...** field.
 3. Click `Send`.
 
-![VTEX Copilot home screen in the VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_1.png)
+![VTEX Copilot home screen in the VTEX Admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/copilot-admin-1-en.png)
 
 Since you're already logged in to the VTEX Admin, you don't need to log in again. Copilot uses your account and your permissions. The panel stays open as you navigate, so you can check VTEX Copilot's responses in the VTEX Admin without closing the conversation.
 
@@ -84,7 +84,7 @@ Copilot brings together experts in every area of VTEX. You don't need to choose 
 | **Documentation** | How-to questions about any VTEX feature. | "How do I create a Buy 3 Pay 2 promotion?" |
 | **Tickets** | Opening technical tickets with VTEX Support. | "Open a ticket about this issue." |
 
-![VTEX Copilot responding about the status of an order](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_2.png)
+![VTEX Copilot responding about the status of an order](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/copilot-admin-2-en.png)
 
 While working, Copilot shows each query it's making in your store and, at the end of the response, reports the account it worked on.
 
@@ -119,7 +119,7 @@ To attach files, follow the instructions below:
 
 Copilot reads the files during the investigation and can attach them to a VTEX Support ticket, if needed.
 
-![Attaching a file in VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_3.png)
+![Attaching a file in VTEX Copilot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/copilot-admin-3-en.png)
 
 ## How to make changes to your store safely
 
@@ -130,7 +130,7 @@ Sometimes, resolving an issue requires changes to your store, such as updating a
 3. **Asks for your confirmation:** Before changing any value, Copilot asks for your approval unless you've already authorized the change in your message. For example: "Fix the inventory of SKU 4521 in the main warehouse to 10 units".
 4. **Acts on your behalf:** The change is logged under your name, just as if you had made it in the VTEX Admin.
 
-![VTEX Copilot asking for confirmation before changing the store](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_4.png)
+![VTEX Copilot asking for confirmation before changing the store](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/copilot-admin-4-en.png)
 
 If you want to keep the confirmation step, describe the problem and ask what to do, instead of directly requesting the fix.
 
@@ -143,7 +143,7 @@ Copilot saves your conversations so you can pick up where you left off.
 - To view previous conversations, click the clock icon at the top of the panel to open **Chat history**. Conversations are grouped by date, and you can search for a specific conversation in **Search conversations…**.
 - To start a new topic, click the `+` icon (`New chat`) at the top of the panel.
 
-![VTEX Copilot conversation history](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/vtex-copilot-no-admin-vtex_5.png)
+![VTEX Copilot conversation history](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/copilot-admin-5-en.png)
 
 Copilot retains recent context within a conversation. You can ask follow-up questions, such as "What about the second SKU?" after receiving a relevant response.
 
