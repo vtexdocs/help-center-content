@@ -25,6 +25,6 @@ If your operation has specific needs that aren't covered by the official agents,
 
 To access Agent Builder, select the organization and project you want to manage on the VTEX CX Platform homepage. Agent Builder is made up of the following pages:
 
-- [My agents](https://help.vtex.com/en/docs/tutorials/agent-builder-meus-agentes): area for managing and testing collaborator agents and configuring the orchestrator agent.
-- [Knowledge base](https://help.vtex.com/en/docs/tutorials/base-de-conhecimento): set of files, websites, and texts that serve as sources of information for agents to respond to customers.
-- [Automation flow](https://help.vtex.com/en/docs/tutorials/visao-geral-fluxo-de-automacao): area for configuring automated flows that determine agents' interactions and responses based on customer messages.
+- [My agents](https://help.vtex.com/en/docs/tutorials/agent-builder-my-agents): area for managing and testing collaborator agents and configuring the orchestrator agent.
+- [Knowledge base](https://help.vtex.com/en/docs/tutorials/knowledge-base): set of files, websites, and texts that serve as sources of information for agents to respond to customers.
+- [Automation flow](https://help.vtex.com/en/docs/tutorials/automation-flow-overview): area for configuring automated flows that determine agents' interactions and responses based on customer messages.
