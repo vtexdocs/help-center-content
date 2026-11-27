@@ -34531,13 +34531,13 @@
                 },
                 {
                   "name": {
-                    "en": "Analytics: Configurar critérios de Atendido por IA",
-                    "es": "Analytics: Configurar critérios de Atendido por IA",
+                    "en": "Analytics: Configuring Handled by AI criteria",
+                    "es": "Analytics: Configurar criterios de Atendido por IA",
                     "pt": "Analytics: Configurar critérios de Atendido por IA"
                   },
                   "slug": {
-                    "en": "",
-                    "es": "",
+                    "en": "analytics-configuring-handled-by-ai-criteria",
+                    "es": "analytics-configurar-criterios-de-atendido-por-ia",
                     "pt": "analytics-configurar-criterios-de-atendido-por-ia"
                   },
                   "origin": "",
