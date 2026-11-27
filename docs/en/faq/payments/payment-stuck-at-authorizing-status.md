@@ -4,7 +4,7 @@ excerpt: "Authorizing means Payments is waiting for the acquirer or gateway. Aut
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z
-updatedAt: 2025-09-26T13:15:48.309Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-09-26T13:15:48.309Z
 firstPublishedAt: 2019-01-24T20:30:45.528Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ It may occur that some of the partners' systems are experiencing some instabilit
 This feature has been developed to address the cases where systems participating in the flow are __experiencing an outage__. This way, Payments preserves the payment information and waits to retry. This feature allows the payment __not to be lost__ in case of instability of third party systems.
 
 Once the status of the partner system has been normalized, Payments sends the payment information and the approval flow can move on normally.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate a payment stuck in `Authorizing`. Provide the order number, and VTEX Copilot will check the transaction status and whether any ongoing incidents are affecting VTEX.

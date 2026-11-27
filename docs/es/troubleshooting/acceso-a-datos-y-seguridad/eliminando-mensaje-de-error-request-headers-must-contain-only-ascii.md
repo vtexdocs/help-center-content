@@ -4,7 +4,7 @@ title: 'Cómo remover el mensaje de error "Request headers must contain only ASC
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
-updatedAt: 2025-08-14T22:48:13.680Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:48:13.680Z
 firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial
@@ -28,6 +28,8 @@ Este escenario se produce si la página o funcionalidad solicitada contiene una 
 ![ascii_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/acceso-a-datos-y-seguridad/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_1.png)
 
 Según las normas de la [IETF](https://www.ietf.org/) (Internet Engineering Task Force), institución responsable de documentar los estándares utilizados en internet, las cookies deben estar compuestas únicamente por caracteres ASCII estándar y deben evitar incluir caracteres especiales (no ASCII). Para más información sobre los caracteres aceptados en cookies y encabezados, accede a [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX te guía para identificar la cookie con caracteres especiales y, si el error continúa, abre un ticket con el Soporte VTEX que ya incluye tus capturas de pantalla adjuntas.
 
 ## Soluciones
 

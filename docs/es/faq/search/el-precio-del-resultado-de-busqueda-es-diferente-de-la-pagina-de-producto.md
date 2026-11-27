@@ -4,7 +4,7 @@ excerpt: "Intelligent Search puede mostrar precios desactualizados cuando simula
 id: 2A75LUcywLJdeq38hsBhk0
 status: PUBLISHED
 createdAt: 2023-02-28T21:09:23.876Z
-updatedAt: 2023-02-28T21:11:29.565Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-02-28T21:11:29.565Z
 firstPublishedAt: 2023-02-28T21:11:29.565Z
 contentType: frequentlyAskedQuestion
@@ -18,3 +18,5 @@ legacySlug: el-precio-del-resultado-de-busqueda-es-diferente-de-la-pagina-de-pro
 Durante la [actualización de precio de un SKU](/es/docs/tutorials/alteracion-de-precio-de-sku), puede que el precio del resultado de búsqueda diverja del precio o stock de la página de producto si la tienda utiliza [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Para utilizar Intelligent Search, se debe configurar la aplicación [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result). La propiedad `simulationBehavior`, que determina cómo se actualizan los datos de la búsqueda, se puede configurar como `skip`. Este ajuste permite que la carga de la búsqueda sea más rápida, sin embargo, puede generar la divergencia antes mencionada. La información de la página de búsqueda se actualizará automáticamente, pero la tienda puede configurar la propiedad `simulationBehavior` con el valor `default` para evitar divergencias futuras.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga esta divergencia: envíale el ID del SKU y Copilot compara el precio que se muestra en la búsqueda con el precio configurado en cada política comercial.

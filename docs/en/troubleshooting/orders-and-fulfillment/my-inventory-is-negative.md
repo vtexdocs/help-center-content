@@ -3,7 +3,7 @@ title: 'My inventory is negative'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2025-08-14T15:10:09.934Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T15:10:09.934Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
@@ -21,6 +21,8 @@ symptomFilters:
 ---
 
 When the product available quantity is displayed as negative, it may indicate that the number of items [reserved](/en/docs/tutorials/how-does-reservation-work) exceeds the total quantity in stock. This problem usually happens when an order item is deducted from the inventory while still being reserved by the system.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate negative inventory. Provide the SKU ID, and VTEX Copilot will show inventory quantities and reservations by warehouse, identify reservations that weren't released after orders were canceled or expired, and update the inventory quantity with your confirmation.
 
 ## Solution
 

@@ -3,7 +3,7 @@ title: 'My store order was canceled'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
-updatedAt: 2025-02-04T13:30:15.393Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-04T13:30:15.393Z
 firstPublishedAt: 2025-02-04T13:30:15.393Z
 contentType: tutorial
@@ -25,6 +25,8 @@ An order can be canceled at any stage before completing the expected flow. To id
 Smart Checkout supports the "Pre-Auth" feature from some acquirers. So the platform validates card data during checkout. If there's a problem, the user is notified to change their payment method, preventing the merchant to lose the sale.
 
 In this process, an order is created, but if the operator denies, this transaction is automatically canceled.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can identify why an order was canceled. Provide the order number, and VTEX Copilot will check the order's cancellation data and the acquirer's response in the transaction to determine who requested the cancellation and why.
 
 ## Solution
 

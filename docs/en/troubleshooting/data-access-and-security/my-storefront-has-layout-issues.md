@@ -1,6 +1,7 @@
 ---
 title: "My storefront has layout issues"
 createdAt: 2026-04-27T15:50:40.668Z
+updatedAt: 2026-11-27T00:00:00.000Z
 locale: en
 slugEN: my-storefront-has-layout-issues
 contentType: troubleshooting
@@ -13,6 +14,8 @@ tags:
 ---
 
 This article helps you investigate layout issues in your storefront. By following the instructions in this guide, you will be able to compare different versions of the product listing page, isolate the root causes of layout issues, and gather evidence to share with VTEX Support or your implementation partner if needed.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help identify the source of the layout issue. It identifies your store's architecture and, for Store Framework stores, sets up a test workspace with only native VTEX apps so you can compare the results.
 
 ## Solution
 

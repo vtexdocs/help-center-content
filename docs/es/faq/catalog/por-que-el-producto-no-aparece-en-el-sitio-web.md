@@ -4,7 +4,7 @@ excerpt: "El producto solo aparece si está activo, con precio, stock y logísti
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2025-09-04T18:05:50.517Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-09-04T18:05:35.252Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
@@ -38,6 +38,8 @@ Este artículo explica cómo investigar errores de indisponibilidad de productos
 > ⚠️ Después de ajustar la información de producto y SKU o editar la configuración de logística, debes esperar a que se indexe el producto. Puedes dar seguimiento al status a través de la [cola de indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del Admin VTEX, en **Catálogo > Informes > Productos indexados**. Después de la indexación, recomendamos acceder a la página del producto en el sitio web de la tienda con una pestaña anónima en el navegador para ver la versión actualizada y sin caché.
 
 Hay casos en que el producto aparece en la vitrina, pero se muestra indisponible cuando se agrega al carrito. Esto puede depender de varios ajustes de logística. Aprende más en el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/docs/tutorials/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito).
+
+> ℹ️ Antes de seguir los pasos a continuación pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que verifique: usando el ID del producto Copilot lista las configuraciones del catálogo que hacen que no se muestre en la vitrina; con el SKU y un código postal, identifica si el problema es de precio, stock o envío.
 
 ## Catálogo
 

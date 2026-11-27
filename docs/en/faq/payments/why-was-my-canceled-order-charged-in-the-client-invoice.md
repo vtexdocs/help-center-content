@@ -4,7 +4,7 @@ excerpt: "If the connector refuses automatic reversal after approval, Payments e
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z
-updatedAt: 2024-08-13T18:57:07.052Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-08-13T18:57:07.052Z
 firstPublishedAt: 2017-04-27T23:02:22.399Z
 contentType: frequentlyAskedQuestion
@@ -24,3 +24,5 @@ When Payments sends that email, the transaction interaction includes this messag
 Source Message: `The e-mail with subject gateway-manual-reversal-requested has been successfully sent to user@store.com`.
 
 If you see this message after a cancel-and-reverse attempt on a transaction that was already approved or settled, the connector did not complete an automatic reversal. You must reverse it manually.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this case. Provide the order number, and VTEX Copilot will check the transaction status and whether the cancellation or refund was completed in the gateway, indicating when a manual refund needs to be requested from the payment provider.

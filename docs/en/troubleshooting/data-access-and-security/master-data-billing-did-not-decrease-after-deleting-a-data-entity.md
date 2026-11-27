@@ -1,7 +1,7 @@
 ---
 title: 'Master Data billing hasn''t decreased after deleting a data entity'
 createdAt: '2026-08-07T00:00:00.000Z'
-updatedAt: '2026-08-07T00:00:00.000Z'
+updatedAt: 2026-11-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data-billing-did-not-decrease-after-deleting-a-data-entity
@@ -17,6 +17,8 @@ symptomFilters:
 After deleting a [data entity](/en/docs/tutorials/data-entity) via the Master Data v1 interface, you expect your monthly billed volume to decrease, but it doesn't.
 
 This issue occurs because deleting a data entity through the interface doesn't remove the documents (records) already stored in it. These documents continue to be counted toward the monthly billing until they are deleted through the API.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help with this cleanup. Provide the data entity, and VTEX Copilot will identify the documents still stored in it and delete them after asking for your confirmation.
 
 ## Solution
 

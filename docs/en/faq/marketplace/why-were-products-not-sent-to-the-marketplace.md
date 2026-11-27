@@ -4,7 +4,7 @@ excerpt: "Sending products depends on Integrations plus marketplace cataloging. 
 id: frequentlyAskedQuestions_727
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:52.318Z
-updatedAt: 2019-12-31T14:24:53.255Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:53.255Z
 firstPublishedAt: 2017-04-27T23:02:34.481Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: why-were-products-not-sent-to-the-marketplace
 ---
 
 Products reach the marketplace through two processes: the integration itself, which you can monitor in Integrations, and cataloging, which the marketplace owns.
+
+> ℹ️ To rule out the most common causes on the VTEX side, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to perform the checks. Using the SKU ID, it verifies whether the product is active, whether it's associated with the marketplace sales channel, and whether it has a price and available inventory.
 
 ## Check integrations
 

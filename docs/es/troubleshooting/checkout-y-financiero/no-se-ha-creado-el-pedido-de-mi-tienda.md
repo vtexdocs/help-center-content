@@ -3,7 +3,7 @@ title: 'No se ha creado el pedido de mi tienda'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-11-08T18:57:41.671Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
@@ -28,6 +28,8 @@ Antes de considerar razones complejas para errores en pedidos no creados, aplica
 
 * El ítem no estaba disponible en el [stock](/es/docs/tutorials/gestionar-items-en-inventario) y la tienda no estaba configurada para vender productos sin stock (agotados).
 * La integración XML no estaba configurada para enviar información sobre productos sin stock (agotados).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué no se creó el pedido: envíale el ID del SKU y el código postal del cliente y Copilot identifica si el bloqueo es por el precio, el stock o el envío.
 
 ## Soluciones
 

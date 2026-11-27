@@ -4,7 +4,7 @@ excerpt: "The SKU must be active, and the customer's Master Data record must con
 id: 2F1RtrQzy9J4fUKxu2X57e
 status: PUBLISHED
 createdAt: 2019-02-25T22:12:13.228Z
-updatedAt: 2021-04-09T18:29:32.683Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-09T18:29:32.683Z
 firstPublishedAt: 2019-02-25T22:13:55.736Z
 contentType: frequentlyAskedQuestion
@@ -38,3 +38,5 @@ Finally, return to the initial panel and follow the steps below.
 6. Confirm that the __price table__ has the price registered.
 
 To learn more, read the article [Setting up Price Tables for specific users](/en/docs/tutorials/setting-up-price-tables-for-specific-users).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can perform these checks using the SKU ID and the customer's email address. It verifies whether the product is active, whether the customer's record is associated with the price table, and whether the SKU has a price configured in that table.

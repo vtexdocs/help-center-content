@@ -4,7 +4,7 @@ excerpt: "After you create or change a subscription, reindex the related SKUs so
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
-updatedAt: 2021-04-30T14:35:48.244Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-30T14:35:48.244Z
 firstPublishedAt: 2019-01-28T19:20:54.475Z
 contentType: frequentlyAskedQuestion
@@ -33,3 +33,5 @@ For manual inclusion of specific SKUs, follow these step-by-step instructions:
 ![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/catalog/i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site_1.png)
 
 Finally, give a name to the __Group__ of your Collection and click __Save Group__.
+
+> ℹ️ If the product still isn't displayed on the site after reindexing, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate. Provide the product ID, and VTEX Copilot will list the catalog settings preventing the product from being displayed on the storefront.

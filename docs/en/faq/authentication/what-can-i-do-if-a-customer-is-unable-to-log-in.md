@@ -4,7 +4,7 @@ excerpt: "After three failed login attempts, VTEX ID blocks the email for one ho
 id: 1DISDN4tFaSSccu2WK2amG
 status: PUBLISHED
 createdAt: 2017-05-09T13:46:57.095Z
-updatedAt: 2019-12-31T14:25:13.615Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:13.615Z
 firstPublishedAt: 2017-05-09T13:48:52.807Z
 contentType: frequentlyAskedQuestion
@@ -33,3 +33,5 @@ But since VTEX uses the same platform for all its clients, the blacklist operate
 If you find that the customer has not received an email and is not in the situation described above, get in touch with VTEX support to ask for his address to be taken off the blacklist.
 
 Unfortunately Amazon has no automatic way to do this. It is still a manual process.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check whether a customer account exists in your store using the customer's email address. If you need to request removal of the email address from the suppression list, VTEX Copilot opens a ticket with VTEX Support that includes the conversation context.

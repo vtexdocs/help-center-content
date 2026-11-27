@@ -3,7 +3,7 @@ title: 'El producto no se muestra en la búsqueda del sitio web'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2025-08-14T22:44:25.091Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:44:25.091Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
@@ -36,6 +36,8 @@ Este comportamiento puede ocurrir debido a los siguientes escenarios:
 2. El término utilizado no está presente en uno de los campos buscables del producto. Más información en [Configuración del comportamiento de la búsqueda](/es/docs/tutorials/comportamiento-de-busqueda#configuracion-del-comportamiento-de-la-busqueda) y [Configuración de la búsqueda](/es/docs/tutorials/configuracion-de-la-busqueda).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué el producto no se muestra en la búsqueda: envíale el término buscado y el ID del producto y Copilot realiza la misma búsqueda que tus clientes y verifica la marca y la visibilidad del producto.
 
 ## Soluciones
 

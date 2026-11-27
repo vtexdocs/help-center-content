@@ -4,7 +4,7 @@ excerpt: "La API del marketplace puede estar rechazando la actualización de la 
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
-updatedAt: 2023-03-31T21:05:01.214Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T21:05:01.214Z
 firstPublishedAt: 2017-12-19T13:25:22.289Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ El comportamiento normal del sistema, en los casos en que el marketplace devuelv
 Pero si el mensaje indica que `la llamada al recurso del servicio devolvió el estado HTTP '404 (not found)'`, esto significa que no se encontró la ruta - o sea - el producto no se encontró en el marketplace.
 
 En este caso, es necesario ponerse en contacto con el marketplace para que verifique el servicio de integración.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica dónde se detuvo el flujo (pago, factura, preparación o ERP) y si la factura registrada cubre el valor total.

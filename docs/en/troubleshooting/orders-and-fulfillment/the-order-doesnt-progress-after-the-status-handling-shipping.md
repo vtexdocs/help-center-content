@@ -3,7 +3,7 @@ title: "The order doesn't progress after the status \"Handling shipping\""
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
-updatedAt: 2025-02-07T17:20:26.154Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-07T17:20:26.154Z
 firstPublishedAt: 2025-02-07T17:20:26.154Z
 contentType: tutorial
@@ -25,6 +25,8 @@ The status `Handling shipping` occurs in the [order flow](/en/docs/tutorials/ord
 > ℹ️ You can't [cancel orders](/en/docs/tutorials/canceling-orders) that have already been [partially invoiced](/en/docs/tracks/partial-invoices). If the customer wants to replace or remove items, they can [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 An order remaining in the status `Handling shipping` longer than expected may be due to the invoices not being registered on VTEX.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will check whether the registered invoices cover the total order amount and recommend the next step. VTEX Copilot sees the order in VTEX, not in your ERP.
 
 ## Solution
 

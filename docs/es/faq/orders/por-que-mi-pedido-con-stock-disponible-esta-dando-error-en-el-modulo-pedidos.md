@@ -4,7 +4,7 @@ excerpt: "La aprobación tardía del pago puede expirar la reserva. Otra venta p
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z
-updatedAt: 2023-03-31T23:05:09.937Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T23:05:09.937Z
 firstPublishedAt: 2018-03-07T15:14:02.766Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ El status reservado tiene un plazo de validez y, si el pago no se confirma hasta
 En ese caso específico, como su stock estaba reducido y usted no tenía SKUs para los dos pedidos, uno de ellos quedó descubierto, ocasionando el error en el flujo del pedido. Es como si la venta que ocurrió en medio del proceso de reserva cogiera su stock de sorpresa.
 
 La solución aquí es agregar stock a ese SKU, o cancelar el pedido, ya que su reserva cayó, su SKU fue dirigido a otro pedido y el stock estaba sin cobertura.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica en qué etapa el flujo se detuvo. Usando el ID del SKU, también muestra la cantidad de stock que está reservada y la que está disponible.

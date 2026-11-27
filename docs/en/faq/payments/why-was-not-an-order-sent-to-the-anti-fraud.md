@@ -4,7 +4,7 @@ excerpt: "If the payment connector fails its initial validations, the order is c
 id: 5zznO7GMtUYKCkIKyc84II
 status: PUBLISHED
 createdAt: 2018-02-16T15:50:02.020Z
-updatedAt: 2019-12-31T14:25:21.793Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:21.793Z
 firstPublishedAt: 2018-02-16T16:16:00.358Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ Whenever a payment is made, the payment gateway connector performs some initial 
 After several attempts, if the connector doesn't get the expected responses, the payment and the order are both canceled. Orders in this situation are not sent to the anti-fraud.
 
 > ⚠️ You can not resubmit a canceled order to the anti-fraud.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you understand this case. Provide the order number, and VTEX Copilot will retrieve the transaction details and the acquirer's response, and check which anti-fraud solutions are configured in your store.

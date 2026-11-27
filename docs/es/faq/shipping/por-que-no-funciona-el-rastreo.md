@@ -4,7 +4,7 @@ excerpt: "El rastreo necesita número, URL y transportista en la factura. Valore
 id: frequentlyAskedQuestions_302
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:18.540Z
-updatedAt: 2020-03-16T14:12:57.490Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-03-16T14:12:57.490Z
 firstPublishedAt: 2017-04-27T23:01:44.487Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ Después de su registro, analice los siguientes elementos, que son los principal
 - Verifique si la transportadora está en el [lista de transportadoras registradas para rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete).
 
 _Ajuste esos ítems y acompañe el disparo de los correos electrónicos por la Línea de Tiempo en el pedido._
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el seguimiento: envíale el número del pedido y Copilot comprueba el número, la URL y la transportadora indicados en la factura, y puede ayudar a corregir estos datos después de tu confirmación.

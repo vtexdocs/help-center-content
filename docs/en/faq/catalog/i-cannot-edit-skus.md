@@ -4,7 +4,7 @@ excerpt: "SKU edits fail when fields are invalid, required data is missing, or t
 id: kcHp9ealgWmmyuMCso2uc
 status: PUBLISHED
 createdAt: 2018-01-22T16:31:52.753Z
-updatedAt: 2019-12-31T14:24:09.716Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:09.716Z
 firstPublishedAt: 2018-01-22T16:45:47.269Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ In these scenarios, it is common to see the following error message: `Error conn
 If your SKUs have been uploaded to VTEX via integration, check with your integrator if the fields are filled with the correct values. To know the values expected by VTEX, [access our article](/en/tutorial/integration-guide-for-erps-full-catalog) about integrations with the Catalog.
 
 If your product has reached the limit of registered SKUs, we suggest reviewing your product categorization. We allow a maximum of 50 SKUs per product.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the issue. Provide the product ID, and VTEX Copilot will list the added SKUs and their configurations, helping you determine whether the product has reached the 50-SKU limit.

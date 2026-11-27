@@ -4,7 +4,7 @@ excerpt: "Start from the transaction log in Admin. It shows every request and re
 id: 3d183R70xqAYoyyqwaAmGa
 status: PUBLISHED
 createdAt: 2017-05-09T13:38:39.142Z
-updatedAt: 2019-12-31T14:25:26.812Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:26.812Z
 firstPublishedAt: 2017-05-09T13:44:57.343Z
 contentType: frequentlyAskedQuestion
@@ -36,3 +36,5 @@ Another example would be if the Gateway (partner) reports that it does not have 
 The __TID__ is the number that should be used to identify a transaction in the Gateway.
 
 The fact that there is a TID also means that the transaction has been initiated, because this information is generated when a connection is established with the Gateway.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the transaction details. Provide the order number or transaction ID, and VTEX Copilot will show the transaction status, the acquirer's response, and the settlement history to help you identify the issue.

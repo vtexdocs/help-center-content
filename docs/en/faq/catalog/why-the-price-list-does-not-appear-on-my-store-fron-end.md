@@ -4,7 +4,7 @@ excerpt: "A fixed price on the SKU overrides list price. Remove or adjust that f
 id: 7zB1S10crK6QXiWcDTUFtE
 status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
-updatedAt: 2020-11-27T19:40:10.985Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:12.007Z
 firstPublishedAt: 2019-03-25T20:46:55.655Z
 contentType: frequentlyAskedQuestion
@@ -41,4 +41,6 @@ Continue with the process:
 7. Save the settings by clicking on __Enter__
 
 Done! Your SKU will be once again displayed on your store page.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU's price configuration. Provide the SKU ID, and VTEX Copilot will display the base price, list price, markup, and fixed prices, indicating whether a fixed price is overriding the list price.
 

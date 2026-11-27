@@ -3,7 +3,7 @@ title: 'Customer and Address forms do not exist in multistores'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
-updatedAt: 2024-11-21T14:53:44.434Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-21T14:53:44.434Z
 firstPublishedAt: 2017-08-16T17:21:19.815Z
 contentType: tutorial
@@ -23,6 +23,8 @@ symptomFilters:
 In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](/en/docs/tutorials/managing-a-multistore), the forms are not created automatically.
 
 > ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check whether the Customer (CL) and Address (AD) entities already exist in your multistore's Master Data and guide you through the steps below if they're missing.
 
 ## Solution
 

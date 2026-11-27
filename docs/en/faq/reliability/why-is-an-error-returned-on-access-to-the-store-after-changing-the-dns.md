@@ -4,7 +4,7 @@ excerpt: "DNS pointing is not enough. Set the account status to production in Ac
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z
-updatedAt: 2019-12-31T14:24:02.113Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:02.113Z
 firstPublishedAt: 2017-04-27T23:02:37.167Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ For the store to go live, the account status must be set to production in [Accou
 If you open the store and see an error instead of the storefront, confirm that the account status is **in production**. See the [Go-live](/en/tracks/go-live--4Ns5FxIiksmjsdX2yOTduM) track for the full process.
 
 After you set the status to production, you can access the store.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this error. Provide the store URL, and VTEX Copilot will run the go-live checklist (DNS, CDN, and SSL certificate) to identify what's preventing access to the store.

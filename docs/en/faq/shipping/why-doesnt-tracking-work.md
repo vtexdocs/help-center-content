@@ -4,7 +4,7 @@ excerpt: "Tracking needs a number, URL, and carrier on the invoice. Wrong values
 id: frequentlyAskedQuestions_302
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:18.540Z
-updatedAt: 2020-03-16T14:12:57.490Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-03-16T14:12:57.490Z
 firstPublishedAt: 2017-04-27T23:01:44.487Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ After you add them, check the following:
 - The carrier is on the [list of carriers that support tracking](/en/docs/tutorials/which-carriers-allow-delivery-tracking).
 
 Fix any issue and follow the transactional emails in the order Timeline.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can verify the tracking information. Provide the order number, and VTEX Copilot will check the tracking number, URL, and carrier listed on the invoice and can help correct this information after you confirm the changes.

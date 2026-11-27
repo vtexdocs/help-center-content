@@ -3,7 +3,7 @@ title: 'Mi stock está negativo'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2025-08-14T15:10:09.934Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T15:10:09.934Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
@@ -21,6 +21,8 @@ symptomFilters:
 ---
 
 Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el stock negativo: envíale el ID del SKU y Copilot muestra el stock y las reservas por almacén, identifica reservas bloqueadas por pedidos cancelados o vencidos y actualiza el recuento tras tu confirmación.
 
 ## Solución
 

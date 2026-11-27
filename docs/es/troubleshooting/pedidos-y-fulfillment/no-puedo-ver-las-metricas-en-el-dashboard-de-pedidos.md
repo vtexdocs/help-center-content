@@ -3,7 +3,7 @@ title: 'No puedo ver las métricas en el dashboard de pedidos'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z
-updatedAt: 2024-11-08T18:41:59.361Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:41:59.361Z
 firstPublishedAt: 2024-06-10T17:15:44.616Z
 contentType: tutorial
@@ -27,6 +27,8 @@ Al acceder al Admin, es posible que tu tienda no cargue las métricas presentes 
 - **Permisos de acceso limitados:** es posible que no dispongas del rol necesario para ver determinada información en el dashboard.
 
 ![Visão geral - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/pedidos-y-fulfillment/no-puedo-ver-las-metricas-en-el-dashboard-de-pedidos_1.png)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica si tu usuario tiene el recurso Insights Metrics en los roles y explica cómo usar la comparación de períodos del dashboard. Ingresa tu email para la verificación.
 
 ## Solución
 Para resolver inconsistencias en el dashboard inicial del panel administrativo, prueba a realizar las acciones que se describen a continuación:

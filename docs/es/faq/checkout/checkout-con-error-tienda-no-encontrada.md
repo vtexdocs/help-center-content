@@ -4,7 +4,7 @@ excerpt: "Store not found significa que el Store Name no está en Hosts en Gesti
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z
-updatedAt: 2019-12-31T14:24:32.241Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:32.241Z
 firstPublishedAt: 2017-11-29T14:05:04.071Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ Para ajustar estas configuraciones, realice el paso a paso siguiente:
 3. Haga clic en su cuenta.
 4. Compruebe que el valor contenido en el campo `Nombre de la tienda` también está en el campo `Hosts`. Si no está, incluya en el campo `Hosts` el valor encontrado en el campo `Nombre de la tienda`.
 5. Haga clic en __Guardar__.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) consulta los datos de tu cuenta en el Admin VTEX, incluyendo las tiendas y los dominios registrados, y verifica si el nombre de la tienda también se encuentra entre los hosts.

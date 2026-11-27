@@ -3,7 +3,7 @@ title: 'Integration errors in Amazon orders'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z
-updatedAt: 2024-11-08T18:29:42.178Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:29:42.178Z
 firstPublishedAt: 2024-09-12T16:24:22.283Z
 contentType: tutorial
@@ -32,6 +32,8 @@ The most common errors in Amazon orders are:
 - **SKU with no sales channel**
 - **Unknown SKU**
 - **Communication error with the catalog**
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the errors listed in the table below for your store. Provide the SKU ID, and VTEX Copilot will check whether the SKU is active, which sales channels it's associated with, and how much inventory is available.
 
 ## Solution
 

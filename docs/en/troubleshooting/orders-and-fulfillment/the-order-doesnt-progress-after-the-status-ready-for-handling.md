@@ -3,7 +3,7 @@ title: "The order doesn't progress after the status \"Ready for handling\""
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
-updatedAt: 2025-02-03T18:59:58.956Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-03T18:59:58.956Z
 firstPublishedAt: 2025-02-03T18:59:58.956Z
 contentType: tutorial
@@ -25,6 +25,8 @@ symptomFilters:
 The `Ready for handling` status occurs in the [order flow](/en/docs/tutorials/order-flow-and-status#seller-flow) right after the cancellation window is closed. At this point, VTEX should receive information from the [ERP system](https://developers.vtex.com/docs/guides/erp-integration-guide) indicating that the order has been integrated and the item stock has been updated, allowing the flow to proceed to the `Handling shipment` status.
 
 Until VTEX receives this confirmation, the order remains in the `Ready for handling` status.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will check whether the order flow stopped while waiting for the ERP to release the order for handling and recommend the next steps. VTEX Copilot sees the order in VTEX, not in your ERP.
 
 ## Solution
 

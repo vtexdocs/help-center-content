@@ -4,7 +4,7 @@ excerpt: "Specification filters in VTEX Search (Legacy) work only if the Filter 
 id: 5qG7kkEeOsG6OQgu8YAKko
 status: PUBLISHED
 createdAt: 2018-01-31T15:46:42.842Z
-updatedAt: 2020-11-27T19:39:57.229Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-04-20T15:15:13.316Z
 firstPublishedAt: 2018-01-31T16:25:57.832Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ To resolve the issue, follow the steps below:
 6. In the specification you want, click __Change__.
 7. Check the __Filter__ flag.
 8. Click __Save__.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the specification field. Provide the category and field name, and VTEX Copilot will verify how the field is configured in the catalog and explain how to activate the `Filter` option.

@@ -4,7 +4,7 @@ excerpt: "Payments lista solo las transacciones procesadas por su tienda. Los pa
 id: 3hREvO5dhS28coEOuW8SuQ
 status: PUBLISHED
 createdAt: 2017-05-09T14:06:28.458Z
-updatedAt: 2019-12-31T14:23:52.221Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:23:52.221Z
 firstPublishedAt: 2017-05-09T14:08:06.540Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Ejemplos de casos en que esto ocurre:
 1. Su tienda es un marketplace, y el pedido se refiere a los productos vendidos por un seller que utiliza sus propios medios de pago. Esto significa que el pedido se cerrará en su tienda y constarán todos los productos. En ese seller aparecerá un pedido en que constan sólo los productos referentes a su tienda y aparecerá en el módulo de Pagos de este seller la transacción correspondiente.
 
 2. Su tienda es un seller cuyos productos se están vendiendo en un marketplace, pero se ha definido que usted no utilizaría los medios de pago del marketplace. Es decir, la transacción del pedido será hecha por el propio marketplace. Esta transacción sólo aparecerá en el ambiente del marketplace, no en su tienda.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX ubica el pago: envíale el número del pedido y Copilot verifica si existe una transacción en el módulo Pago de tu tienda o si el pago fue procesado por el marketplace o por el seller.

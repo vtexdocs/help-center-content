@@ -3,7 +3,7 @@ title: "My carrier isn't showing at checkout"
 id:
 status: PUBLISHED
 createdAt: 2026-02-20T00:00:00.199Z
-updatedAt: 2026-02-20T00:00:00.199Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2026-02-20T00:00:00.199Z
 firstPublishedAt: 2026-02-20T00:00:00.199Z
 contentType: tutorial
@@ -23,6 +23,8 @@ symptomFilters:
 In some situations, the carrier may not be displayed as a shipping option at checkout when finalizing an order on VTEX. This article covers the main scenarios that cause this behavior and the recommended solutions for each.
 
 > ℹ️ Before proceeding, make sure that all [carriers are properly configured](https://help.vtex.com/en/docs/tutorials/carriers-on-vtex) on the platform.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why a carrier isn't being displayed as an option. Provide the SKU ID and postal code, and VTEX Copilot will run a shipping simulation and review shipping policies, postal code ranges, docks, and warehouses to identify the cause.
 
 ## Solutions
 

@@ -4,7 +4,7 @@ excerpt: "El checkout oculta el transportista cuando muelles, políticas comerci
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-08-25T15:13:42.026Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
@@ -20,6 +20,8 @@ Para finalizar un pedido en la plataforma VTEX, es necesario seleccionar una for
 Eventualmente, puede ser que no se muestre una transportadora en el checkout. Separamos seis escenarios en los que se puede dar esta situación y sus respectivas soluciones.
 
 Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/docs/tutorials/transportadoras-en-vtex) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/es/tutorial/--tutorials_143).
+
+> ℹ️ Antes de seguir los pasos a continuación pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que investigue: usando el ID del SKU y el código postal, Copilot simula el envío, verifica si cada política de envío cubre ese código postal y revisa muelles y almacenes para encontrar la falla.
 
 ## Competencia entre transportadoras del mismo tipo
 

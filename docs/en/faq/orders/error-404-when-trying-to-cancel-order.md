@@ -4,7 +4,7 @@ excerpt: "A 404 on cancel usually means a partner API call failed. Open View Int
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
-updatedAt: 2023-03-22T20:05:41.355Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-22T20:05:41.355Z
 firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion
@@ -19,6 +19,8 @@ When attempting to cancel an order in the **Orders** module, sometimes the syste
 
 - How to identify the error
 - What to do when this error happens
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order. Provide the order number, and VTEX Copilot will determine whether there's an error in the flow or a cancellation in progress, confirming the situation before you contact the external service.
 
 ### How to identify the error
 

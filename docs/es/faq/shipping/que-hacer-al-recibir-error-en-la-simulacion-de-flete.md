@@ -4,7 +4,7 @@ excerpt: "La simulación de envío devuelve el resultado de la API de cálculo l
 id: 3bkJwe0Yj6qEkuYKUWwKwK
 status: PUBLISHED
 createdAt: 2017-05-09T14:03:03.097Z
-updatedAt: 2023-10-10T16:20:54.988Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-10-10T16:20:54.988Z
 firstPublishedAt: 2017-05-09T14:06:10.341Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ Pero, ¿qué hacer para corregirlo?
 Esto depende de cada comerciante, pero después de reconfigurar la Logística Stock-Muelle-Transportadora es posible que también sea necesario modificar la [planilla de la transportadora](/es/tutorial/como-montar-la-plantilla-de-flete).
 
 Una forma rápida de verificar el range de Códigos Postales de una transportadora es usando la pestaña [Valores de Flete](/es/docs/tutorials/gestionar-las-tarifas-de-envio).
+
+> ℹ️ Antes de seguir los pasos a continuación pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que simule el envío: usando el ID del SKU y el código postal, Copilot verifica si el problema está en el precio, el stock o el envío y revisa muelles, almacenes y políticas de envío.

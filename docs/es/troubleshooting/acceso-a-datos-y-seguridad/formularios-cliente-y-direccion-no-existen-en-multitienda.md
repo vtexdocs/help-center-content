@@ -3,7 +3,7 @@ title: 'Formularios Cliente y Dirección no existen en multitienda'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
-updatedAt: 2024-11-21T14:53:44.434Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-21T14:53:44.434Z
 firstPublishedAt: 2017-08-16T17:21:19.815Z
 contentType: tutorial
@@ -23,6 +23,8 @@ symptomFilters:
 En Master Data v1, los formularios Cliente y Dirección solo se crean en la tienda principal de la cuenta de forma predeterminada. Es por este motivo que los formularios no se crean automáticamente al crear una [multitienda](/es/docs/tutorials/gestionar-multitienda).
 
 > ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data-es#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica si las entidades de cliente (CL) y dirección (AD) ya existen en Master Data de tu multitienda y te orienta a seguir los pasos a continuación en caso de que no estén presentes.
 
 ## Solución
 

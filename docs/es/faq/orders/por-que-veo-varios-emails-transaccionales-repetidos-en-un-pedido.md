@@ -4,7 +4,7 @@ excerpt: "Los correos repetidos suelen significar que el ERP reenvía una factur
 id: frequentlyAskedQuestions_5310
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:48.654Z
-updatedAt: 2023-03-20T18:16:45.773Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-20T18:16:45.773Z
 firstPublishedAt: 2017-04-27T23:02:45.541Z
 contentType: frequentlyAskedQuestion
@@ -28,3 +28,5 @@ En el Admin VTEX, en **Pedidos > Todos los pedidos**, ao hacer click en un pedid
 2. El servidor de emails del cliente final puede estar con problemas que lo impiden de responder con un "acepte" de recibo de su email.
 
    El servidor de envío de los emails transaccionales (SMTP), no logrando el OK del servidor de destino, seguirá intentando repetidamente entregar el email enviado por el módulo **Pedidos**.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga el pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si la factura registrada cubre el valor total, que es el motivo común para que el ERP reenvíe la factura y repita los emails.

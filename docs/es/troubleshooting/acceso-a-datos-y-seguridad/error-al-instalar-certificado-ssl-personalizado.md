@@ -3,7 +3,7 @@ title: 'Error al instalar certificado SSL personalizado'
 id: 6hgFzbcc96mcrqXZMmHCTr
 status: PUBLISHED
 createdAt: 2025-02-28T14:55:08.515Z
-updatedAt: 2025-03-07T19:46:32.629Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-03-07T19:46:32.629Z
 firstPublishedAt: 2025-02-28T15:00:43.416Z
 contentType: tutorial
@@ -21,6 +21,8 @@ symptomFilters:
 ---
 
 Al instalar [certificados SSL personalizados](/es/docs/tutorials/certificados-ssl-personalizados) en [VTEX Shield](/es/docs/tutorials/vtex-shield) pueden producirse algunos errores. Consulta a continuación los posibles errores y sus soluciones.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga estos errores: envía tu email y Copilot verifica los dominios registrados en tu cuenta, comprueba si tu usuario tiene el rol necesario y, si es necesario, abre un ticket con el Soporte VTEX con todos los detalles ya incluidos.
 
 ## Solución
 

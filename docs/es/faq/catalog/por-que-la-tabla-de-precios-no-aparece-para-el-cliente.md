@@ -4,7 +4,7 @@ excerpt: "El SKU debe estar activo y el registro del cliente en Master Data debe
 id: 2F1RtrQzy9J4fUKxu2X57e
 status: PUBLISHED
 createdAt: 2019-02-25T22:12:13.228Z
-updatedAt: 2021-04-09T18:29:32.683Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-09T18:29:32.683Z
 firstPublishedAt: 2019-02-25T22:13:55.736Z
 contentType: frequentlyAskedQuestion
@@ -37,3 +37,5 @@ Finalmente, regrese al panel inicial.
 6. Confirme que la __Price Table__ tiene el precio registrado.
 
 Para saber más sobre este tema, leia o artigo [Configuración de Tablas de Precios para usuarios específicos](/es/docs/tutorials/configuracion-de-tablas-de-precios-para-usuarios-especificos).
+
+> ℹ️ [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex) realiza estas verificaciones en el Admin VTEX: usando el ID del SKU y el email del cliente Copilot valida si el producto está activo, si el registro del cliente está asociado a la tabla de precios y si el SKU tiene un precio en la tabla.

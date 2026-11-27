@@ -4,7 +4,7 @@ excerpt: "Un feriado registrado con un intervalo demasiado largo hace que VTEX a
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z
-updatedAt: 2023-03-22T20:52:10.588Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-22T20:52:10.588Z
 firstPublishedAt: 2018-03-05T16:16:16.312Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ Por lo tanto, si tiene problemas relacionados con plazos incoherentes o divergen
 5. Haz clic en `Guardar`.
 
 Para saper más, consulte el artículo [Registrar Feriados](/es/docs/tutorials/registrar-feriados).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga la divergencia de plazo: envíale el número del pedido y Copilot verifica la fecha de envío estimada y revisa los feriados registrados en tu configuración de envío.

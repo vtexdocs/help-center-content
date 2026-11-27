@@ -4,7 +4,7 @@ excerpt: "Reservation does not clear automatically after invoicing. Stock is rel
 id: frequentlyAskedQuestions_160
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:43.965Z
-updatedAt: 2019-12-31T14:25:30.934Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:30.934Z
 firstPublishedAt: 2017-04-27T23:01:43.472Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ Before that, the reservation is still active and another item will be removed, [
 So, when an order moves to the `Preparing Delivery` status, a notification to the stock becomes necessary, so that this item leaves the reserved status and is removed from the stock. 
 
 To do that, update the __Quantity__ field with the number of items available in your stock, ignoring the item related to the purchase.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU's inventory in each warehouse. Provide the SKU ID, and VTEX Copilot will show the reserved and available quantities and update the inventory quantity after you confirm the numbers. Enter the SKU ID.

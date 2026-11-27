@@ -4,7 +4,7 @@ excerpt: "Call center roles send users to the storefront and block Catalog. Use 
 id: 3JOlJmgmacAqCQEe0kwGwg
 status: PUBLISHED
 createdAt: 2017-10-01T03:35:33.165Z
-updatedAt: 2021-04-06T20:20:56.407Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-06T20:20:56.407Z
 firstPublishedAt: 2017-10-01T03:43:27.490Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ This scenario happens when the email used to log in to the Admin has access to s
 Callcenter profiles block access to the __Catalog__, that is, the user can not add a new product, for example. If he or she must access this module, the user must work with two different logins.
 
 If the role has permission for callcenter and also other modules, the user must access it directly through the module's URL. For the Orders management, for example, it would be: `https://{accountName}.myvtex.com/admin/checkout`
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check a user's roles. Provide the email address used to log in, and VTEX Copilot will identify whether any roles include telesales features that redirect the user to the store.

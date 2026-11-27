@@ -4,7 +4,7 @@ excerpt: "Outfit images need a Label value with no spaces or special characters.
 id: 5BoJ5sHNE43tYckp1Z8Fec
 status: PUBLISHED
 createdAt: 2019-02-20T17:47:19.370Z
-updatedAt: 2020-09-17T19:52:52.492Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-09-17T19:52:52.492Z
 firstPublishedAt: 2019-02-20T17:50:10.749Z
 contentType: frequentlyAskedQuestion
@@ -35,3 +35,5 @@ To fill in the Label field, follow the steps below.
 5. Click **Save**.
 
 After you save, the Outfit images should display correctly in the shop window.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the product images. Provide the SKU ID, and VTEX Copilot will review the added images, including their `Label` fields, and make adjustments after you confirm the changes.

@@ -4,7 +4,7 @@ excerpt: "En VTEX Search (Legacy), los filtros de campo de producto o SKU exigen
 id: 7e9P6HiXTiKsgYCKiEoauy
 status: PUBLISHED
 createdAt: 2017-11-06T20:18:06.419Z
-updatedAt: 2020-11-27T19:40:33.151Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-04-20T15:26:32.997Z
 firstPublishedAt: 2017-11-06T20:54:28.487Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ Para acceder a esta pantalla, siga los pasos abajo:
 La flag Filtro aparece en la pantalla de configuración del campo de producto.
 
 ![Filtro Campo de produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/search/por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en_1.png)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica este filtro: ingresa la categoría y el campo de producto o SKU y Copilot verifica la configuración del campo en el catálogo y explica cómo activar la opción `Filtro`.

@@ -4,7 +4,7 @@ excerpt: "Shipping simulation returns the Logistics calculation API result. Walk
 id: 3bkJwe0Yj6qEkuYKUWwKwK
 status: PUBLISHED
 createdAt: 2017-05-09T14:03:03.097Z
-updatedAt: 2023-10-10T16:20:54.988Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-10-10T16:20:54.988Z
 firstPublishedAt: 2017-05-09T14:06:10.341Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ But how can you correct that?
 This depends on each retailer; however, after resetting the Inventory-Dock-Carrier Logistics, you may also need to change the [carrier spreadsheet](/en/tutorial/building-a-freight-spreadsheet).
 
 A fast way to check a carrier’s range of Postal Codes is using the [Shipping Amounts](/en/docs/tutorials/managing-shipping-rates) tab.
+
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to run a shipping simulation. Using the SKU ID and postal code, it checks whether the issue is related to pricing, inventory, or shipping, and reviews docks, warehouses, and shipping policies.

@@ -4,7 +4,7 @@ excerpt: "With two payment methods, each one is settled according to its own aff
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z
-updatedAt: 2022-07-19T12:56:42.732Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-07-19T12:56:42.732Z
 firstPublishedAt: 2021-06-15T15:20:41.908Z
 contentType: frequentlyAskedQuestion
@@ -27,4 +27,6 @@ If a purchase is completed with these two payment methods, the settlement will f
 This means that if a purchase was made on __4/15__, the credit card settlement will happen on __4/19__ (4 days after payment approval).
 
 On the other hand, the voucher settlement will be done automatically as soon as the payment is approved.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the settlement status of each payment. Provide the transaction ID, and VTEX Copilot will display the settlement history and the payment conditions configured in your store.
 

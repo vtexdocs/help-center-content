@@ -3,7 +3,7 @@ title: 'No puedo acceder a una página del Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2025-08-14T15:09:37.454Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Error 403 \- Lo sentimos, no tienes acceso a esta página, o que una página no termine de cargar.
 
 Estos problemas suelen producirse por conflictos entre [roles](/es/docs/tutorials/roles) de usuarios administrativos o configuraciones específicas del navegador.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el error 403: envíale el email del usuario y Copilot compara los roles de esa persona con lo que cada rol permite e indica si falta algún rol o si hay una combinación que tiene conflictos.
 
 ## Solución
 

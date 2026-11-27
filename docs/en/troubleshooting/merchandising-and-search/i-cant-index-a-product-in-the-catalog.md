@@ -3,7 +3,7 @@ title: "I can't index a product in the catalog"
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2025-08-14T22:18:48.876Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
@@ -43,6 +43,8 @@ In some cases, the indexing process may be interrupted, resulting in the latest 
    - Number of geographical regions
    - Number of collections
    - Number of sellers
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why products aren't being indexed. Provide the product ID, and VTEX Copilot will check the product registration, SKUs, category, brand, and associated sales channels to identify what's preventing indexing.
 
 ## Solutions
 

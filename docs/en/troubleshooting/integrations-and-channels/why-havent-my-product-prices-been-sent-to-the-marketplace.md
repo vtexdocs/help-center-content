@@ -3,7 +3,7 @@ title: "Why haven't my product prices been sent to the marketplace?"
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
-updatedAt: 2024-11-08T18:33:24.038Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:33:24.038Z
 firstPublishedAt: 2024-09-13T18:21:24.321Z
 contentType: tutorial
@@ -23,6 +23,8 @@ symptomFilters:
 ---
 
 A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](/en/docs/tracks/prices-module-overview) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the SKU price in the sales channel used by the integration. Provide the SKU ID, and VTEX Copilot will show whether a price is configured and what the configured price is for each sales channel.
 
 ## Solution
 

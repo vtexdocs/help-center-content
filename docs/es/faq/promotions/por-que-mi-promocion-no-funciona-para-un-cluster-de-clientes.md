@@ -4,7 +4,7 @@ excerpt: "Las promociones por cluster fallan cuando los valores del cluster falt
 id: 4I7FRBu5zj9JYs0xBwg5aR
 status: PUBLISHED
 createdAt: 2019-02-22T18:12:54.910Z
-updatedAt: 2020-09-17T18:15:55.021Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-09-17T18:15:55.021Z
 firstPublishedAt: 2019-02-22T18:16:10.272Z
 contentType: frequentlyAskedQuestion
@@ -20,6 +20,8 @@ En la plataforma VTEX, existe la posibilidad de aplicar una [promoción](/es/doc
 Sin embargo, hay casos en que esta promoción no es visualizada por algunos compradores.
 
 Separamos algunos escenarios en los que este error puede ocurrir y una resolución para cada uno de ellos. Todos están relacionados con el valor del clúster que se debe insertar en la plataforma.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este caso: ingresa el nombre de la promoción y el email de un cliente afectado y Copilot compara los valores de clúster de la promoción con el registro del cliente en Master Data.
 
 ## Ausencia del valor
 

@@ -3,7 +3,7 @@ title: 'El pedido se detiene en el status "Preparando envío"'
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
-updatedAt: 2025-02-07T17:20:26.154Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-07T17:20:26.154Z
 firstPublishedAt: 2025-02-07T17:20:26.154Z
 contentType: tutorial
@@ -25,6 +25,8 @@ El status `Preparando envío` se produce en el [flujo de pedidos](/es/docs/tutor
 > ℹ️ No se puede [cancelar pedidos](/es/docs/tutorials/como-cancelar-pedido) que ya han sido [facturados parcialmente](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 La permanencia de un pedido en el status `Preparando envío` por un periodo superior al previsto puede deberse a la falta de registro de las facturas en VTEX.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si las facturas registradas cubren el valor total e indica el siguiente paso. Copilot ve el pedido en VTEX, no en el ERP.
 
 ## Solución
 

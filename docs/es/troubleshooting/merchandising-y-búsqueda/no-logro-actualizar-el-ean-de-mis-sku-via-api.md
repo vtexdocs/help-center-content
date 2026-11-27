@@ -3,7 +3,7 @@ title: 'No logro actualizar el EAN de mis SKU vía API'
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z
-updatedAt: 2024-11-08T18:51:55.033Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:51:55.033Z
 firstPublishedAt: 2024-06-18T17:28:22.909Z
 contentType: tutorial
@@ -21,6 +21,8 @@ symptomFilters:
 ---
 
 Al intentar actualizar el EAN (número de artículo europeo), que contiene información del código de barras de un SKU en el Admin VTEX y en la API, podrías encontrar problemas de sincronización del catálogo de la tienda, lo que afectaría la gestión del stock y la experiencia del cliente.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX te guía en esta actualización: Copilot busca el SKU por el EAN actual o por el nuevo para confirmar qué código está asociado y explica los endpoints de Catalog API mencionados a continuación.
 
 ## Solución
 

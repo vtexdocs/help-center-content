@@ -3,7 +3,7 @@ title: ​'​My store's order still has the status "Verifying invoice"'
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
-updatedAt: 2024-11-08T19:29:24.003Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T19:29:24.003Z
 firstPublishedAt: 2024-08-16T18:52:24.803Z
 contentType: tutorial
@@ -26,6 +26,8 @@ The status `Verifying invoice` usually indicates the following reasons:
 
 * There was a problem with the [payment settlement](/en/docs/tutorials/configuring-maximum-automatic-payment-settlement-time-frame).
 * The invoice was not correctly added to the order, or the [invoice](/en/docs/tutorials/how-to-manually-invoice-an-order) was only partially processed.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this order. Provide the order number, and VTEX Copilot will determine whether the issue is related to payment settlement or invoicing and recommend the next steps.
 
 ## Solution
 

@@ -3,7 +3,7 @@ title: 'Error when trying to import SKUs via spreadsheet in the VTEX Admin'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2025-08-14T22:09:55.424Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:09:55.424Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
@@ -26,6 +26,8 @@ If you get the message `"An error occurred in the data writing process. Make sur
 
 - [Incomplete mandatory SKU specifications.](/en/docs/tracks/specifications-concept-definition)
 - Incorrect file formatting.
+
+> ℹ️ If the error persists, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can check the required specifications for the category of the SKUs you're importing and, if necessary, open a ticket with VTEX Support that already includes the relevant details and screenshots as attachments.
 
 ## Solution
 

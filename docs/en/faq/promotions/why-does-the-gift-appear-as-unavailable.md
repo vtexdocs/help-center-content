@@ -4,7 +4,7 @@ excerpt: "A gift SKU still needs price, stock, image, and active status. Without
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2026-06-22T14:24:16.980Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -31,3 +31,5 @@ That is, even if a gift has a registered price (a necessary condition for it to 
 Apart from this, it's worth pointing out that cases exist in which a gift is __removed__ from the cart without any apparent reason. The reasons are the same as those that make this SKU appear as "unavailable": price or inventory not being registered, as well as registration not being activated.
 
 To get around this, just check the three items on the platform, the same way you would do for an "unavailable" gift.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the gift SKU. Provide the SKU ID, and VTEX Copilot will verify its status, price, inventory, and images to identify what's preventing it from being displayed.

@@ -4,7 +4,7 @@ excerpt: "La reserva no se libera sola después de facturar. El stock solo se da
 id: frequentlyAskedQuestions_160
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:43.965Z
-updatedAt: 2019-12-31T14:25:30.934Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:30.934Z
 firstPublishedAt: 2017-04-27T23:01:43.472Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ Antes de eso, la reserva continuará activa y otro artículo será excluído, [c
 Es decir, cuando el pedido pasa al status `Preparando Entrega` es necesario que haya una notificación en el inventario para que ese artículo salga de reservado y sea retirado del inventario.
 
 Para ello, basta con actualizar el campo __Cantidad__ con el número de artículos disponibles en su inventario, ignorando el ítem relacionado a la compra.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX consulta el stock del SKU en cada almacén, muestra cuánto está reservado y cuánto está disponible, y actualiza la cantidad después de que confirmes los números. Envíale el ID del SKU.

@@ -3,7 +3,7 @@ title: "Mi página de producto o de categoría muestra 'Página no encontrada'"
 id:
 status: PUBLISHED
 createdAt: 2026-04-30T00:00:00.000Z
-updatedAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial
@@ -34,6 +34,8 @@ Las causas más comunes de este comportamiento son:
 - [La ruta no se actualizó en el rewriter](#actualiza-la-generacion-de-la-ruta)
 - [La jerarquía de categorías o las rutas de exploración son incorrectas](#verifica-la-jerarquia-de-categorias-y-las-rutas-de-exploracion)
 - [Los cambios en el workspace no se publicaron](#publica-los-cambios-en-el-workspace)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga la página con error 404 en el Admin VTEX: envíale el ID del producto y Copilot lista las configuraciones del catálogo (producto, SKUs, categoría y marca) y las políticas comerciales que pueden hacer que el ítem no se muestre en la vitrina.
 
 ## Soluciones
 

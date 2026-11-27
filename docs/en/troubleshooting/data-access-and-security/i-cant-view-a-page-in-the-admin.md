@@ -3,7 +3,7 @@ title: "I can't view a page in the Admin"
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2025-08-14T15:09:37.454Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 When using the Admin, some users may experience *Error 403 - We're sorry, but you do not have access to this page* or a page loading continuously.
 
 These issues usually occur due to conflicts between admin user [roles](/en/docs/tutorials/roles) or specific browser settings.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the 403 error. Provide the user's email address, and VTEX Copilot will compare their roles with the permissions granted by each role to identify whether a required role is missing or a role combination is conflicting.
 
 ## Solution
 

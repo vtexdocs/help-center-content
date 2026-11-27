@@ -3,7 +3,7 @@ title: 'O Site Editor da minha loja não está funcionando'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2026-10-16T14:35:20.717Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
@@ -33,6 +33,8 @@ Veja a seguir instruções que podem ajudar a solucionar esses problemas no Site
 | [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está com problemas com o Site Editor após tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](https://supporticket.vtex.com/support). |
 
 Para entender e corrigir cada erro, consulte as soluções abaixo:
+
+> ℹ️ O [VTEX Copilot](/pt/docs/tutorials/vtex-copilot-no-admin-vtex), no Admin VTEX, investiga o Site Editor: envie seu e-mail e ele confirma se a loja roda em Store Framework, verifica se o usuário tem o recurso CMS GraphQL API nos perfis de acesso e abre um ticket para o Suporte VTEX se necessário.
 
 ## O Site Editor não abre
 

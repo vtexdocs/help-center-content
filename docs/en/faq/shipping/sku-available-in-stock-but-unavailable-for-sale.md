@@ -4,7 +4,7 @@ excerpt: "Warehouses on the same sales channel share inventory. A negative quant
 id: 6HIEgJSYM8S05IyWHnIcOn
 status: PUBLISHED
 createdAt: 2022-02-15T15:41:43.419Z
-updatedAt: 2022-02-15T15:50:50.574Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-02-15T15:49:48.146Z
 firstPublishedAt: 2022-02-15T15:49:19.393Z
 contentType: frequentlyAskedQuestion
@@ -22,4 +22,6 @@ When two or more warehouses use the same [sales channel](/en/docs/tutorials/how-
 This occurs because the VTEX platform sums the negative number of items for that SKU in a warehouse to the positive number of items in other warehouses. If the result of the sum equals zero, the SKU will be unavailable for sale.
 
 Learn more about negative inventory in the article [Inventory management](/en/docs/tutorials/managing-stock-items#updating-inventory).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the SKU. Provide the SKU ID, and VTEX Copilot will check the inventory in each warehouse, including reserved and available quantities, and identify what's preventing the item from being available for sale.
 

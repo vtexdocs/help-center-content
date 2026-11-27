@@ -4,7 +4,7 @@ excerpt: "Este FAQ aún se está traduciendo al español."
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z
-updatedAt: 2022-04-08T20:18:50.816Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-04-08T20:18:50.816Z
 firstPublishedAt: 2020-07-20T20:56:01.437Z
 contentType: frequentlyAskedQuestion
@@ -14,5 +14,7 @@ slugEN: faq-vtex-shipping-network
 locale: es
 legacySlug: faq-vtex-log
 ---
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica VTEX Shipping Network en tu tienda: usando el ID del SKU y el código postal, Copilot simula el envío y muestra las opciones de envío devueltas, además de revisar tus muelles, almacenes y políticas de envío.
 
 > ⚠️ Contenido bajo traducción.

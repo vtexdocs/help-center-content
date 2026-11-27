@@ -1,7 +1,7 @@
 ---
 title: 'La facturación de Master Data no disminuyó después de eliminar una entidad de datos'
 createdAt: '2026-08-07T00:00:00.000Z'
-updatedAt: '2026-08-07T00:00:00.000Z'
+updatedAt: 2026-11-27T00:00:00.000Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: master-data-billing-did-not-decrease-after-deleting-a-data-entity
@@ -17,6 +17,8 @@ symptomFilters:
 Después de eliminar una [entidad de datos](/es/docs/tutorials/entidade-de-datos) mediante la interfaz de Master Data v1, esperas que el volumen facturado mensualmente disminuya, pero esto no ocurre.
 
 Este problema ocurre porque la eliminación de una entidad de datos mediante la interfaz no elimina los documentos (registros) ya almacenados en ella. Esos documentos siguen siendo contabilizados en la facturación mensual hasta que se eliminan mediante la API.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX ayuda en esta limpieza: ingresa la entidad de datos y Copilot busca los documentos que todavía están almacenados en la entidad y los elimina siempre después de pedir tu confirmación antes de remover cualquier registro.
 
 ## Solución
 

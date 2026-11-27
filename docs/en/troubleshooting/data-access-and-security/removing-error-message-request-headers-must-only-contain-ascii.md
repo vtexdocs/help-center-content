@@ -4,7 +4,7 @@ title: 'How to remove the error message "Request headers must only contain ASCII
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
-updatedAt: 2025-08-14T22:48:13.680Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:48:13.680Z
 firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial
@@ -28,6 +28,8 @@ This scenario occurs if the requested page or feature contains a cookie with spe
 ![ascii_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_1.png)
 
 Per [IETF](https://www.ietf.org/) (Internet Engineering Task Force) standards, the institution that documents the standards used on the internet, cookies should not contain special characters (non-ASCII). For more information on the characters accepted in cookies and headers, see [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you identify the cookie containing special characters and, if the error persists, open a ticket with VTEX Support that already includes the relevant details and your screenshots as attachments.
 
 ## Solutions
 

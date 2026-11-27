@@ -4,7 +4,7 @@ excerpt: "A product appears only when it is active, priced, in stock, and shippa
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2025-09-04T18:05:50.517Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-09-04T18:05:35.252Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
@@ -38,6 +38,8 @@ This article explains how to investigate and fix product unavailability errors o
 > ⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](/en/docs/tutorials/understanding-how-indexation-works) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
 
 There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart).
+
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate the issue. Using the product ID, it lists the catalog settings preventing the product from being displayed on the product listing page. Using the SKU ID and a postal code, it identifies whether the issue is related to pricing, inventory, or shipping.
 
 ## Catalog
 

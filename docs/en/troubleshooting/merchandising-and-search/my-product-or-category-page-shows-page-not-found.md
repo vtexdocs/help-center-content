@@ -3,7 +3,7 @@ title: "My product or category page shows 'Page Not Found'"
 id:
 status: PUBLISHED
 createdAt: 2026-04-30T00:00:00.000Z
-updatedAt: 2026-04-30T00:00:00.000Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt:
 firstPublishedAt:
 contentType: tutorial
@@ -34,6 +34,8 @@ The most common causes for this behavior are:
 - [The route wasn't updated in the rewriter](#refresh-route-generation)
 - [The category hierarchy or breadcrumb path is incorrect](#check-the-category-hierarchy-and-breadcrumb-path)
 - [Workspace changes weren't published](#publish-workspace-changes)
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the 404 error on the page. Provide the product ID, and VTEX Copilot will list the catalog settings (product, SKUs, category, and brand) and sales channels that may be preventing the item from being displayed on the product listing page.
 
 ## Solutions
 

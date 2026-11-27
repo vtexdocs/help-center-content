@@ -4,7 +4,7 @@ excerpt: "The marketplace API may be rejecting the invoice update. Open the orde
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
-updatedAt: 2023-03-31T21:05:01.214Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T21:05:01.214Z
 firstPublishedAt: 2017-12-19T13:25:22.289Z
 contentType: frequentlyAskedQuestion
@@ -30,3 +30,5 @@ The normal behavior of the system, in cases where the marketplace returns an err
 But if the message informs you that `the request to the service resource returned HTTP status '404 (not found)'`, it means that the route was not found - that is - the product was not found in the marketplace.
 
 In this case, you should contact the marketplace and ask that they check the integration service.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify where the flow stopped (payment, invoicing, handling, or ERP) and check whether the registered invoice covers the total order amount.

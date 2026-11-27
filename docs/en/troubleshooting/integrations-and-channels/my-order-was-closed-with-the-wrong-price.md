@@ -3,7 +3,7 @@ title: 'My order was closed with the wrong price'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-08-14T22:08:07.983Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
@@ -32,6 +32,8 @@ There are three possible causes for an order to be closed with the wrong price:
 - [SKU price changed before order integration](#SKU-price-changed-before-order-integration)
 
 > ℹ️ See other marketplace order integration errors [in this article](/en/troubleshooting/why-dont-marketplace-orders-integrate-with-my-store).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help identify the cause of the price discrepancy. Provide the SKU ID, and VTEX Copilot will show the price configured for each sales channel so you can compare it with the final price on the marketplace.
 
 ## Product price assumed by the marketplace
 

@@ -3,7 +3,7 @@ title: 'Mi anuncio no aparece en Mercado Libre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
-updatedAt: 2024-11-08T15:28:30.286Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T15:28:30.286Z
 firstPublishedAt: 2024-06-13T18:01:04.982Z
 contentType: tutorial
@@ -25,6 +25,8 @@ symptomFilters:
 Cuando se remueve o desactiva un producto de la política comercial utilizada en la integración de Mercado Libre, la actualización de esos detalles se envía automáticamente al marketplace, que a su vez deja de mostrar el producto.
 
 Otro caso es cuando la cantidad del producto cae por debajo del [stock mínimo](/es/docs/tutorials/control-de-stock-minimo-para-integraciones) establecido en la configuración de la integración con el marketplace. Si el stock de un producto es menor que el valor configurado, se pausa el anuncio para evitar la venta de productos sin stock.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este problema del lado de la plataforma: envíale el ID del producto y Copilot verifica si el producto está en la política comercial de Mercado Libre y el stock disponible. El dashboard de Mercado Libre está fuera de su alcance.
 
 ## Solución
 

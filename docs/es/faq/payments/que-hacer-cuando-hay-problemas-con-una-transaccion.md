@@ -4,7 +4,7 @@ excerpt: "Empiece por el log de la transacción en el Admin. Muestra cada solici
 id: 3d183R70xqAYoyyqwaAmGa
 status: PUBLISHED
 createdAt: 2017-05-09T13:38:39.142Z
-updatedAt: 2019-12-31T14:25:26.812Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:26.812Z
 firstPublishedAt: 2017-05-09T13:44:57.343Z
 contentType: frequentlyAskedQuestion
@@ -36,3 +36,5 @@ Otro ejemplo sería el Gateway (aliado) retornar que no posee los datos completo
 La __TID__ es el número que debe usarse para identificar una transacción en el Gateway.
 
 El hecho de existir una TID significa, incluso, que la transacción tuvo un inicio, pues esa información es generada cuando se establece una conexión con el Gateway.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX lee la transacción por ti: envíale el número del pedido o el ID de la transacción y Copilot muestra el status, la respuesta del adquirente y el historial de liquidación para ayudarte a identificar la falla.

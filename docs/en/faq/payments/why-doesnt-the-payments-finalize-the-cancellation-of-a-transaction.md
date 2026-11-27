@@ -4,7 +4,7 @@ excerpt: "The transaction stays in Cancelling when the gateway does not return a
 id: 3IBqfy5IhOMkYKuKmu2wSs
 status: PUBLISHED
 createdAt: 2017-05-16T14:37:21.265Z
-updatedAt: 2019-12-31T14:23:49.504Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:23:49.504Z
 firstPublishedAt: 2017-05-18T18:55:27.278Z
 contentType: frequentlyAskedQuestion
@@ -20,3 +20,5 @@ This happens when a transaction continues in `Cancelling` status indefinitely, p
 ![resposta-inadequada-pci-gateway](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/payments/why-doesnt-the-payments-finalize-the-cancellation-of-a-transaction_1.png)
 
 To solve this, you must contact the gateway responsible for the payment, give the transaction details and request cancellation.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate a transaction stuck in `Cancelling`. Provide the order number or transaction ID, and VTEX Copilot will check the transaction status in the gateway and gather the information you need to request cancellation from the payment provider.

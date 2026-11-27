@@ -4,7 +4,7 @@ excerpt: "Payments recibió una respuesta inválida de captura del conector. Con
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z
-updatedAt: 2022-07-19T13:00:25.935Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-07-19T13:00:25.935Z
 firstPublishedAt: 2017-04-27T23:02:43.821Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ En este caso, es necesario entrar en contacto con el conector de pagos para ve
 En el mail de alerta enviado por el sistema, se incluyen informaciones útiles referentes a la autorización de la transacción que deberán ser informadas al equipo de soporte del conector.
 
 _Importante: En el caso de que desee alterar el mail de la persona que recibe las notificaciones del PCI Gateway, [clique aqui](/es/docs/tutorials/como-configurar-notificaciones) para saber cómo hcerlo._
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica esta liquidación: envíale el número del pedido o el ID de la transacción y Copilot consulta el historial de liquidación en el módulo Pago y reúne los datos para que los valides con el proveedor.

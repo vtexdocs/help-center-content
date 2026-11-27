@@ -3,7 +3,7 @@ title: 'Cómo corregir el error de esquema en aplicaciones B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2025-08-14T22:02:49.294Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 En entornos que utilizan aplicaciones B2B, puede presentarse la alerta `Schema is invalid` que está relacionada con problemas de esquema. Generalmente, este tipo de alerta se debe a una configuración incorrecta en la entidad CL (Cliente) en Master Data.
 
 El escenario más común son campos obligatorios agregados al esquema que define los datos de esa entidad en Master Data. Cuando una aplicación de B2B Suite intenta crear un usuario sin proporcionar los campos obligatorios, se muestra la alerta de esquema no válido. Este problema puede ocurrir al acceder a la página **Organización** en el Admin VTEX o a la página **Solicitar organización** en la vitrina de la tienda.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX identifica la causa de la alerta `schema is invalid`: Copilot verifica los campos de la entidad CL en Master Data y señala qué campos obligatorios pueden estar impidiendo que las aplicaciones B2B creen usuarios.
 
 ## Solución
 Para corregir la alerta __Schema is invalid__ en aplicaciones B2B es necesario modificar la configuración de los campos obligatorios en Master Data.

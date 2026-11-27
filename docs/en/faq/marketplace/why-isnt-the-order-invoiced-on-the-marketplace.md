@@ -4,7 +4,7 @@ excerpt: "The invoice may be in VTEX while the marketplace still shows an earlie
 id: frequentlyAskedQuestions_715
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:23.898Z
-updatedAt: 2020-05-11T15:48:16.337Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-05-11T15:48:16.337Z
 firstPublishedAt: 2017-04-27T23:02:33.970Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: why-isnt-the-order-invoiced-on-the-marketplace
 ---
 
 This happens when the tax invoice and the order invoice are already in VTEX, but the marketplace still shows an earlier status.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the order on the VTEX side. Provide the order number, and VTEX Copilot will confirm the order status and registered invoices. What happens in the marketplace must be [checked in Bridge](#check-the-bridge).
 
 ## Check Integrations
 

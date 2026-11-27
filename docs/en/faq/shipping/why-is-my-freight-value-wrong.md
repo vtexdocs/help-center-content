@@ -4,7 +4,7 @@ excerpt: "Compare the shipping simulation details with promotions and extra frei
 id: frequentlyAskedQuestions_163
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:27.397Z
-updatedAt: 2019-12-31T14:25:32.472Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:32.472Z
 firstPublishedAt: 2017-04-27T23:01:43.243Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ Freight calculation is based on several factors: freight table, additional freig
 4. Check if, among sales, there is one offering a freight discount. To check that, access the sale and verify the type of discount offered.
 
 ![valortotal en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shipping/why-is-my-freight-value-wrong_2.jpg)
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the shipping cost. Using the SKU ID and postal code, it simulates shipping, checks the amount charged by the shipping policy for that postal code, and reviews any promotions that affect the shipping cost.

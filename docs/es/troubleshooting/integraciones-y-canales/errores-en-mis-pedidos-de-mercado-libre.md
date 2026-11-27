@@ -3,7 +3,7 @@ title: 'Errores en mis pedidos de Mercado Libre'
 id: 170njWgSw9UQ5DG6NRl14d
 status: PUBLISHED
 createdAt: 2024-06-28T15:03:26.959Z
-updatedAt: 2025-08-14T22:54:23.267Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:54:23.267Z
 firstPublishedAt: 2024-06-28T16:04:14.266Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 Cuando se produce un error de integración en pedidos entre un marketplace y Mercado Libre, se muestra un mensaje de error en cada pedido.
 
 Los pedidos presentan errores de integración por dos motivos: **ID de tienda oficial en Mercado Libre** incorrectamente registrado o **Categorías inexistentes en Mercado Libre**. Para comprobar si un pedido contiene errores de integración, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX explica el mensaje de error de tu pedido de Mercado Libre, te guía por las instrucciones de este artículo y, si es necesario, abre un ticket con el Soporte VTEX que ya incluye tus capturas de pantalla adjuntas.
 
 ## Solución
 Considera las siguientes opciones para corregir los errores de integración en los pedidos de Mercado Libre: [verificar el ID de la tienda oficial en Mercado Libre](#comprobar-id-de-la-tienda-oficial-en-mercado-libre) y [verificar la correspondencia de categorías](#comprobar-correspondencia-de-categorías) para errores de integración de pedidos.

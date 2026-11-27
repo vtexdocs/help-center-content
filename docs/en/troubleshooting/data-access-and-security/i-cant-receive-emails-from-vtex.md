@@ -3,7 +3,7 @@ title: "I can't receive emails from VTEX"
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-11-08T18:46:08.368Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
@@ -27,6 +27,8 @@ Through the [Message Center](/en/docs/tutorials/understanding-the-message-center
 - Spreadsheet import error logs
 
 If your store's emails aren't being appropriately forwarded, preventing relevant information from being sent to your customers, see below the possible solutions to identify the source of this problem.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate email delivery issues in your store. It explains Message Center templates, triggers, and variables, and, if emails end up in spam folders, generates DKIM keys for your sending domain.
 
 ## Solution
 

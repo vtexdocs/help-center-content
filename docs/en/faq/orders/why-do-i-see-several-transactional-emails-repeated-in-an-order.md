@@ -4,7 +4,7 @@ excerpt: "Repeated emails usually mean the ERP keeps resending an invoice that d
 id: frequentlyAskedQuestions_5310
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:48.654Z
-updatedAt: 2023-03-20T18:16:45.773Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-20T18:16:45.773Z
 firstPublishedAt: 2017-04-27T23:02:45.541Z
 contentType: frequentlyAskedQuestion
@@ -28,3 +28,5 @@ In the VTEX Admin, go to **Orders > All orders** and open an order. On the order
 - The customer's email server may fail to acknowledge that it received the message.
 
    If the SMTP server that sends transactional emails does not receive an OK from the destination server, it keeps resending the email from the **Orders** module.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will check whether the registered invoice covers the total order amount. If it doesn't, the ERP may resend the invoice and trigger duplicate emails.

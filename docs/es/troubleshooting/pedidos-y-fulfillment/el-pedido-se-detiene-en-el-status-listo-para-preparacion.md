@@ -3,7 +3,7 @@ title: 'El pedido se detiene en el status "Listo para preparación"'
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
-updatedAt: 2025-02-03T18:59:58.956Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-03T18:59:58.956Z
 firstPublishedAt: 2025-02-03T18:59:58.956Z
 contentType: tutorial
@@ -25,6 +25,8 @@ symptomFilters:
 El status `Listo para preparación` se produce en el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller) justo después de que se cierre la ventana de cancelación. En este punto, VTEX debe recibir información del [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) sobre la integración del pedido y la actualización del stock de ítems, lo que permitiría que el flujo pueda proseguir hasta alcanzar el siguiente status `Preparando envío`.
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica si el flujo se detuvo esperando la liberación de la preparación por el ERP y qué acciones se deben realizar. Copilot ve el pedido en VTEX, no en el ERP.
 
 ## Solución
 

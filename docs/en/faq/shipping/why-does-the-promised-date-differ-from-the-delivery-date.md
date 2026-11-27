@@ -4,7 +4,7 @@ excerpt: "An incorrectly long holiday range makes VTEX apply a shorter automatic
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z
-updatedAt: 2023-03-22T20:52:10.588Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-22T20:52:10.588Z
 firstPublishedAt: 2018-03-05T16:16:16.312Z
 contentType: frequentlyAskedQuestion
@@ -29,3 +29,5 @@ If you have incoherent deadlines or a disagreement between the promised date and
 4. Click `Save`.
 
 For more information, see the article [Registering Holidays](/en/docs/tutorials/registering-holidays).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate discrepancies in the delivery time. Provide the order number, and VTEX Copilot will check the estimated delivery date and review the holidays configured in your shipping settings.

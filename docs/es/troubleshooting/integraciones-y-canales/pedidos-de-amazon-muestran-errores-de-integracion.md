@@ -3,7 +3,7 @@ title: 'Pedidos de Amazon muestran errores de integración'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z
-updatedAt: 2024-11-08T18:29:42.178Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:29:42.178Z
 firstPublishedAt: 2024-09-12T16:24:22.283Z
 contentType: tutorial
@@ -32,6 +32,8 @@ Los errores más comunes en pedidos de Amazon son:
 **SKU sin política comercial vinculada**
 **SKU no existe**
 **Error de comunicación con el catálogo**
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga los errores de la tabla a continuación del lado de tu tienda: envíale el ID del SKU y Copilot verifica si el SKU está activo, en qué políticas comerciales está y cuánto stock tiene disponible.
 
 ## Solución
 

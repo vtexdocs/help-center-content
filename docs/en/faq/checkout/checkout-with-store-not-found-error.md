@@ -4,7 +4,7 @@ excerpt: "Store not found means the Store Name is missing from Hosts in Account 
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z
-updatedAt: 2019-12-31T14:24:32.241Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:32.241Z
 firstPublishedAt: 2017-11-29T14:05:04.071Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ To adjust these settings, follow the steps below:
 3. Click your account.
 4. Verify that the value contained in the `Store Name` field is also in the `Hosts` field. If not, include in the `Hosts` field the value found in the `Store Name` field.
 5. Click __Save__.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) queries your account data, including registered stores and domains, and checks whether the store name also appears among the hosts.

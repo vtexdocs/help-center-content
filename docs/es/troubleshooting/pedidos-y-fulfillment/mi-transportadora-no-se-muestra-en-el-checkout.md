@@ -3,7 +3,7 @@ title: 'Mi transportadora no se muestra en el checkout'
 id:
 status: PUBLISHED
 createdAt: 2026-02-20T00:00:00.199Z
-updatedAt: 2026-02-20T00:00:00.199Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2026-02-20T00:00:00.199Z
 firstPublishedAt: 2026-02-20T00:00:00.199Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 En algunas situaciones, la transportadora puede que no se muestre como una opción de envío en el checkout al finalizar un pedido en VTEX. Este artículo reúne los principales escenarios que causan este comportamiento y presenta las soluciones recomendadas para cada caso.
 
 > ℹ️ Antes de continuar, asegúrate de que todas las [transportadoras estén registradas](https://help.vtex.com/es/docs/tutorials/transportadoras-en-vtex) correctamente en la plataforma.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga por qué la transportadora no se muestra: envíale el ID del SKU y el código postal y Copilot simula el envío y revisa las políticas de envío, rangos de código postal, muelles y almacenes para identificar la causa.
 
 ## Soluciones
 

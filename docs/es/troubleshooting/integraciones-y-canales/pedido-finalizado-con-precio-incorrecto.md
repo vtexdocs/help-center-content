@@ -3,7 +3,7 @@ title: 'Pedido finalizado con precio incorrecto'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-08-14T22:08:07.983Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
@@ -32,6 +32,8 @@ Hay tres posibles causas por las que se finaliza un pedido con precio incorrecto
 - [Precio del SKU modificado antes de la integración del pedido](#precio-del-SKU-modificado-antes-de-la-integracion-del-pedido)
 
 > ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](/es/troubleshooting/por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX identifica la causa de la divergencia: envíale el ID del SKU y muestra el precio configurado en cada política comercial para que lo compares con el valor fijado en el marketplace.
 
 ## Precio del producto asumido por el marketplace
 

@@ -4,7 +4,7 @@ excerpt: "Después de crear o cambiar una suscripción, reindexe los SKUs relaci
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
-updatedAt: 2021-04-30T14:35:48.244Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2021-04-30T14:35:48.244Z
 firstPublishedAt: 2019-01-28T19:20:54.475Z
 contentType: frequentlyAskedQuestion
@@ -33,3 +33,5 @@ __Para hacer la inclusión manual de SKUs específicos, siga el paso a paso abaj
 ![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/catalog/he-activado-la-suscripcion-de-un-producto-pero-no-aparece-en-el-sitio_1.png)
 
 Por fin, dé un nombre al __Grupo__ de su Colección y haga clic en __Save Group__.
+
+> ℹ️ Si el producto sigue estando fuera del sitio web después de la reindexación, pide a [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX que verifique el ID del producto. Copilot listará todas las configuraciones del catálogo que lo mantienen fuera de la vitrina.

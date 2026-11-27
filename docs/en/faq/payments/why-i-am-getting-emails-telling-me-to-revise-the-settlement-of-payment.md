@@ -4,7 +4,7 @@ excerpt: "Payments received an invalid settlement response from the connector. C
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z
-updatedAt: 2022-07-19T13:00:25.935Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-07-19T13:00:25.935Z
 firstPublishedAt: 2017-04-27T23:02:43.821Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ In this case, contact the connector and confirm whether the payment was settled 
 The alert email includes authorization details that you should share with the connector's support team.
 
 > ⚠️ To change the email address that receives PCI notifications, see [How to set up payment notifications](/en/docs/tutorials/how-to-configure-notifications).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check the settlement. Provide the order number or transaction ID, and VTEX Copilot will retrieve the settlement history from Payments, gathering the information you need to verify with the payment provider.

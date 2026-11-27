@@ -4,7 +4,7 @@ excerpt: "El status puede detenerse a la espera del pago en el marketplace, del 
 id: frequentlyAskedQuestions_712
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:34.393Z
-updatedAt: 2019-12-31T14:24:04.173Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:04.173Z
 firstPublishedAt: 2017-04-27T23:02:34.080Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-el-pedido-no-actualiza-el-status
 ---
 
 Ese escenario puede ocurrir con 3 status, 2 en VTEX y 1 en marketplace. Sigue la descripción abajo.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga el pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica en qué etapa el flujo se detuvo (pago, factura, preparación o ERP) y qué acciones se deben realizar.
 
 ## En espera de la autorización para despachar
 

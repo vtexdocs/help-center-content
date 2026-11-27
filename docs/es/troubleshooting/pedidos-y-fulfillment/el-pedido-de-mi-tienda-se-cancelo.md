@@ -3,7 +3,7 @@ title: 'El pedido de mi tienda se canceló'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
-updatedAt: 2025-02-04T13:30:15.393Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-02-04T13:30:15.393Z
 firstPublishedAt: 2025-02-04T13:30:15.393Z
 contentType: tutorial
@@ -25,6 +25,8 @@ Un pedido realizado se puede cancelar antes de que complete el flujo esperado. P
 Smart Checkout es compatible con el recurso "Pre-Auth" de algunos adquirentes. Esto significa que la plataforma realiza la validación de los datos de la tarjeta en el propio entorno de checkout. Si hay algún problema, el usuario recibe una notificación para que cambie el medio de pago y el retailer no pierda la venta.
 
 En este proceso se crea un pedido. Si ocurre una denegación por parte del operador, se cancela la transacción.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX identifica el motivo de la cancelación: envíale el número del pedido y Copilot verifica los datos de cancelación del pedido y la respuesta del adquirente en la transacción para indicar quién solicitó la cancelación y por qué.
 
 ## Solución
 

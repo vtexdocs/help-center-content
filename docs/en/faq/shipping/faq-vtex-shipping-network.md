@@ -4,7 +4,7 @@ excerpt: "This FAQ is still being translated into English."
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z
-updatedAt: 2022-04-08T20:18:50.816Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-04-08T20:18:50.816Z
 firstPublishedAt: 2020-07-20T20:56:01.437Z
 contentType: frequentlyAskedQuestion
@@ -14,5 +14,7 @@ slugEN: faq-vtex-shipping-network
 locale: en
 legacySlug: faq-vtex-log
 ---
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can check VTEX Shipping Network in your store. Using the SKU ID and postal code, it simulates shipping, displays the available shipping options, and reviews your docks, warehouses, and shipping policies.
 
 > ⚠️ Content under translation.

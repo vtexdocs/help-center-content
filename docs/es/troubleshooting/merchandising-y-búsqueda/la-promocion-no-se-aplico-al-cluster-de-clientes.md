@@ -3,7 +3,7 @@ title: 'La promoción no se aplicó al clúster de clientes'
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
-updatedAt: 2025-08-14T22:53:01.477Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:53:01.477Z
 firstPublishedAt: 2025-02-28T19:31:52.785Z
 contentType: tutorial
@@ -23,6 +23,8 @@ Puedes configurar una [promoción personalizada](/es/docs/tutorials/creando-prom
 
 - Ausencia o registro incorrecto del valor del clúster durante la configuración de la promoción.
 - Diferencia entre los valores registrados en la promoción y los valores asignados en los perfiles de los clientes.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX compara los dos lados de este problema: ingresa el nombre de la promoción y el email de un cliente del clúster y Copilot verifica la condición de clúster configurada y los valores en el registro de ese cliente en Master Data.
 
 ## Solución
 

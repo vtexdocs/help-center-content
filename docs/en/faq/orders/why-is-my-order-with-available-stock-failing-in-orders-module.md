@@ -4,7 +4,7 @@ excerpt: "Late payment approval can expire the reservation. Another sale may the
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z
-updatedAt: 2023-03-31T23:05:09.937Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T23:05:09.937Z
 firstPublishedAt: 2018-03-07T15:14:02.766Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ The reserved status has an expiration period. If payment is not confirmed by thi
 In that particular case, since your stock was down and you did not have SKUs for both orders, one of them could not be delivered, causing the error in the order's workflow. It's as if the sale that happened in the middle of the reservation process took its inventory by surprise.
 
 The solution here is to add stock to this SKU, or to cancel the order, since your reservation has expired, your SKU has been directed to another order and there was no actual available stock.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify the step where the flow stopped. With the SKU ID, it also shows how much of the inventory is reserved and how much is available.

@@ -4,7 +4,7 @@ excerpt: "El envío gratis aplica solo al tipo de entrega más barato, a menos q
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
-updatedAt: 2019-12-31T14:24:55.841Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:55.841Z
 firstPublishedAt: 2018-03-06T19:19:16.993Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ Usted también puede activar la flag __Aplique el descuento solo cuando el clien
 ### Artículos relacionados
 - [Promociones, impuestos y cupones - Información general](/es/docs/tutorials/pantalla-inicial-del-modulo-de-pricing-promociones)
 - [Crear promociones](/es/tutorial/como-crear-promociones)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica esta promoción: ingresa el nombre de la promoción y Copilot revisa las condiciones configuradas, incluidos los tipos de envío, para identificar por qué el envío gratis no se aplica a todas las opciones de envío.

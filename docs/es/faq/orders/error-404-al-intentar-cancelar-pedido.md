@@ -4,7 +4,7 @@ excerpt: "Un 404 al cancelar suele significar que falló la API de un partner. A
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z
-updatedAt: 2023-03-22T20:05:41.355Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-22T20:05:41.355Z
 firstPublishedAt: 2018-02-19T19:36:07.899Z
 contentType: frequentlyAskedQuestion
@@ -19,6 +19,8 @@ Al intentar cancelar un pedido en el módulo **Pedidos**, a veces el sistema dev
 
 - Cómo identificar el error
 - Qué hacer cuando ocurre este error
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verifica el pedido en el Admin VTEX: envíale el número del pedido y Copilot identifica si hay un error en el flujo o una cancelación en curso. Así confirmas el escenario antes de contactar al servicio externo.
 
 ### Cómo identificar el error
 

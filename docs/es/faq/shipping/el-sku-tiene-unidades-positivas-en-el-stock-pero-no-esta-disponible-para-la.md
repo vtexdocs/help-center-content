@@ -4,7 +4,7 @@ excerpt: "Los almacenes del mismo canal de venta comparten el inventario. Una ca
 id: 6HIEgJSYM8S05IyWHnIcOn
 status: PUBLISHED
 createdAt: 2022-02-15T15:41:43.419Z
-updatedAt: 2022-02-15T15:50:50.574Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-02-15T15:49:48.146Z
 firstPublishedAt: 2022-02-15T15:49:19.393Z
 contentType: frequentlyAskedQuestion
@@ -20,4 +20,6 @@ Cuando dos o más _stocks_ utilizan la misma [política comercial](/es/docs/tuto
 Esto se debe a que la plataforma VTEX suma las unidades negativas de los SKU de un determinado _stock_ a las unidades positivas de otro _stock_. Si la suma de estas cantidades es cero, el SKU pasa a no estar disponible para la venta en la tienda.
 
 Obtén más información sobre el _stock_ negativo en el artículo [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario#actualizar-stock).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este SKU: envíale el ID del SKU y Copilot consulta el stock en cada almacén, incluyendo cantidades reservadas y disponibles, e indica qué está causando que el ítem no esté disponible para la venta.
 

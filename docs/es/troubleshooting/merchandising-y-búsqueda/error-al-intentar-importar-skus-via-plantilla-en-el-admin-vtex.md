@@ -3,7 +3,7 @@ title: 'Error al intentar importar SKUs vía plantilla en el Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2025-08-14T22:09:55.424Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:09:55.424Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
@@ -25,6 +25,8 @@ Si al realizar la importación de SKUs vía plantilla se muestra el mensaje `"An
 
 - [No se rellenaron las especificaciones de SKU obligatorias](/es/docs/tracks/especificaciones-definicion-de-concepto).
 - El archivo tiene un formato incorrecto.
+
+> ℹ️ Si el error continúa, [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica las especificaciones obligatorias de la categoría de los SKUs que estás importando y, si es necesario, abre un ticket con el Soporte VTEX que ya contiene toda la información, incluyendo las capturas de pantalla adjuntas.
 
 ## Solución
 

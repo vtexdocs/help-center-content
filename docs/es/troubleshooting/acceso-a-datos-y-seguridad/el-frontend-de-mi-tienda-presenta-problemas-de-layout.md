@@ -1,6 +1,7 @@
 ---
 title: "El frontend de mi tienda presenta problemas de layout"
 createdAt: 2026-04-27T15:50:40.668Z
+updatedAt: 2026-11-27T00:00:00.000Z
 locale: es
 slugEN: my-storefront-has-layout-issues
 contentType: troubleshooting
@@ -13,6 +14,8 @@ tags:
 ---
 
 Este artículo te ayuda a investigar problemas de layout en el frontend de tu tienda. Al seguir las instrucciones de esta guía podrás comparar diferentes versiones de la vitrina, aislar el origen de los problemas de layout y reunir evidencias para compartir con el Soporte de VTEX o con tu partner de implementación, si es necesario.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX aísla el origen del problema de layout: Copilot identifica la arquitectura de tu tienda y, en tiendas Store Framework, crea un workspace de prueba que solo incluye las aplicaciones nativas de VTEX para que puedas comparar.
 
 ## Solución
 

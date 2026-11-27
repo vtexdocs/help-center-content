@@ -4,7 +4,7 @@ excerpt: "Apuntar el DNS no es suficiente. Defina el status de la cuenta como pr
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z
-updatedAt: 2019-12-31T14:24:02.113Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:02.113Z
 firstPublishedAt: 2017-04-27T23:02:37.167Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Un paso obligatorio para una tienda entrar en producción es la configuración
 Así que si usted accede a la tienda y no puede entrar en el ambiente de su e-commerce, recibiendo una pantalla de error, compruebe si su estado está [configurado](/es/tutorial/pasando-la-tienda-para-produccion) como **en producción** en la __Gestión de la cuenta__.
 
 Una vez que haya configurado el estado, podrá acceder a la tienda.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga este error: envíale la URL de la tienda y Copilot ejecuta la lista de verificación del go live (DNS, CDN y certificado SSL) e identifica qué está bloqueando el acceso.

@@ -4,7 +4,7 @@ excerpt: "The Orders module often fails because the Admin session expired. Sign 
 id: 4X1NvGRhzWsqeC0QIGaMWu
 status: PUBLISHED
 createdAt: 2017-12-19T01:13:12.248Z
-updatedAt: 2023-03-31T14:59:05.634Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T14:59:05.634Z
 firstPublishedAt: 2017-12-19T01:28:44.397Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ Usually, this error occurs when the user authentication has expired. Go to the s
 The system will probably request your login. In such a case, authenticate and try to access Orders management once again.
 
 If that doesn't solve your problem, it may be that the **Orders** module is experiencing a temporary unavailability, which may be confirmed on our [status page](http://status.vtex.com/).
+
+> ℹ️ If the error persists after logging in again, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to check for ongoing incidents. VTEX Copilot monitors platform status in real time and reports on recent service disruptions.

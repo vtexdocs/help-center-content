@@ -4,7 +4,7 @@ excerpt: "Un precio fijo en el SKU sobrescribe el precio de lista. Elimine o aju
 id: 7zB1S10crK6QXiWcDTUFtE
 status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
-updatedAt: 2020-11-27T19:40:10.985Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:12.007Z
 firstPublishedAt: 2019-03-25T20:46:55.655Z
 contentType: frequentlyAskedQuestion
@@ -39,4 +39,6 @@ De este modo, continúe con el proceso:
 7. Guarde las configuraciones haciendo clic en __Enter__
 
 ¡Listo! Sus SKUs se mostrarán nuevamente en la tienda.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verifica la configuración de precio del SKU en el Admin VTEX: envíale el ID del SKU y Copilot muestra el precio base, precio de lista, markup y precios fijos, indicando si un precio fijo se superpone al precio de lista.
 

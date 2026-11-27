@@ -4,7 +4,7 @@ excerpt: "La factura puede estar en VTEX mientras el marketplace aún muestra un
 id: frequentlyAskedQuestions_715
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:23.898Z
-updatedAt: 2020-05-11T15:48:16.337Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2020-05-11T15:48:16.337Z
 firstPublishedAt: 2017-04-27T23:02:33.970Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-el-pedido-no-factura-en-el-marketplace
 ---
 
 Este escenario se caracteriza por la inserción del albarán y la factura del pedido en VTEX, más la permanencia del status anterior en el marketplace. Como causa, tenemos 2 más comunes:
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) verifica el pedido del lado de la plataforma en el Admin VTEX: envíale el número del pedido y Copilot confirma el status y las facturas registradas. Lo que ocurre en el marketplace debe ser [comprobado en Bridge](#verifica-el-bridge).
 
 ## Verifique el Bridge
 

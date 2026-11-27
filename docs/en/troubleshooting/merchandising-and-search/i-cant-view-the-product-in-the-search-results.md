@@ -3,7 +3,7 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2025-08-14T22:44:25.091Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:44:25.091Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
@@ -36,6 +36,8 @@ This behavior can occur due to the following reasons:
 2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](/en/docs/tutorials/search-behavior#standard-search-behavior) and [Search configuration](/en/docs/tutorials/search-configuration).
 
 3. Internal route redirecting the search result to a brand page.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate why a product isn't being displayed in search results. Provide the search term and product ID, and VTEX Copilot will run the same search as your customers and check the product's brand and visibility.
 
 ## Solutions
 

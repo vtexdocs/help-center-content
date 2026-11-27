@@ -4,7 +4,7 @@ excerpt: "Free shipping applies only to the cheapest shipping method unless you 
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
-updatedAt: 2019-12-31T14:24:55.841Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:55.841Z
 firstPublishedAt: 2018-03-06T19:19:16.993Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ You can also activate the __Apply selected discount only when one of the above c
 ### Related articles
 - [Promotions, taxes and coupons - Overview](/en/docs/tutorials/overview-pricing-module)
 - [Creating benefits](/en/tutorial/creating-promotions-2)
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can review the promotion. Provide the promotion name, and VTEX Copilot will check the configured conditions, including shipping types, to identify why free shipping doesn't apply to all shipping options.

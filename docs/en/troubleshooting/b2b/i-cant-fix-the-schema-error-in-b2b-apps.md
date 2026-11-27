@@ -3,7 +3,7 @@ title: "I can't fix the schema error in B2B apps"
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2025-08-14T22:02:49.294Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
@@ -24,6 +24,8 @@ symptomFilters:
 In environments using B2B apps, users may get the alert `Schema is invalid` related to schema errors. This type of alert usually occurs due to an incorrect configuration in the CL (customer) entity within Master Data.
 
 The most common situation involves adding required fields to the schema that defines data for the CL entity in Master Data. When a B2B Suite app tries to create a user without providing the required fields, an invalid schema alert is displayed. This problem can occur when accessing the **Organization** page in the VTEX Admin or the **Organization Requests** page in the storefront.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help identify the cause of the `schema is invalid` alert. It checks the fields of the CL entity in Master Data and identifies which required fields may be preventing B2B apps from creating users.
 
 ## Solution
 Fixing the Schema is invalid alert in B2B apps involves adjusting the configuration of the required fields in Master Data.

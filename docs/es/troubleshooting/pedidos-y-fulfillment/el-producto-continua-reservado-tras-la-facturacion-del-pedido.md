@@ -3,7 +3,7 @@ title: 'El producto continúa reservado tras la facturación del pedido'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z
-updatedAt: 2024-11-08T19:36:08.007Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T19:36:08.007Z
 firstPublishedAt: 2024-10-29T16:51:27.322Z
 contentType: tutorial
@@ -31,6 +31,8 @@ Cuando se vende un producto, este pasa por los siguientes status en el stock de 
 3. [Reserva reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
 
 Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](/es/docs/tutorials/como-se-maneja-la-reserva#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el stock: envíale el ID del SKU y Copilot muestra cuánto está reservado y disponible en cada almacén, identifica reservas bloqueadas y actualiza el recuento, siempre después de tu confirmación.
 
 ## Soluciones
 

@@ -4,7 +4,7 @@ excerpt: "Authorize-fulfillment fails when the SKU reservation was released and 
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z
-updatedAt: 2023-03-31T12:47:47.903Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-31T12:47:47.903Z
 firstPublishedAt: 2017-12-21T14:35:13.955Z
 contentType: frequentlyAskedQuestion
@@ -26,3 +26,5 @@ To confirm that this is the problem, in the [order details page](/en/docs/tutori
 If there is an error such as "The requested reservation *00-abc* could not be guaranteed for the *00-xyz* order", it is because one or more of the SKUs included in the cart don’t have available inventory, which prevents the purchase from being approved. In this case, correcting the inventory should allow the order to move on.
 
 For more information, see [Checking error details in the orders](/en/docs/tutorials/how-to-check-error-details-in-the-orders).
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate this error. Provide the order number, and VTEX Copilot will identify the step where the flow stopped and check the available inventory for the order's SKUs in each warehouse.

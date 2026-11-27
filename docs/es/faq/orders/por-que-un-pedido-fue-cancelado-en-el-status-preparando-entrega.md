@@ -4,7 +4,7 @@ excerpt: "Los pedidos se pueden cancelar hasta que se facturan. Confirme o recha
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z
-updatedAt: 2023-03-20T18:38:44.805Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-20T18:38:44.805Z
 firstPublishedAt: 2017-05-18T19:20:59.326Z
 contentType: frequentlyAskedQuestion
@@ -22,3 +22,5 @@ Cuando sucede la cancelación, el comerciante es notificado a través de [VTEX D
 1. En el caso de que desee confirmar la cancelación, acceda a **Pedidos > Todos los pedidos**, haga click en el pedido deseado y haga clic en **Cancelar pedido**.
 2. En el caso de que desee proseguir con la entrega, basta seguir el procedimiento de facturación, informándole al cliente sobre la imposibilidad de cancelar el pedido.
    > ❗ Solamente en el status `Carencia para cancelación` la solicitud de cancelación del cliente es unilateral, no le cabiendo al comerciante ninguna confirmación. En los demás status, el comerciante será informado sobre lo solicitud a través de VTEX DO.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) consulta el pedido en el Admin VTEX: envíale el número del pedido y Copilot muestra el status actual y si hay una cancelación en curso para ayudarte a decidir si confirmar la cancelación o continuar con la facturación.

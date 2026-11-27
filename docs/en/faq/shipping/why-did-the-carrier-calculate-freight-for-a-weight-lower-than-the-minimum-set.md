@@ -4,7 +4,7 @@ excerpt: "If product weight is below the carrier minimum, VTEX prices freight by
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z
-updatedAt: 2023-12-19T16:53:24.136Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-12-19T16:53:24.136Z
 firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-mi
 ---
 
 Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the minimum weight or cubed weight &#8211; the one with the highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you understand this calculation. Using the SKU ID and postal code, it simulates shipping and checks the weight and dimensions set for the SKU.
 
 ## Examples
 

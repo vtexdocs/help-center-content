@@ -3,7 +3,7 @@ title: "Why don't marketplace orders integrate with my store?"
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
-updatedAt: 2025-07-31T17:28:33.906Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2025-07-31T17:28:33.906Z
 firstPublishedAt: 2024-06-21T14:48:49.434Z
 contentType: tutorial
@@ -31,6 +31,8 @@ When order integration errors occur between a marketplace and your store, messag
 - Carrier not registered in the ERP.
 
 Check the status of order integration and messages by going to the VTEX Admin, and clicking **Marketplace > Connections > Orders** or typing **Orders** in the search bar.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate integration errors on your store's side. Provide the SKU ID and the delivery postal code, and VTEX Copilot will check whether a pricing, inventory, or shipping issue is preventing the order from being created.
 
 ## Solution
 

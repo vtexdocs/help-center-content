@@ -4,7 +4,7 @@ excerpt: "Listo para manipulación espera la factura. Agregue la invoice en el A
 id: frequentlyAskedQuestions_301
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:27.319Z
-updatedAt: 2023-03-20T18:45:54.181Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-03-20T18:45:54.181Z
 firstPublishedAt: 2017-04-27T23:01:44.420Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: por-que-esta-mi-pedido-parado-en-listo-para-preparar
 ---
 
 En el status `Listo para preparar`, ele flujo del pedido espera el catastro de la nota fiscal para la factura. El pedido quedará en ese status hasta que se realice su [factura](/es/docs/tracks/facturar-un-pedido), o sea, hasta que la nota fiscal sea insertada en el pedido.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) investiga este pedido en el Admin VTEX: envíale el número del pedido y Copilot verifica si hay una factura registrada y si el valor facturado cubre el total del pedido. Además, indica qué falta para continuar.
 
 ## Facturación en el módulo Pedidos
 

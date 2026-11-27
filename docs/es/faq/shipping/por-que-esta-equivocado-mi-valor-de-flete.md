@@ -4,7 +4,7 @@ excerpt: "Compare los detalles de la simulación de flete con promociones y adic
 id: frequentlyAskedQuestions_163
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:27.397Z
-updatedAt: 2019-12-31T14:25:32.472Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:32.472Z
 firstPublishedAt: 2017-04-27T23:01:43.243Z
 contentType: frequentlyAskedQuestion
@@ -34,3 +34,5 @@ Se calcula el valor de flete en base a varios factores: tabla de flete, adiciona
 4. Verifique si, entre las promociones, existe alguna con descuento en flete. Para verificar, basta que aceda la promoción del pedido y verifique el tipo de descuento.
 
 ![valortotal es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shipping/por-que-esta-equivocado-mi-valor-de-flete_2.jpg)
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el valor del envío: usando el ID del SKU y el código postal, Copilot simula el envío, verifica cuánto cobra la política de envío para ese código postal y revisa las promociones que modifican el valor.

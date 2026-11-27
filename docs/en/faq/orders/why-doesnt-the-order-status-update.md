@@ -4,7 +4,7 @@ excerpt: "Status can stall while waiting for marketplace payment, ERP handling, 
 id: frequentlyAskedQuestions_712
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:34.393Z
-updatedAt: 2019-12-31T14:24:04.173Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:04.173Z
 firstPublishedAt: 2017-04-27T23:02:34.080Z
 contentType: frequentlyAskedQuestion
@@ -16,6 +16,8 @@ legacySlug: why-doesnt-the-order-status-update
 ---
 
 This can happen in the statuses below.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate the order. Provide the order number, and VTEX Copilot will identify the stage where the flow stopped (payment, invoicing, handling, or ERP) and explain what to do next.
 
 ## Waiting for authorization to dispatch
 

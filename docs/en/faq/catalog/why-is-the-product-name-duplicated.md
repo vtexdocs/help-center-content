@@ -4,7 +4,7 @@ excerpt: "The storefront shows both names when the product name and SKU name are
 id: frequentlyAskedQuestions_380
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:22.480Z
-updatedAt: 2019-12-31T14:24:30.306Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:30.306Z
 firstPublishedAt: 2017-04-27T23:01:46.393Z
 contentType: frequentlyAskedQuestion
@@ -40,3 +40,5 @@ Or put only the extra detail in the SKU name:
 - If the **Product name** is Porta Canetas
 - and the **SKU name** is Azul
 - The storefront shows: Porta Canetas - Azul
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you identify discrepancies. Provide the product ID, and VTEX Copilot will list the SKUs and their names, allowing you to compare them with the product name and update the catalog information as needed.

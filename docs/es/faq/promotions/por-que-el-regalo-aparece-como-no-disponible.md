@@ -4,7 +4,7 @@ excerpt: "Un SKU de regalo todavía necesita precio, stock, imagen y status acti
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z
-updatedAt: 2026-06-22T14:24:16.980Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:24:16.980Z
 firstPublishedAt: 2017-11-06T13:58:18.517Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ Además, vale resaltar que existen casos en que el regalo es __removido__ del ca
 
 
 Para contornear esta situación, basta verificar los tres ítems en la plataforma, de la misma forma como si el regalo estuviera "indisponible".
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica el SKU del regalo: envíale el ID del SKU y Copilot verifica el status, precio, stock e imágenes e indica qué está impidiendo la visualización.

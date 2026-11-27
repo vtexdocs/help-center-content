@@ -4,7 +4,7 @@ excerpt: "En tiendas del CMS Portal (Legacy), bloquee las personalizaciones de f
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
-updatedAt: 2026-03-27T19:53:01.038Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-04-12T14:38:14.185Z
 firstPublishedAt: 2020-04-20T13:31:24.105Z
 contentType: frequentlyAskedQuestion
@@ -20,6 +20,8 @@ legacySlug: como-bloquear-personalizaciones-para-investigar-problemas-en-el-fron
 En este artículo, aprenderás a identificar el origen de un problema en el frontend. El primer paso es bloquear las personalizaciones de frontend. Con base en la respuesta del sitio web, será posible entender si el problema está en la información que VTEX provee de forma nativa o en la personalización de tu página.
 
 Para hacer esto, te mostraremos cómo remover las personalizaciones utilizando una herramienta nativa de Chrome, **DevTools**.
+
+> ℹ️ Si el problema continúa incluso con las personalizaciones bloqueadas, [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX abre un ticket con el Soporte VTEX que ya incluye el contexto de la conversación y las capturas de pantalla que envíes.
 
 ## Configurar DevTools
 

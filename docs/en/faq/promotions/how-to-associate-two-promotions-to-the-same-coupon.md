@@ -4,7 +4,7 @@ excerpt: "Use one coupon on two regular promotions: a nominal discount and free 
 id: 4xz45k6idaMF9nzTqOL9ik
 status: PUBLISHED
 createdAt: 2019-02-22T15:33:19.922Z
-updatedAt: 2022-04-07T21:03:35.235Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-04-07T21:03:35.235Z
 firstPublishedAt: 2019-02-22T15:36:33.971Z
 contentType: frequentlyAskedQuestion
@@ -43,3 +43,5 @@ Check below how to perform this process:
   ![Sincronizar promoções no mesmo cupom - 2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/promotions/how-to-associate-two-promotions-to-the-same-coupon_2.png)
 
 With this, the customer can get a full discount of both values before closing the purchase.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can help you review this configuration. It checks the promotions and coupons involved, including their conditions, discounts, and validity periods, and can create or update the coupon after you confirm the changes.

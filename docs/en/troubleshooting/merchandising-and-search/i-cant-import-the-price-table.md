@@ -3,7 +3,7 @@ title: "I can't import the price table"
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2024-11-08T18:50:45.313Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
@@ -31,6 +31,8 @@ After [importing a price table](/en/docs/tracks/exporting-and-importing-via-a-pr
 - `"Import Fixed Table Error: Invalid headers - SKU ID"`
 
 If you encounter error messages, incorrect price values, or other difficulties importing a table, check out the possible solutions below.
+
+> ℹ️ In the VTEX Admin, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) can investigate import errors. Provide the SKU ID, and VTEX Copilot will show the configured base price, list price, and fixed prices so you can verify what was imported.
 
 ## Solution
 

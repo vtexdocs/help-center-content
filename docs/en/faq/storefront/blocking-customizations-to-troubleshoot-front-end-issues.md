@@ -4,7 +4,7 @@ excerpt: "On Legacy CMS stores, block frontend customizations in Chrome DevTools
 id: 5c1a4bvVK8rAvKLczhkCnY
 status: PUBLISHED
 createdAt: 2020-04-20T12:59:14.576Z
-updatedAt: 2023-04-12T14:38:14.185Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-04-12T14:38:14.185Z
 firstPublishedAt: 2020-04-20T13:31:24.105Z
 contentType: frequentlyAskedQuestion
@@ -20,6 +20,8 @@ legacySlug: blocking-customizations-to-troubleshoot-frontend-issues-in-the-store
 In this article, you'll learn how to check the source of a frontend issue. The first step is to block frontend customizations. Based on the site's response, you'll be able to understand whether the issue originates from the information provided natively by VTEX or from a page customization.
 
 To do this, we will show you how to remove the customizations using a native Chrome tool, **DevTools**.
+
+> ℹ️ If the issue persists even with customizations blocked, [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin can open a ticket with VTEX Support, with the conversation context and any screenshots you provide already included.
 
 ## Configuring DevTools
 

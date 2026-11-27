@@ -4,7 +4,7 @@ excerpt: "Checkout hides a carrier when docks, sales channels, delivery type, or
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-08-25T15:13:42.026Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
@@ -18,6 +18,8 @@ legacySlug: why-cant-i-see-my-carrier-on-checkout
 Choosing a carrier is a required step at checkout.
 
 Sometimes a carrier does not appear. The six cases below are the most common. Before you continue, confirm that [carriers are registered](/en/docs/tutorials/carriers-on-vtex). All of these checks are in [Shipping](/en/docs/tutorials/fulfillment-logistics-vtex).
+
+> ℹ️ Before following the steps below, ask [VTEX Copilot](/en/docs/tutorials/vtex-copilot-in-the-vtex-admin) in the VTEX Admin to investigate the issue. Using the SKU ID and postal code, it simulates shipping, checks whether each shipping policy covers that postal code, and reviews docks and warehouses to identify the cause.
 
 ## Carrier type conflict
 

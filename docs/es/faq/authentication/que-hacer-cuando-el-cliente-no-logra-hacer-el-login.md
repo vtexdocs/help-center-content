@@ -4,7 +4,7 @@ excerpt: "Después de tres intentos de login fallidos, VTEX ID bloquea el correo
 id: 1DISDN4tFaSSccu2WK2amG
 status: PUBLISHED
 createdAt: 2017-05-09T13:46:57.095Z
-updatedAt: 2019-12-31T14:25:13.615Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2019-12-31T14:25:13.615Z
 firstPublishedAt: 2017-05-09T13:48:52.807Z
 contentType: frequentlyAskedQuestion
@@ -32,3 +32,5 @@ Pero como en VTEX usamos la misma plataforma para todos los clientes la lista de
 En el caso de que quede constatado que el cliente no recibe el email y no está en el primer escenario descrito arriba, es necesario ponerse en contacto con el soporte VTEX para solicitar la remoción del email de la lista de supresión.
 
 Desafortunadamente, Amazon no posee una forma automática para que esto se haga. El proceso todavía es manual.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica por email si la cuenta del cliente existe en tu tienda. Si es necesario remover el email de la lista de exclusión, abre un ticket con el Soporte VTEX con el contexto de la conversación.

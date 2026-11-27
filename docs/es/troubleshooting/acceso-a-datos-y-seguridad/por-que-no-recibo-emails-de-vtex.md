@@ -3,7 +3,7 @@ title: '¿Por qué no recibo emails de VTEX?'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-11-08T18:46:08.368Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
@@ -27,6 +27,8 @@ A través del [Centro de mensajes](/es/docs/tutorials/como-funciona-el-message-c
 - Logs de errores de importación de plantillas
 
 Si detectas que los emails de tu tienda no se están enviando de la manera adecuada, perjudicando la transmisión de información importante a tus clientes, aquí tienes algunas posibles soluciones para identificar el origen de este problema.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX investiga el envío de emails de tu tienda: Copilot explica las plantillas, triggers y variables del Centro de mensajes y, si los mensajes se marcan como spam, genera las claves DKIM de tu dominio de envío.
 
 ## Solución
 

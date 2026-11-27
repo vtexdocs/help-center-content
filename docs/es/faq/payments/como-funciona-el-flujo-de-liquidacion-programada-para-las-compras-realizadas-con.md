@@ -4,7 +4,7 @@ excerpt: "Con dos medios de pago, cada uno se captura según su afiliación y co
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z
-updatedAt: 2022-07-19T12:56:42.732Z
+updatedAt: 2026-11-27T00:00:00.000Z
 publishedAt: 2022-07-19T12:56:42.732Z
 firstPublishedAt: 2021-06-15T15:20:41.908Z
 contentType: frequentlyAskedQuestion
@@ -27,4 +27,6 @@ Si una compra se realiza con estas dos formas de pago, la liquidación ocurrirá
 Esto significa que, si una compra fue realizada el __15/04__, la liquidación de la tarjeta de crédito ocurrirá el __19/04__ (4 días después de la aprobación del pago).
 
 Y por su parte, la liquidación de la tarjeta de regalo se realizará automáticamente, tan pronto como se apruebe el pago.
+
+> ℹ️ [VTEX Copilot](/es/docs/tutorials/vtex-copilot-en-el-admin-de-vtex) en el Admin VTEX verifica la liquidación de cada pago: envíale la transacción y Copilot muestra el historial de liquidación además de las condiciones de pago configuradas en tu tienda.
 
