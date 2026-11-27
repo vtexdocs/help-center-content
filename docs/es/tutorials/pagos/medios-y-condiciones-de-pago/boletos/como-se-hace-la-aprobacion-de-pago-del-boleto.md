@@ -1,18 +1,12 @@
 ---
 title: '¿Cómo se hace la aprobación de  pago del boleto?'
-id: frequentlyAskedQuestions_489
-status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z
-updatedAt: 2025-04-28T14:34:42.833Z
-publishedAt: 2025-04-28T14:34:42.833Z
-firstPublishedAt: 2019-01-24T22:11:54.868Z
+updatedAt: 2026-11-19T00:00:00.000Z
 contentType: tutorial
 productTeam: Financial
-author: authors_84
 slugEN: how-are-the-payments-made-through-boletos-approved
-legacySlug: como-se-hace-la-aprobacion-de-pago-del-boleto
 locale: es
-subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
+hidden: false
 ---
 
 Existen dos posibilidades de configuración de boleto bancario: con las informaciones bancarias catastradas directamente en la sección de Pagos o pasando por un gateway de pago. [Vea nuestro manual de creación de boleto bancario](/es/docs/tutorials/como-configurar-boleto-bancario/).
